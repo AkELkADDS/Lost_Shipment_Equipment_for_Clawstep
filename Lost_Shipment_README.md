@@ -6,8 +6,4 @@ Nexus: https://www.nexusmods.com/baldursgate3/mods/16546
 
 AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5
 
-Git Folder: DGB_ARM
-
-MOD_SUBDIR_NAME="AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5"
-
 BG3_DATA="E:/El/Games/Steam/steamapps/common/Baldurs Gate 3/Data"
