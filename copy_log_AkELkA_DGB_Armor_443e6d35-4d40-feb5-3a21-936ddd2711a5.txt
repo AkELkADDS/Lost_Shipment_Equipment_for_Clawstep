@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5 
-   Mon 05/19/2025  4:11:36.31 
+   Mon 05/19/2025  4:12:01.83 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -122,7 +122,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:11:39 AM
+  Started : Monday, May 19, 2025 4:12:04 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -142,7 +142,11 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   209.8 k   209.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 19, 2025 4:11:39 AM
+
+
+   Speed :           214911000 Bytes/sec.
+   Speed :           12297.306 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:12:04 AM
 
  
 [DEBUG] Counting source files 
@@ -168,7 +172,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:11:41 AM
+  Started : Monday, May 19, 2025 4:12:06 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -192,9 +196,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           280901000 Bytes/sec.
-   Speed :           16073.284 MegaBytes/min.
-   Ended : Monday, May 19, 2025 4:11:41 AM
+   Speed :           140450500 Bytes/sec.
+   Speed :            8036.642 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:12:06 AM
 
  
 [DEBUG] Counting source files 
@@ -220,7 +224,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:11:44 AM
+  Started : Monday, May 19, 2025 4:12:08 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -244,9 +248,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           252969000 Bytes/sec.
-   Speed :           14475.002 MegaBytes/min.
-   Ended : Monday, May 19, 2025 4:11:44 AM
+   Speed :           126484500 Bytes/sec.
+   Speed :            7237.501 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:12:08 AM
 
  
 [DEBUG] Counting source files 
@@ -272,7 +276,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 19, 2025 4:11:45 AM
+  Started : Monday, May 19, 2025 4:12:09 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -282,7 +286,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		     599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\OneTimeRewards\OneTimeRewards.lsx  0%  100%  
+	    New File  		     599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\OneTimeRewards\OneTimeRewards.lsx100%  
 	    New File  		    3232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\05569e40-20c1-4cee-a7e8-9863904c228f.lsf100%  
 	    New File  		    1578	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\07a56828-6efc-4e74-8d2a-d4dd3c10a55d.lsf100%  
 	    New File  		    7175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\09181503-e981-43d3-8e76-7b96048af23c.lsf100%  
@@ -357,9 +361,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            22318666 Bytes/sec.
-   Speed :            1277.084 MegaBytes/min.
-   Ended : Monday, May 19, 2025 4:11:45 AM
+   Speed :            25752307 Bytes/sec.
+   Speed :            1473.558 MegaBytes/min.
+   Ended : Monday, May 19, 2025 4:12:09 AM
 
  
 [DEBUG] Counting source files 
