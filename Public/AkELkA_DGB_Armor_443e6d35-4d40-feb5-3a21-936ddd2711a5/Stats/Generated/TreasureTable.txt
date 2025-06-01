@@ -131,6 +131,14 @@ new subtable "1,1"
 object category "I_ARM_AkElkA_Metal_DevilsBlacksmith_C",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Dwarven_Plate_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Robe_Umberlee_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Robe_Shar_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Robe_Shar_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Robe_Weave_A",1,0,0,0,0,0,0,0
 new treasuretable "AkELKA_Chest_ChaosForge_Boots_A_TT"
 new subtable "1,1"
 object category "I_UNI_Daisy_Boots",1,0,0,0,0,0,0,0

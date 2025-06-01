@@ -614,5 +614,45 @@
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3f25f0bc-244e-485e-8b27-0a856c6de8f0" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Umberlee_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e256f25d-eb7b-4037-b08c-948cc51f41b9" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4f55ecab-3af2-4f62-822f-c3fa507a8cbf" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Shar_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f92e5521-93ba-4285-8425-450ef20a48e4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c87ca1a0-177a-434b-be4e-91089e5fad07" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Shar_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a317e5fa-f624-45b6-9d19-1e48c096a959" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0d25f72c-6f70-40fc-b0ce-ff2bef795018" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Weave_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="33e4acf1-bf82-4cf9-a314-b5e8391aba5b" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
