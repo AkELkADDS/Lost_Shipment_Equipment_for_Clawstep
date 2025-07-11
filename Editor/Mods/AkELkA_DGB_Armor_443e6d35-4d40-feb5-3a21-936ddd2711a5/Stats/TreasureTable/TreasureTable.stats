@@ -1294,6 +1294,39 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4a355df3-3628-4e6b-a3d9-2c4e7305300a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f6e063a0-b9af-4cc3-a729-26d79bf60254" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Boots_A_TT_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Boots_ShadowDruid_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4a355df3-3628-4e6b-a3d9-2c4e7305300a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0d1a6677-2082-465f-8bca-4f9cf73cb56e" />
+        <field name="Name" type="NameTableFieldDefinition" value="4a355df3-3628-4e6b-a3d9-2c4e7305300a_substat_1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Boots_Barbarian_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4a355df3-3628-4e6b-a3d9-2c4e7305300a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2a36440a-413b-4811-b165-e2830c28fde9" />
+        <field name="Name" type="NameTableFieldDefinition" value="4a355df3-3628-4e6b-a3d9-2c4e7305300a_substat_0" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkElkA_Boots_Metal_Platemail_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="6c0170b6-0ac7-47fa-8dab-d73d1de3a9ed" />
