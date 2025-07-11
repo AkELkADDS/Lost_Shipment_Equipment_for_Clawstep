@@ -242,6 +242,12 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Barbarian_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkElkA_Boots_Metal_Platemail_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Metal_Myrkul_Plate",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Cloth_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Cloth_C",1,0,0,0,0,0,0,0
 new treasuretable "AkELKA_Chest_ChaosForge_Glovebox_A_TT"
 new subtable "1,1"
 object category "I_UNI_Daisy_Gloves",1,0,0,0,0,0,0,0
