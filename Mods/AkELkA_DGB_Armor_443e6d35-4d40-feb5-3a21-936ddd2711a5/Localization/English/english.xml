@@ -121,7 +121,7 @@
   <content contentuid="h195b1780gc31fgdbbbg6623gfed86ae59fcf" version="1">Gortash's Boots A</content>
   <content contentuid="h815c5a2fg77c8ga937ga3edgfdcadf9c21e9" version="1">Stiffly-Shod Hide Boots A</content>
   <content contentuid="hd1c5b373g3802gbe34g58e8g7c0e608bd6dd" version="1">Isobel's Boots A</content>
-  <content contentuid="hcde682degdc13g1e76g044ag18abce19d7d4" version="2">Ketheric's Boots A</content>
+  <content contentuid="hcde682degdc13g1e76g044ag18abce19d7d4" version="3">Ketheric's Boots</content>
   <content contentuid="hcddb89d0g01a0gdd37gddcfgbe00ec21e326" version="1">Light Leather Boots G</content>
   <content contentuid="h09d3f4b0gbc51gb3e7gc1bage1822f08fd62" version="1">Nightsong Boots A</content>
   <content contentuid="h63c2993egaa62gdd4bgf5e8ga7d36611e488" version="6">Metallic Bane Boots A</content>
@@ -135,13 +135,13 @@
   <content contentuid="hdc2ecd5dg28f7g3f4cgd284ge61760aa4a85" version="1">When worn, a subtle pressure coils around the calves - like the brush of tentacles or a thought not entirely your own. Some claim that wearing them too long causes dreams not your own… and hungers that are hard to silence.</content>
   <content contentuid="h3f69c016g7c23ga4e7g7727gbad866a75ff9" version="1">Wrapped in sun-hardened leather and bone-plated cuffs, these boots thunder across stone and snow alike, worn by those whose rage echoes louder than warhorns.</content>
   <content contentuid="h6c6d311cg86b9g9263g8149g6eca6480cd83" version="1">Boots lined with beast-fur and battle grime, built to trample snow, stone, and skull alike. Favored by highland raiders, these rugged boots keep the cold out and the blood in. The fur isn’t just for warmth-it’s a trophy, ripped from a slain winter wolf, still carrying the beast’s savage pride.</content>
-  <content contentuid="h19f34eadg73fag78a3gc9abge29dbf83ae12" version="1">Boots stollen from undead elf. They lost all of their former power</content>
+  <content contentuid="h19f34eadg73fag78a3gc9abge29dbf83ae12" version="2">Boots stollen from undead elf. They lost all of their former power</content>
   <content contentuid="h2dad60b4g4bb6g2b1ag216eg02f6c95a93af" version="2">Githyanki Half Plate Broken</content>
   <content contentuid="hb79ddd8dg0cd1g55dagdc8fga5a0872144ca" version="2">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
   <content contentuid="h5c4796cdg8f53g3911gc746ge125b7870fb3" version="4">Unwanted Masterwork Scalemail A</content>
   <content contentuid="ha1603d48g04bcg5febg560cg0fe206ed680b" version="4">Nothing stings the master blacksmith more than a cancelled commission - not even molten iron. This mail is engraved with the mark of a devillish forgemaster, as well as several curses stamped out in Infernal, and hums with diabolic magic.</content>
-  <content contentuid="h6af78c09gd552g2a07gfd06gfa22e8e291d7" version="3">Unwanted Masterwork Gauntlets</content>
-  <content contentuid="hb3ebee6bg7343gee6eg44dcgc635c3bccd69" version="3">These gauntlets spark with unfinished, yet still potent devillish magic - indicative of a cancelled blacksmith's commission. </content>
+  <content contentuid="h6af78c09gd552g2a07gfd06gfa22e8e291d7" version="4">Unwanted Masterwork Gauntlets</content>
+  <content contentuid="hb3ebee6bg7343gee6eg44dcgc635c3bccd69" version="4">These gauntlets spark with unfinished, yet still potent devillish magic - indicative of a cancelled blacksmith's commission. </content>
   <content contentuid="h15f1e162g8307ga532g319ag9a65f8a63f31" version="4">Githyanki Half Plate Broken</content>
   <content contentuid="ha4e85f30g22f7g78d8g0e3eg7394692a643f" version="4">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith, broken, though</content>
   <content contentuid="h84f4acf7g755dg59bdg931ag68b45e71ff63" version="1">Githyanki Half Plate</content>
@@ -156,12 +156,12 @@
   <content contentuid="hc6e59729geec8gb1a5gc8cag719168cf632d" version="4">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
   <content contentuid="h8c4ec8b0gb39bga813gb240g239a2f796400" version="5">Guardian armor</content>
   <content contentuid="hc7ea5f94g9a44g56fdg98d0g3ae967784a10" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
-  <content contentuid="hadb9b335ge7f5g3917gf6e5g5c2d422fc8cf" version="5">HalfPlate decorated armor</content>
-  <content contentuid="ha89592a8g9919g9f02gda16gb34074d4aae2" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="hadb9b335ge7f5g3917gf6e5g5c2d422fc8cf" version="6">HalfPlate decorated armor</content>
+  <content contentuid="ha89592a8g9919g9f02gda16gb34074d4aae2" version="6">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
   <content contentuid="hcbc8e35eg39d2gfc51g0866g5df9a00086eb" version="5">Dwarven plate armor</content>
   <content contentuid="h7fe7cf23g77f9g4e30gf8ecgfee0d397bcb9" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
-  <content contentuid="hf2e33f5dge37bga290g9e6dg5348bf3f52b3" version="6">Umberlee Robe A</content>
-  <content contentuid="h7ee872cagea16gdd61g3ef4g1a18b37724fd" version="4">Robe of the beach queen follower</content>
+  <content contentuid="hf2e33f5dge37bga290g9e6dg5348bf3f52b3" version="7">Umberlee Robe A</content>
+  <content contentuid="h7ee872cagea16gdd61g3ef4g1a18b37724fd" version="5">Robe of the Umberlee follower</content>
   <content contentuid="h246b4332gf51ag067dg514eg2d3b1a97aafe" version="5">Shar Robe A</content>
   <content contentuid="h4c8aaf9dg769cg7498gd013g81c0cef6da0b" version="5">Robe of the Shar follower</content>
   <content contentuid="h376d4a92gc1c4gf545g35f7g0d597f050cd5" version="2">Shar Robe B</content>
@@ -175,4 +175,131 @@
   <content contentuid="h2e097e12g15e1g0c65gd33cg596aaf61f9de" version="3">Metallic Boots Myrkul Plate</content>
   <content contentuid="h4a7b75b6g1cf7ge196g0365g5bbc74613a13" version="3">Cloth Boots B</content>
   <content contentuid="h05cc3272gff08g7824g9fc7gb1c08a44e830" version="2">Cloth Boots C</content>
+  <content contentuid="hff901ed6ga75cgfe72gc3c5g507eea5c2d74" version="4">Hide Druid Armour</content>
+  <content contentuid="h4982b9a0gf327g44f8gb9fcg0f963062f15a" version="4">Leather armor with decorations</content>
+  <content contentuid="ha0dd4d20ga9e3g674ag1efdg3f33e81af244" version="4">Hide Armour A1</content>
+  <content contentuid="h255d31ffg3b6ag422fga5b9g58ed1825adf0" version="4">Leather armor with decorations</content>
+  <content contentuid="hb52987e2g08edg229eg223fgac934150d6f9" version="3">Hide Armour A2</content>
+  <content contentuid="h159674efgf1e9g2f36gf8abgb3c02cc09593" version="3">Leather armor with decorations</content>
+  <content contentuid="h7f1b87c3g45dbg6b59g1379g226de88b7d15" version="8">Barbarian Magical Armour A</content>
+  <content contentuid="h85113b38g2265g32b4gbb63gab2a906cc094" version="8">Leather armor with decorations. Looks like was magical once</content>
+  <content contentuid="h3396ad96g6d33gbc30g21acg74f92a4df4c1" version="6">Barbarian Magical Armour B</content>
+  <content contentuid="h854d74f4g8d45gd5d5ge754gbabb6e477e20" version="6">Leather armor with decorations. Looks like was magical once</content>
+  <content contentuid="h16bbd566gf65egddf2ge322g26b7d6e002d6" version="5">Barbarian Magical Armour C</content>
+  <content contentuid="heda78956gfe89ge0d3g4840g5f5ff19fd5ba" version="5">Leather armor with decorations. Looks like was magical once</content>
+  <content contentuid="h9ab261e7gcbd5g7cb7g938cge651e1795de2" version="7">Barbarian Magical Gloves A</content>
+  <content contentuid="h529fb058g0126gb8b4g4d57gdd26c0e3f765" version="7">Looks like was magical once. </content>
+  <content contentuid="hd3535ee9gab95gb81fg8b62g3c3df603f710" version="3">Barbarian Magical Gloves A</content>
+  <content contentuid="haac19db4gd5e9gf563gc58bg39f7f11ff244" version="3">Looks like was magical once. </content>
+  <content contentuid="h638eae4bgc477gfb22g8c82gbc67a879f1b2" version="3">Barbarian Magical Armour D</content>
+  <content contentuid="h1e20bfdcg9a92g0db9gcd04ge0588e4491fd" version="3">Leather armor with decorations. Looks like was magical once</content>
+  <content contentuid="hc8a199fdg4523geb00g3295gff66aaf95b16" version="4">HalfPlate Gloves</content>
+  <content contentuid="h58f8250agb66dgc841gf7e2ga2207d347bf8" version="3">Crafted from layered steel plates over a flexible leather base, these gloves offer solid protection without sacrificing too much dexterity. The segmented design guards the knuckles and forearms while allowing the wearer to grip weapons and tools with ease.</content>
+  <content contentuid="h071cb84cg7c4dgc61eg9b0bged70857bab8b" version="4">Moonmaiden Robe A</content>
+  <content contentuid="h2d34a18cg26fag0b9bg5c67g00cef52795d7" version="4">Robe of the Moonmaiden follower</content>
+  <content contentuid="hc54136aagccd4g98b7g66ddg307812c9f1f4" version="2">Moonmaiden Robe B</content>
+  <content contentuid="ha2234dfdg0693g65abg4f30g42e45d5674fa" version="2">Robe of the Moonmaiden follower</content>
+  <content contentuid="h5e1359fdgd340g4766g7922gcb3087e32e80" version="4">Infernal Robe A</content>
+  <content contentuid="hf5959bd1g8554ge043g7808g672c93eed965" version="4">Robe touched by a fiend</content>
+  <content contentuid="hb57d3e69g4768g0632g8a72gc93ec89c359f" version="2">Moonmaiden Robe C</content>
+  <content contentuid="h79e7eee3g66afg2591g467cgbf0b727e49be" version="2">Robe of the Moonmaiden follower</content>
+  <content contentuid="h5a82e5e1gf20dgf55eg6458g97a83beac61b" version="4">Moonmaiden Robe D</content>
+  <content contentuid="hc0833d68g761ag3a8ag5ee8g5fe035cccd3d" version="4">Robe of the Moonmaiden follower</content>
+  <content contentuid="h1f6c1a42g9795g07d7gf195gab51ebcd806e" version="5">Ketheric armor</content>
+  <content contentuid="h093d5df5g5395g4cf5gc598g964b435876a9" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="ha4d28c8fg228cg266fg5e33g2c01e5da39cd" version="3">Ketheric armor without shoulderpads</content>
+  <content contentuid="h2d47c56fgb643g7842g00a7g9fa494f9f7df" version="3">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="hc898b463ge325g12dag14d1ga7afa6119afd" version="2">Leather Armour A3</content>
+  <content contentuid="h930967bfgbc5bgadebg2a6cg572942ff2899" version="2">Leather armor with decorations</content>
+  <content contentuid="h8764b417g57e5g0bd3g0229g88c60b1c0779" version="5">Druid Robe C</content>
+  <content contentuid="h9b8b929cgdb7cgf8fbgb28cg55d97ca6fd09" version="5">Robe of the Sylvan follower</content>
+  <content contentuid="hbc440721g4782g8600g9732gcb7d17613e9e" version="4">Druid Robe B</content>
+  <content contentuid="h9f71ddbagf81cg1a22g833fg01ffd315725a" version="4">Robe of the Sylvan follower</content>
+  <content contentuid="hd41fd68cg3bebgb2b5g37b3g645388a87e94" version="4">Bandit's Armour A</content>
+  <content contentuid="h3913fe70ge6bcg9b71gd8eegcf40b2824046" version="4">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
+  <content contentuid="h149bc928gbb0cg0511gfd82g62b855fe60f0" version="2">Bandit's Armour B</content>
+  <content contentuid="h1d698e25g9a7ag7a0cged49g823582d5b479" version="2">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
+  <content contentuid="hd9e5e20dg17a7gcc3dg1970g64932591faad" version="2">Bandit's Armour C</content>
+  <content contentuid="hfb6f58a1gef94ge5b9ge4cag38592cc1129b" version="2">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
+  <content contentuid="hb9ae6edag1783gf623gde49gb1ee41d5d39a" version="2">Bandit's Armour D</content>
+  <content contentuid="haaf525c5g4d68gee4dgfe28g863ca6d4b14b" version="2">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
+  <content contentuid="ha940fd4bgc6f6gf107g16a8gad28d51edf61" version="2">Bandit's Armour E</content>
+  <content contentuid="hb5d07e0fgefe5g199eg9333g1b1d77a9fe35" version="2">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
+  <content contentuid="hc829049egb70cgc27bgddadg4be94dee8299" version="2">Bandit's Armour F</content>
+  <content contentuid="h9a497f41gcbc8g0d6cgf5b8gc61254eaf046" version="2">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
+  <content contentuid="h68ff533dg0742gf070g3b13g2268db35ad2f" version="6">Astarion's Leather Armour</content>
+  <content contentuid="h47aff943g3187gd1f9g0120g550809c25a7f" version="6">Was magical once</content>
+  <content contentuid="h9e6b5641ge902g8803g34c4g38c7d47e634e" version="3">Bard's Garb</content>
+  <content contentuid="h444b7329geff9g2750g18e9g45e82ce4c6a0" version="3">Cloth Magic Armour A</content>
+  <content contentuid="hdb537dd8ge4d4g2eaeg539eg1bcab5915056" version="3">Leather armor with decorations</content>
+  <content contentuid="h3a0479d9gc8dbgca02g448fgd0bda3e3f1bd" version="5">Cloth Magic Armour B</content>
+  <content contentuid="h7c9b7d3dg535eg5f4agc37dg0e44ba1d8c4b" version="5">Leather armor with decorations</content>
+  <content contentuid="hd5ddb6dbge7c8g5cb1g336dg3a03f217cdb4" version="4">Monk Magic Armour A</content>
+  <content contentuid="h3a29ee26gfbe2g2624ga0dcg45c89aad3e00" version="4">Leather armor with decorations</content>
+  <content contentuid="ha244eb7dg3e4cgcf87g0f23g99c2da6c2568" version="2">Monk Magic Armour B</content>
+  <content contentuid="h4e83c6bbgfc84g9b8agfff8gefefcff16f8f" version="2">Leather armor with decorations</content>
+  <content contentuid="h51273eabgbc70g81f0gf9dcgb03d0ed47d1b" version="3">Studded Leather Armour with scarf belt +1</content>
+  <content contentuid="hbe6e0fb5gb991g5aa9g7311g8220d45bdbf6" version="3">This armour is strong enough to stop a dagger and light enough to escape whatever weapon follows it.</content>
+  <content contentuid="h300831f3g04b4ga2beg993fg4b82018e76d9" version="2">Studded Leather Armour B</content>
+  <content contentuid="h08214d51g05a3g2380g20f4g2f1a46cdc696" version="2">Shaped, hardened, and reinforced with metal studs, leather is the armour of choice for those who value agility as much as protection.</content>
+  <content contentuid="h12817cd6g1ba1gb05dgb1ffgbfbc2b2474ab" version="1">Studded Leather Armour C +1</content>
+  <content contentuid="h6177e34fg6aadgf8c7g2173gab3381d1dd42" version="1">This armour is strong enough to stop a dagger and light enough to escape whatever weapon follows it.</content>
+  <content contentuid="h57a3ace1ga56eg35beg8f57g283637d5cd28" version="2">Githyanki Breastplate</content>
+  <content contentuid="h9aa1dfd6g09d7gad61g586eg97accb99e1a3" version="2">Githyanki actually do have a comedy culture, and it's this: they attack anyone who makes them the butt of a joke. </content>
+  <content contentuid="hf924d440g60d2gf373g3825gb897be52a888" version="2">Githyanki Half Plate</content>
+  <content contentuid="hee396cdbgc87bgef9eg48cag1a16ca3b0341" version="2">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="he3be9ba6g11c1g3886gcfa0g213658436db6" version="2">Githyanki Half Plate</content>
+  <content contentuid="h93d47cfbgbb8cgd7dcgba2dg3bba1592fc74" version="2">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="he01ce0c4ga5a0g0294g6e2cgbfa57d3b9bfb" version="2">Githyanki Half Plate</content>
+  <content contentuid="h8369c023g5ddfg646cgcd43g459191f88d1e" version="2">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="h1b6ff0c1g0ecagf4b6ga921g148257ff3084" version="2">Githyanki Leather Half Plate</content>
+  <content contentuid="h61d3dc3bgc237g15bfged43g455a02ac1c7b" version="2">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="h63ab2a3cg6e62g52e7g83f6ga314156b1cd0" version="2">Githyanki Half Plate</content>
+  <content contentuid="h8c5c71f8g87f9ga2acg1a1bg4834f7b5e60e" version="2">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="h5f5124d1g5613ga78eg2641g33298087a7e9" version="2">Breastplate +1</content>
+  <content contentuid="h1c1cdc89g074dg317fgc2d6g2007c2e57213" version="2">This breastplate is crafted in the specialty style of a mysterious armourer in Amn known only as 'The Tailor.'</content>
+  <content contentuid="h5c65af41ga4ccg0994g0037ga2c575bbac46" version="4">Githyanki Breastplate</content>
+  <content contentuid="h65793333g86beg2f68g17d7gb4c4527d9b3c" version="3">Githyanki actually do have a comedy culture, and it's this: they attack anyone who makes them the butt of a joke. </content>
+  <content contentuid="h9599c28eg95a7gfa4dgf7cdg6a2780f8532d" version="4">Githyanki Half Plate</content>
+  <content contentuid="h7642a7b0g9cd1g93d2g1708ga89fe90c8000" version="4">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="hc0b76b9bg4c06gbc21g2b50g070d35186130" version="2">Githyanki Half Plate</content>
+  <content contentuid="hafb6e2f7gb97cg4634gca7bg7bff52516029" version="2">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="hd77f9728gc1d3g53f1g8e0dg6ea038d3fb17" version="3">Githyanki Half Plate</content>
+  <content contentuid="h164b36b2g7d6dg60a1g1647g188aebde83a9" version="3">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="hcd70f2eegce8dg3a29g12c6g86cb124eb91c" version="3">Githyanki Half Plate</content>
+  <content contentuid="h97588e83g9687g2b62g3421g4341f7dcf3f5" version="3">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="ha66c8d9fg7017gb9a4g2b7eg5c131e52cda8" version="3">Githyanki Half Plate</content>
+  <content contentuid="h1ad44782g2edfg089bg273ag2ff5d0eda415" version="3">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
+  <content contentuid="h496900f0g2645gf7d4g81d4gdbae4468d738" version="3">Simple Robe</content>
+  <content contentuid="h784d35f9gfd33gd7acga4e7ga3338f724917" version="3">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h765b953bg0b77g22efgf39cgfcd2b233518b" version="6">Elegant Robe Close Quater</content>
+  <content contentuid="h29cde0d2g8db9g2af6gb67bge25188f5fc47" version="6">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h43aaa45bg2dc6g7387g92dfgccab550a1394" version="6">Mage Robe Satin</content>
+  <content contentuid="hcf202180g1fb2g0a9agae03gd97d12166c0c" version="6">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h55d9d9c2ge512g730agf84bg332dffa846e1" version="5">Mage Robe</content>
+  <content contentuid="ha7d32f4bgd8eagb914geb7cgc1b51e9b3e13" version="5">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="hee2ab08dg7d50gfc35ga542gca45e9b4aaf1" version="4">Sun Robe</content>
+  <content contentuid="hca51205cg540cg94f6g212bgf53f6224dc75" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h121176f4gcbe2ge39cg98afg55c62f5498d5" version="2">Elegant Robe</content>
+  <content contentuid="h315a6478g2152gd850gb549g6ff2c4ae395d" version="2">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h524f62aagfdc2g0ee2ga286g3d9c48b7198f" version="4">Undead Robe</content>
+  <content contentuid="h6dd3a867gcc39g8e15g8ac7gf8d21591f69e" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="hd9e8efd4gff4bga4ebgab36ged613bae8b59" version="4">Wizard Robe</content>
+  <content contentuid="hb5336b59g000fgc772g6194ge0a00d4fb1bd" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="hbc34388cg87a8gc27agb805g4afdc29ae407" version="5">Wizard Robe</content>
+  <content contentuid="h6046fef4g347bgb202gf2e9g4dfba5aef61d" version="5">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h877667a3gb78dg1a56g1578g2983292ae0ca" version="4">Wizard Robe</content>
+  <content contentuid="h2f2f6642g8fd3g89b1gfe41g8aa7d3f13919" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="hef365355g2f58gfa51g23dage65e34545828" version="3">Spider Queen Robe</content>
+  <content contentuid="h8f9edda7gd7c2g6fecgb55fg4091223e2653" version="3">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h4c4e94efg2cd9g0b01g488age350e1b79076" version="4">Lorroakan Robe</content>
+  <content contentuid="hdf016070g5b97g911bg076fgee7d874fdf70" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="hc5a9226cgcaa3g37c6g600dg900a133195f1" version="4">Lorroakan Robe</content>
+  <content contentuid="ha48b5921g3d85g5e87gb950gdc283caba127" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h70cd1726g9389g220agff43g4ce6fd594e36" version="4">Frost Robe</content>
+  <content contentuid="h81beeb1ag6321ga05dg9db7g208212933cb4" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h1a8c71cdg2b04g0dedg235ag0d574e488f66" version="4">Fire Robe</content>
+  <content contentuid="h1114e0ceg58a9gec47g01deg56734fa1c7c9" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h72d4d4f9g9ad4g6388g0a52g5eb68cab0268" version="4">Spell Resistance Robe</content>
+  <content contentuid="h5ba074b3g65a3g5cb5g971bg79e9a28a4be6" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
 </contentList>

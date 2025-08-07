@@ -101,7 +101,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="45a67db2-9621-43dc-9b29-83ac03f3a614" />
         <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Robe_CultOfAbsolute_A" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c817dc35-edff-484b-b8ff-ab1ce8ac6182" />
       </fields>
     </stat_object>
@@ -109,7 +109,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="3545da12-d2a0-4fe0-ba91-356f46dd68fe" />
         <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Robe_CultOfAbsolute_B" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="21bc20de-1f12-4ed4-809a-9a844c1de7bc" />
       </fields>
     </stat_object>
@@ -117,7 +117,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="f66b2cc6-a5db-4c2e-b725-600956ea746f" />
         <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Robe_CultOfAbsolute_C" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4104924a-85e3-4a5e-bcb8-f64105e2221b" />
       </fields>
     </stat_object>
@@ -448,7 +448,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4426b1e4-e098-4d39-ad31-1a6713766887" />
         <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Boots_Barbarian_A" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Hide" enumeration_type_name="ArmorType" version="1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9354ab26-57ec-4647-9a07-03cc6e3e1100" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
       </fields>
@@ -721,6 +721,885 @@
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1cc75b66-daad-4f35-a132-a50d7ba8de57" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a44605ef-aaf1-40bd-8a00-4c6e27fa297f" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Hide_Druid_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Hide" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7c32d3c0-a99d-47e5-a41e-233b4e2c39bf" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="54dd299a-9116-46f0-abbe-95ad430f0142" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Hide_Armor_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Hide" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="85bc15f7-4cc0-486b-8ee6-ec273ff7b2a3" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bce84c22-9e21-4617-a739-0bed0ae1b560" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Hide_Armor_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Hide" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="650014f3-1347-4a00-9062-9511cad10fe7" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="81aeec4b-5587-48bd-817c-224cd3ddfe31" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_BarbarianMagical_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="15153792-669f-498c-8c89-abed2984777f" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6df9b4d3-3e2d-409b-8555-4a6adb93029a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_BarbarianMagical_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c7ef73d6-4a95-4d72-bd0b-803d2870509f" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2e42e9a0-eb9d-4a1c-8a29-87d44e60712e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_BarbarianMagical_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9914fc60-f3ec-4dcc-bde6-7c5b9a3637f9" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="48e2ad83-1a2d-4f08-a9a8-dff213105321" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Gloves_BarbarianMagical_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="880a9164-bffd-4b8e-a3c2-6883e546c4f5" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5ddd914b-7e48-4c3d-97b0-d927ace3dd3e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Gloves_BarbarianMagical_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4ef5574e-6c1f-41ff-aa68-9b3dbef23fd0" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b84be724-da8b-4702-b3ba-ca44cee2c7f8" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_BarbarianMagical_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8b1a0b15-fcd5-4df6-badb-0d6ac9ba1c61" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6d8eaeb4-ca68-4e73-adcb-3388514532b9" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5a3bd69b-aaf3-4915-bd11-cc137fdb4ac2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Gloves_HalfPlate_EndGame" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="36ea3296-fa19-4022-a056-d9f02a70cc78" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9d58f8e1-922b-4cb1-9ed6-65047909dbd9" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="RollBonus(SavingThrow, 1, Strength)" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="5" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6b7ab473-7632-4c44-a918-3c9fbcbce218" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Isobel_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f5ea436f-ab6a-4519-b8aa-6817655200f7" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="53668264-3bbd-42fa-9930-82c407939200" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Isobel_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fe0b07ae-6c9d-4cc8-89c2-9117a0e6cd20" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f28b044d-553a-4535-b5fc-352d90194d7b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Isobel_Infernal_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2b1c7f69-ec12-453f-8950-c66d4e717b6c" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5eceb261-2d17-4bd3-a591-0d93d838145c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Isobel_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3cb134c1-5c70-4696-8432-7587748c1ab6" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="00ff7aea-02db-4ee1-8886-0bc135e45b65" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Isobel_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="77026e76-47c8-4ca7-b066-eff688e825d1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6b9d20f6-dcd0-454d-8c9c-803d88103650" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e12504d6-3725-4968-9c0e-03da58142b48" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Ketheric_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4c7055e7-f235-4e7f-91f3-eef409234e4f" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="25d12a8f-fd08-4c2a-bdb6-01f92421e7fe" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Ketheric_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7c6c961f-9752-4782-8261-2591da81abb4" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0ec6b672-e00b-4ce3-8747-7a5de9e02c1f" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Leather_A_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cc76b8a8-bd13-479b-88ce-1a8b78206abd" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="63039b7f-3d95-4d58-abae-7706b908395d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Druid_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c9789637-9678-46f0-82d2-7ae516afc0ce" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="eb542c38-04e4-491b-97b8-7002aa497866" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="54309ef9-7a1a-4814-9b30-23f864c6eb77" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Druid_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c9789637-9678-46f0-82d2-7ae516afc0ce" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="510542fa-f1fc-49c1-965b-b44eac6dda44" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f4333a98-f3fd-430e-b3c3-63b732fe7ecc" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bandit_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="51386cdb-8a69-4772-a487-9495c484e81d" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="536fe5c7-44a5-43a8-b950-fd98fc984bef" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bandit_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="723bfe6f-9e29-44a2-9683-ec88bc4a2fa1" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="62b71151-b13d-4300-bd14-b9926985cdab" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bandit_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0ccb264f-ea15-4276-8a12-8a5ecdb05f23" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="72917692-ef50-4c79-90b8-a3925b80d7e3" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bandit_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d7e2465e-0dba-4b4c-9a71-a83d2f8bed7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2421de6a-7844-43e9-af13-f7a2a896af54" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bandit_E" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="05588ab4-3fea-4376-b15c-b092dcd14e67" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a70d7df8-3d68-4f8f-b9a7-245a6e88cdf3" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bandit_F" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6b7403a1-c361-4aef-a3f1-27e6ce8be580" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6a72dca8-48f5-4468-8054-65627d6d9ba2" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Astarion_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bf1cd819-719e-4164-8f62-e792a0902b94" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5d669a52-5228-4034-a506-b2d766963d12" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Bard_A" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="da5af962-35c0-42ff-8b1a-f3f13432f625" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="36f76c5b-76ff-4f6c-a8b6-6e415f4d4856" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Cloth_Magic_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0a732a92-06e7-45b4-83e6-956c889f680d" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="177da644-069a-4cc9-847f-0a93c75267c7" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Cloth_Magic_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="792403ef-d7ad-4003-8795-b8ac95e44cbd" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3cbb4617-aa81-4f05-9d76-c037209fc47d" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Monk_Magic_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="74a46c28-c59f-4d8e-8bda-df281faf644d" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="79a1bcf3-8127-4e20-a878-227072dc500f" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Monk_Magic_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="10e61fa7-3852-4061-be8d-33f67af0eb11" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3985fda1-e451-427f-ba28-e2dbacc1d397" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_StuddedLeather_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="12" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="StuddedLeather" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5770c2c6-5b14-4070-8bb1-f68d56786acb" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5.85" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="af19cf7e-afac-4e5b-882d-403e848afc47" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_StuddedLeather_A_1_Scarf" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1d596e6a-31b4-4668-a371-66b4871722c1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc37892a-dcfb-4682-a612-0852fe5366ae" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Breastplate_Githyanki_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="14" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="BreastPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b4b6217d-c649-4712-8f6b-5571a4c55fac" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="9" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="5" />
+        <field name="Ability Modifier Cap" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4118db47-c328-4061-8869-a68915bcd778" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Githyanki_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c78266e5-8442-44bf-83ab-7e72b4050e65" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="15" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b736586d-e0a1-41d4-9a9a-01686052a8d3" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="12" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)" />
+        <field name="Ability Modifier Cap" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d3f2dc33-feda-4543-b6a5-b8dcb249f19d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Githyanki_B_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c78266e5-8442-44bf-83ab-7e72b4050e65" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="15" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3765ca96-b17c-49e1-9b26-9bdc5c507931" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="12" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)" />
+        <field name="Ability Modifier Cap" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="70bd8d4e-2b73-4bed-bcd4-037b84746b67" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Githyanki_C_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c78266e5-8442-44bf-83ab-7e72b4050e65" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="15" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="acb9c383-985c-438b-a949-9434f4cba972" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="12" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)" />
+        <field name="Ability Modifier Cap" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b9c05b95-215a-4819-9333-d3665d0290f6" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Leather_A_Githyanki_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c78266e5-8442-44bf-83ab-7e72b4050e65" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="15" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="620944ce-b5d1-43b4-a18f-663912b0aa15" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="12" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)" />
+        <field name="Ability Modifier Cap" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8339a39a-93b8-463d-8a2a-c1e677934739" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Leather_B_Githyanki_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c78266e5-8442-44bf-83ab-7e72b4050e65" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="15" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7283a054-dd1e-4c36-b6c8-6ea7fe298961" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="12" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(not HasPassive('MediumArmorMaster', context.Source)):Disadvantage(Skill,Stealth)" />
+        <field name="Ability Modifier Cap" type="IntegerTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f96f6913-4b25-423f-9b84-c6d4797751d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_A_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8106ccea-e25f-4e3d-bd8f-bba2009a9621" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e2d758e7-7424-4596-9107-475e724d728a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_A_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9553192f-bc17-4e48-8ffc-2472b3d2b551" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0ab14de2-bb35-419a-92bd-8fb8137d860b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_A_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="74001ec3-b8c7-4112-b662-8d3586fba5c3" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="405a7aed-eb3f-4eb1-a8fe-685ef899c10e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_A_3_Satin" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f4157ec8-b3a4-45dc-aad6-334b8998481e" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9b13d949-246e-4522-9f0e-3aa0d0dff628" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_B_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d46e66af-b91f-4a6e-9d86-b48bb3effdaf" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ca29bc6e-b7d6-4c43-a946-abc3980e3756" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_B_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d7e36fbb-beea-4f70-827b-a6186453f7ec" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="173a8ca3-6767-40a4-87af-207498b151d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_B_Undead" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e7abe885-6087-4eb0-b861-a8c0b071dbc2" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ca86eb95-15af-432c-8b1c-473d0a8689c9" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_B_Wizard" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6cfec122-ae97-4f70-b937-c22eaeaa04cc" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d9967c38-4acb-4fea-b77c-f4d9b51ca0d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="db58e016-9947-42fe-a864-d15924eb5128" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5eee5598-6204-4f2c-a2e3-c26be40e4305" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_E" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8c2f7b1e-2b22-4161-bc88-76bed19eb33c" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dc2a9f61-55b0-409c-be39-7ab09ccb8cf1" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_E_SpiderQueen" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="329f90d0-10bb-4d3b-8503-fab75f7d38a8" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="01402d3d-11a5-4b8d-8ecb-bbe8e49fc602" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Lorroakan" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="11eaea6f-68fc-4b1d-8992-b7a834654925" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="153a03c1-99e8-41b9-b5d4-970621b75215" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Lorroakan_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="803382dd-e365-4b0a-bfeb-3d749b0131ed" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ce8f0099-6d56-47a2-b99f-2f75fb310f6b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Fire" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ca5b1d66-53f4-4887-8e34-387f16f82976" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7943994e-1332-4aff-ae57-fbbb424e6e6e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_Frost" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="753172fc-2765-4e60-b7e8-669b5625dace" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6a22512e-b49c-4718-b38c-7e99e1699bfc" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Robe_SpellResistance" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="10" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3941ad31-de2d-4643-baa8-e999ad21d112" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4c5217d8-0232-4592-9e32-2fd729123f53" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
       </fields>
     </stat_object>
   </stat_objects>

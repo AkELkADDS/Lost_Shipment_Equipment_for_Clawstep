@@ -411,6 +411,17 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="05a6d30f-a02e-42d4-a181-fca42ab2232f" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_72" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Leather_A_3" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
         <field name="UUID" type="IdTableFieldDefinition" value="1fd6e646-6755-4357-bb93-97e506b174ac" />
         <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_28" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
@@ -422,11 +433,132 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5d12ccb0-fe91-4649-b2ef-5f7e698139c1" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_87" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_StuddedLeather_Body_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="02e8925d-4e6f-403f-9f43-df9ec1fdabc7" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_88" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_StuddedLeather_Body_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b45afccb-127d-4ea6-828a-705e3b704797" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_89" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_StuddedLeather_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ab1bbe59-f98a-41de-b59b-ebc3e6dc5a06" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_90" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_StuddedLeather_A_1_Scarf" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
         <field name="UUID" type="IdTableFieldDefinition" value="4eb2e265-e480-4552-a3d6-9e4270e3f436" />
         <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_29" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Hide_Body" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2986576f-18c0-4bf2-b332-7d6404a5d299" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_58" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Hide_Druid_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c9b55eb8-85e1-4792-9736-08c74dd5a3e6" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_59" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Hide_Armor_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0c769ed5-e4d5-4720-b092-016802be0d38" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_60" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Hide_Armor_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2c8f7bfd-871e-4048-884c-3416b3c7dbb8" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_61" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_BarbarianMagical_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7496a860-ec6e-4b79-925b-c8d6e3b4ea57" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_62" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_BarbarianMagical_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="40ba9e62-a86b-400f-bf8e-eff261d9483c" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_63" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_BarbarianMagical_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0c580957-59af-4c82-ab6d-a64d169e5417" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_64" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_BarbarianMagical_D" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -757,6 +889,479 @@
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Weave_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d51dcec5-f354-4e59-8f65-b7966894e789" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_65" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Isobel_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="60dd624c-5a29-4ea7-af54-f126a32432dd" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_66" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Isobel_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9a767ba0-e9ab-4882-9671-b422f3760b26" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_67" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Isobel_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="29920092-fced-4f4a-94c1-254a6c472da6" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_68" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Isobel_D" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a5d8c6f7-39d3-4893-9a67-1d4d5e80399b" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_69" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Isobel_Infernal_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f4892fd8-a261-425b-a7dc-bb49ca5646ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_70" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Ketheric_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3bf37b92-93f9-4bb7-a09a-02e6812cc966" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_71" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Ketheric_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1282b879-165b-470c-8c74-f7006f90487b" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_73" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Druid_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d83e9bb3-3d92-4d33-ba05-1b273980b6e7" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_74" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Druid_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1f71a577-ab75-437e-a170-2bb8b41fcb82" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_75" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Bandit_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="79335777-39f5-444e-a18d-b0ec054327cf" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_76" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Bandit_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b7cd26cd-ccf1-49f5-829e-8b1730fab729" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_77" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Bandit_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bf015049-17c1-4a5e-9b24-1810e9ea2567" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_78" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Bandit_D" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1fb00163-76e5-4236-ab37-3b37303f18fe" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_79" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Bandit_E" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="165f5a52-e188-4ecf-9ce0-5ed9820c27a9" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_80" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Bandit_F" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="91efca3b-958d-40ed-9674-4ae59b22bfa7" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_81" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Astarion_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="750f7322-54de-4a43-9875-a42c9e61e299" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_82" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Bard_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6c8c5d62-e434-4639-836f-63ca6bf86c83" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_83" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Cloth_Magic_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d025ae17-906c-415a-82aa-979371d56c64" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_84" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Cloth_Magic_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b3a8ad2e-1f62-4003-b456-4fe72e908b11" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_85" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Monk_Magic_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="deafe1f3-f921-4edb-91f0-dcc78c3c9737" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_86" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Monk_Magic_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="33d04963-5a39-4859-9fe0-9840ec02bb2f" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_98" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_AkELkA_Breastplate_Githyanki_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4ba3905b-054c-49b8-bde2-66797bb37ca1" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_91" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_HalfPlate_Githyanki_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e18c76e4-45b1-4939-ba0f-1460ab708662" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_99" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_HalfPlate_Githyanki_B_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f8597b24-c3bf-4061-8795-ca008a844a86" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_100" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_HalfPlate_Githyanki_C_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba007577-300d-4c4b-bfd9-48ee290ff2e8" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_101" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_HalfPlate_Leather_A_Githyanki_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ced05655-7667-4a27-9daa-9b4e7b435961" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_102" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_HalfPlate_Leather_B_Githyanki_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="16728f99-a1c6-4930-a2ff-f7c1cdcfb53f" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_92" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_A_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c7925598-bb27-40ee-817e-f31d8025fa21" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_93" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_A_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b7c67d80-10d0-43b5-bdf3-b4416adb42d8" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_96" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_A_3" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="088427f3-c1a7-4921-92bb-671514f47fcc" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_97" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_A_3_Satin" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3a880d3d-f547-4958-aeb1-8ac4d63a63d4" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_103" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_B_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dbcb53b3-581e-4106-b5ef-390849f51c1f" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_94" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_B_2" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6990b790-b1b2-4fa9-962f-8f64459c9d32" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_104" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_B_Undead" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4a126841-7508-4118-bbbc-4607a2c740c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_105" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_B_Wizard" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f8ab8b1d-cc74-4681-9831-1d9784bc0213" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_106" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_D" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8f3d894d-7648-4db0-a50a-15fe9b67bc40" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_95" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_E" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d6dfa8ea-522f-4638-b52c-09689b05e989" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_107" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_E_SpiderQueen" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0dd5037d-c05d-4665-be1a-3f26793225d8" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_108" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Lorroakan" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1058c548-acc1-43e8-b19b-2d7c1324e627" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_109" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Lorroakan_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5eca98e4-1afa-41fb-ab15-f5ce25f620b9" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_110" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Fire" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="28d7b4d2-4fd0-4c40-b0af-80e0b35ff1df" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_111" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_Frost" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="712381e9-63f2-4f8a-94a3-c4d492421ecb" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_112" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Robe_SpellResistance" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -1462,6 +2067,39 @@
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Gloves_Leather_Minsc" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6c0170b6-0ac7-47fa-8dab-d73d1de3a9ed" />
+        <field name="UUID" type="IdTableFieldDefinition" value="68af5aaf-0891-48b1-9bec-bfbc4298b5c1" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Glovebox_A_TT_substat_1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Gloves_BarbarianMagical_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6c0170b6-0ac7-47fa-8dab-d73d1de3a9ed" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5b9fe44a-acaa-4bc3-a6ce-6eb0091fad93" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Glovebox_A_TT_substat_2" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Gloves_BarbarianMagical_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6c0170b6-0ac7-47fa-8dab-d73d1de3a9ed" />
+        <field name="UUID" type="IdTableFieldDefinition" value="de1b64bb-5064-4bbd-9e5a-7b5fead374b1" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Glovebox_A_TT_substat_6" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Gloves_HalfPlate_EndGame" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
