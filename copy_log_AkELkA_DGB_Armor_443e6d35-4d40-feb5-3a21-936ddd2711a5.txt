@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5 
-   Thu 08/07/2025  7:58:35.60 
+   Thu 08/07/2025  8:00:42.74 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -195,7 +195,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, August 7, 2025 7:58:39 AM
+  Started : Thursday, August 7, 2025 8:00:45 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -219,7 +219,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           214911000 Bytes/sec.
    Speed :           12297.306 MegaBytes/min.
-   Ended : Thursday, August 7, 2025 7:58:39 AM
+   Ended : Thursday, August 7, 2025 8:00:45 AM
 
  
 [DEBUG] Counting source files 
@@ -245,7 +245,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, August 7, 2025 7:58:40 AM
+  Started : Thursday, August 7, 2025 8:00:47 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -269,9 +269,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            54303625 Bytes/sec.
-   Speed :            3107.278 MegaBytes/min.
-   Ended : Thursday, August 7, 2025 7:58:40 AM
+   Speed :           217214500 Bytes/sec.
+   Speed :           12429.113 MegaBytes/min.
+   Ended : Thursday, August 7, 2025 8:00:47 AM
 
  
 [DEBUG] Counting source files 
@@ -297,7 +297,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, August 7, 2025 7:58:42 AM
+  Started : Thursday, August 7, 2025 8:00:49 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -323,7 +323,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           136377000 Bytes/sec.
    Speed :            7803.554 MegaBytes/min.
-   Ended : Thursday, August 7, 2025 7:58:42 AM
+   Ended : Thursday, August 7, 2025 8:00:49 AM
 
  
 [DEBUG] Counting source files 
@@ -349,7 +349,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, August 7, 2025 7:58:44 AM
+  Started : Thursday, August 7, 2025 8:00:51 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -507,9 +507,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            16876018 Bytes/sec.
-   Speed :             965.653 MegaBytes/min.
-   Ended : Thursday, August 7, 2025 7:58:44 AM
+   Speed :            36452200 Bytes/sec.
+   Speed :            2085.811 MegaBytes/min.
+   Ended : Thursday, August 7, 2025 8:00:51 AM
 
  
 [DEBUG] Counting source files 
