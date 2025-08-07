@@ -1602,5 +1602,98 @@
         <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fd17397a-e614-4f93-aef3-9ac77e09e0d6" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Orin" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="491d77f3-f016-4e33-9424-5a090e0999a2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="67105495-d652-4c00-a670-3453e752e331" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_RingMail_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04409c24-d4af-45ee-af4d-eec148223e1b" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="15" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fa6f25bb-1ef8-430f-9450-aa00afd08cfb" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="ARM_BodyAid_1_Passive" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4024ce6c-f02d-4d7c-8033-869ada06ef82" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4c19026f-19ad-4948-b2c9-55e606651f53" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_RingMail_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04409c24-d4af-45ee-af4d-eec148223e1b" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="eb45c1d3-ff71-43b6-9e22-27a00618e6f0" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="ARM_SuperiorMaterial_1_Passive;ARM_BodyAid_1_Passive" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="40150a0e-a5bd-49cb-9836-b79526047b0c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_RingMail_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04409c24-d4af-45ee-af4d-eec148223e1b" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d19375f2-531a-4d16-8ff7-e62d1e4428aa" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="ARM_SuperiorMaterial_1_Passive;ARM_BodyAid_1_Passive" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3d4fcced-1c72-4d90-a6cb-3f6fe038cbf3" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_RingMail_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04409c24-d4af-45ee-af4d-eec148223e1b" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f30a7876-2056-4942-a655-21f897f3906d" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Rare" enumeration_type_name="Rarity" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="ARM_SuperiorMaterial_1_Passive;ARM_BodyAid_1_Passive" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="182de996-058b-47bb-ae83-1007aefa47b7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_RingMail_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04409c24-d4af-45ee-af4d-eec148223e1b" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="15" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="23828e93-9f86-4b5b-b57e-a4601d196dba" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="ARM_BodyAid_1_Passive" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4024ce6c-f02d-4d7c-8033-869ada06ef82" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a063864f-d699-4f87-b16b-1d6e1057c09c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_RingMail_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="04409c24-d4af-45ee-af4d-eec148223e1b" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="15" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4c4163a9-972c-44ec-8e5c-f398fe98532a" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Uncommon" enumeration_type_name="Rarity" version="1" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="ARM_BodyAid_1_Passive" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="4024ce6c-f02d-4d7c-8033-869ada06ef82" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
