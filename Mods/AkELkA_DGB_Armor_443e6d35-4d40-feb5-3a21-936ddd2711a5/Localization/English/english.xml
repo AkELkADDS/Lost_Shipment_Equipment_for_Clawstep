@@ -116,7 +116,7 @@
   <content contentuid="hb5510f0dg0ea7g8b50g4740g5caec21acb83" version="3">Metal Armour BGWatch A</content>
   <content contentuid="h8ac5e31cg11e4gaa64g2b06g55a53094f11d" version="2">Breastplate BGWatch A</content>
   <content contentuid="h30f355aeg2cedge714gc9c7gdec2460c5c59" version="2">Chainmail Boots A</content>
-  <content contentuid="hb16e5f61g2b26g45d2g2a63gbb5d1f030263" version="1">Dark Justiciar Footwear A</content>
+  <content contentuid="hb16e5f61g2b26g45d2g2a63gbb5d1f030263" version="2">Dark Justiciar Footwear A</content>
   <content contentuid="h98bdc964gce35g8597g9ab8gcabed5f09440" version="1">Demonwight Boots A</content>
   <content contentuid="h195b1780gc31fgdbbbg6623gfed86ae59fcf" version="1">Gortash's Boots A</content>
   <content contentuid="h815c5a2fg77c8ga937ga3edgfdcadf9c21e9" version="1">Stiffly-Shod Hide Boots A</content>
@@ -195,16 +195,16 @@
   <content contentuid="h1e20bfdcg9a92g0db9gcd04ge0588e4491fd" version="3">Leather armor with decorations. Looks like was magical once</content>
   <content contentuid="hc8a199fdg4523geb00g3295gff66aaf95b16" version="4">HalfPlate Gloves</content>
   <content contentuid="h58f8250agb66dgc841gf7e2ga2207d347bf8" version="3">Crafted from layered steel plates over a flexible leather base, these gloves offer solid protection without sacrificing too much dexterity. The segmented design guards the knuckles and forearms while allowing the wearer to grip weapons and tools with ease.</content>
-  <content contentuid="h071cb84cg7c4dgc61eg9b0bged70857bab8b" version="4">Moonmaiden Robe A</content>
-  <content contentuid="h2d34a18cg26fag0b9bg5c67g00cef52795d7" version="4">Robe of the Moonmaiden follower</content>
-  <content contentuid="hc54136aagccd4g98b7g66ddg307812c9f1f4" version="2">Moonmaiden Robe B</content>
-  <content contentuid="ha2234dfdg0693g65abg4f30g42e45d5674fa" version="2">Robe of the Moonmaiden follower</content>
+  <content contentuid="h071cb84cg7c4dgc61eg9b0bged70857bab8b" version="5">Moonmaiden Robe A</content>
+  <content contentuid="h2d34a18cg26fag0b9bg5c67g00cef52795d7" version="5">Robe of the Moonmaiden follower</content>
+  <content contentuid="hc54136aagccd4g98b7g66ddg307812c9f1f4" version="3">Moonmaiden Robe B</content>
+  <content contentuid="ha2234dfdg0693g65abg4f30g42e45d5674fa" version="3">Robe of the Moonmaiden follower</content>
   <content contentuid="h5e1359fdgd340g4766g7922gcb3087e32e80" version="4">Infernal Robe A</content>
   <content contentuid="hf5959bd1g8554ge043g7808g672c93eed965" version="4">Robe touched by a fiend</content>
-  <content contentuid="hb57d3e69g4768g0632g8a72gc93ec89c359f" version="2">Moonmaiden Robe C</content>
-  <content contentuid="h79e7eee3g66afg2591g467cgbf0b727e49be" version="2">Robe of the Moonmaiden follower</content>
-  <content contentuid="h5a82e5e1gf20dgf55eg6458g97a83beac61b" version="4">Moonmaiden Robe D</content>
-  <content contentuid="hc0833d68g761ag3a8ag5ee8g5fe035cccd3d" version="4">Robe of the Moonmaiden follower</content>
+  <content contentuid="hb57d3e69g4768g0632g8a72gc93ec89c359f" version="3">Moonmaiden Robe C</content>
+  <content contentuid="h79e7eee3g66afg2591g467cgbf0b727e49be" version="3">Robe of the Moonmaiden follower</content>
+  <content contentuid="h5a82e5e1gf20dgf55eg6458g97a83beac61b" version="5">Moonmaiden Robe D</content>
+  <content contentuid="hc0833d68g761ag3a8ag5ee8g5fe035cccd3d" version="5">Robe of the Moonmaiden follower</content>
   <content contentuid="h1f6c1a42g9795g07d7gf195gab51ebcd806e" version="5">Ketheric armor</content>
   <content contentuid="h093d5df5g5395g4cf5gc598g964b435876a9" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
   <content contentuid="ha4d28c8fg228cg266fg5e33g2c01e5da39cd" version="3">Ketheric armor without shoulderpads</content>
@@ -310,4 +310,48 @@
   <content contentuid="hd3d605ffg1471g74bbg0abcgb13f0dd88b52" version="2">Ring Mail Armour +2</content>
   <content contentuid="h6271f169g8bc6g7c93g6abegb92c14f680d9" version="2">Ring Mail Armour +1</content>
   <content contentuid="he46399e0g097eg57c3gceebgb485a880bfdd" version="2">Ring Mail Armour +1</content>
+  <content contentuid="h42de36fdg4a6bg8f53ge03dgb0e18f2a434e" version="8">Drow Leather Armour </content>
+  <content contentuid="h20b0276ag8421g02d4gd532ge123fee64a09" version="1">Drow Leather Armour </content>
+  <content contentuid="he1b4e36ag570bg8cb9g8ce4g5bb03790c7db" version="4">Drow Leather Armour </content>
+  <content contentuid="h55e689cegce6ag1b7fgcf7ag96be19193b60" version="4">Drow Leather Armour </content>
+  <content contentuid="h8c4e4888g9c1bg30ebg2e14g2c1a593ae39b" version="2">Drow Leather Armour </content>
+  <content contentuid="h2810bf5bg3942g6dbcgd41dg089b468cba9a" version="2">Drow Leather Armour </content>
+  <content contentuid="hc25ed18dg7341gea09g5897gb853d64f7b92" version="3">Drow Leather Armour </content>
+  <content contentuid="hff2a5532gf3b8g2241g3a54g3d94a29394a8" version="4">Drow Leather Armour </content>
+  <content contentuid="hfd032577g2896gad5ega75agd4bdfa8cc6c5" version="5">Drow Leather Armour </content>
+  <content contentuid="h147d6edag0b89g0895g3e8cgb0cfe1216757" version="6">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
+  <content contentuid="h3517fdbbg05cfgde45g5086g24a0c6a7dfbe" version="4">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
+  <content contentuid="hcbb1395dg8218g9a8fge950gcf14daaf5568" version="4">Chain Shirt Broken</content>
+  <content contentuid="h08d1393cg264cg4ec5gaea0g359fc1aacc21" version="2">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
+  <content contentuid="h28bfd823ge32egf6dfg1fe1g673c89c6a13f" version="2">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
+  <content contentuid="h3ed71c1fg28feg6d3bg424cg3671aec22578" version="4">Elven Chain Shirt</content>
+  <content contentuid="h85dda2d4g0c46gb6fcg5cf7g893d1270c494" version="4">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy.</content>
+  <content contentuid="h1fd7bd90g37f0g4e7cg5eedg3ced19a66288" version="5">Chain Shirt A</content>
+  <content contentuid="hee26c8d6ge1c2g749egabdeg803ccda1203d" version="5">The chain mail is sturdy</content>
+  <content contentuid="hece6175fg388agdcf7g1444g8d1c77e4d4d6" version="3">Chain Shirt B</content>
+  <content contentuid="h247e736fg7350gcf8bg73c5g66a8dc37b249" version="3">The chain mail is sturdy</content>
+  <content contentuid="h8c58bb93gbb66g12c5gc4b2gf01c10f5d7f5" version="2">Chain Shirt C</content>
+  <content contentuid="h4321403eg5700g2142g31fcg0650923192f7" version="2">The chain mail is sturdy</content>
+  <content contentuid="h87003842gf45dgda3fg7527g0f7b537d06e9" version="3">Chain Shirt D</content>
+  <content contentuid="h162a0bcbged39gd129g77a0gebeff41522d0" version="3">The chain mail is sturdy</content>
+  <content contentuid="hfc250359gc997gb883g9e86gfff0d457092d" version="3">Chain Shirt E</content>
+  <content contentuid="h93f6c3f0g6b96g90c7g7a55gbe8776025a3f" version="3">The chain mail is sturdy</content>
+  <content contentuid="h9ed44206g4433g66f5g49d2g73acdbc7e63e" version="3">Chain Shirt F</content>
+  <content contentuid="h51e701deg4d68g367cgeba1g30c75635b50f" version="3">The chain mail is sturdy</content>
+  <content contentuid="h390a396bg46d1g6b9dg3fcbgc9fb53aa045b" version="3">Chain Shirt G</content>
+  <content contentuid="h429084f0g3d5bg4639g2962g78de8b5f0ded" version="3">The chain mail is sturdy</content>
+  <content contentuid="hb172e952ge0b7g8533g76dag9b728ce66447" version="4">Breastplate A</content>
+  <content contentuid="heedfc7afgca72g903ag5622gf04b4b5a49b4" version="4">Breastplate B</content>
+  <content contentuid="he1fdda15gc3bfg1f58gd138g4730c70b4700" version="5">Breastplate C</content>
+  <content contentuid="hcdc46ea2g00a3g6a4egb61bg5011b7169ddd" version="4">Splint Armor A</content>
+  <content contentuid="hfc4bf93cgb151g1411g0391gfb1d491e3408" version="6">Splint Armor A</content>
+  <content contentuid="h0cffadbeg3223g514eg2174gd43e1e8948dd" version="2">Splint Armor B</content>
+  <content contentuid="he5121a95g411cgfe01ga533g36d168c155f1" version="2">Splint Armor C</content>
+  <content contentuid="h20e801fdg0f37g87e1g7e5agf3bac54d61df" version="7">Scalemail Adamantine Armor</content>
+  <content contentuid="hbccf00acg3b1ag7131gd713gf72aab54fd48" version="2">Splint Adamantine Armor B</content>
+  <content contentuid="hb21c1a33g6d73g2deag3cabgcc56dd43d421" version="2">Splint Adamantine Armor A</content>
+  <content contentuid="h23c29b35gac28g7b22g0193g85b71e524cc3" version="4">Bhaal Rags A</content>
+  <content contentuid="h0fd25a54gc39cg3d00g013bg09099444df23" version="4">Leather armor with decorations</content>
+  <content contentuid="hb456dcb8gb08ege665g3d8dg72d213094cda" version="4">Bhaal Rags B</content>
+  <content contentuid="hd029f1e6gb968g7fefg7adcg5bd645958786" version="4">Leather armor with decorations</content>
 </contentList>
