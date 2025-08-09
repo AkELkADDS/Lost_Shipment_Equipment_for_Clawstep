@@ -276,16 +276,16 @@
   <content contentuid="h29cde0d2g8db9g2af6gb67bge25188f5fc47" version="6">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
   <content contentuid="h43aaa45bg2dc6g7387g92dfgccab550a1394" version="6">Mage Robe Satin</content>
   <content contentuid="hcf202180g1fb2g0a9agae03gd97d12166c0c" version="6">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
-  <content contentuid="h55d9d9c2ge512g730agf84bg332dffa846e1" version="5">Mage Robe</content>
-  <content contentuid="ha7d32f4bgd8eagb914geb7cgc1b51e9b3e13" version="5">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h55d9d9c2ge512g730agf84bg332dffa846e1" version="6">Mage Robe of Changing</content>
+  <content contentuid="ha7d32f4bgd8eagb914geb7cgc1b51e9b3e13" version="6">Different garments for each gender - rougher for females, satin for males. Crafted with care, this robe will protect you from the elements, though it won’t offer much against a sword’s thrust.</content>
   <content contentuid="hee2ab08dg7d50gfc35ga542gca45e9b4aaf1" version="4">Sun Robe</content>
   <content contentuid="hca51205cg540cg94f6g212bgf53f6224dc75" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
   <content contentuid="h121176f4gcbe2ge39cg98afg55c62f5498d5" version="2">Elegant Robe</content>
   <content contentuid="h315a6478g2152gd850gb549g6ff2c4ae395d" version="2">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
   <content contentuid="h524f62aagfdc2g0ee2ga286g3d9c48b7198f" version="4">Undead Robe</content>
   <content contentuid="h6dd3a867gcc39g8e15g8ac7gf8d21591f69e" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
-  <content contentuid="hd9e8efd4gff4bga4ebgab36ged613bae8b59" version="4">Wizard Robe</content>
-  <content contentuid="hb5336b59g000fgc772g6194ge0a00d4fb1bd" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="hd9e8efd4gff4bga4ebgab36ged613bae8b59" version="5">Wizard Robe</content>
+  <content contentuid="hb5336b59g000fgc772g6194ge0a00d4fb1bd" version="5">Crafted with care, this robe will protect you from the elements, though it won’t offer much against a sword’s thrust.</content>
   <content contentuid="hbc34388cg87a8gc27agb805g4afdc29ae407" version="5">Wizard Robe</content>
   <content contentuid="h6046fef4g347bgb202gf2e9g4dfba5aef61d" version="5">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
   <content contentuid="h877667a3gb78dg1a56g1578g2983292ae0ca" version="4">Wizard Robe</content>
@@ -354,4 +354,12 @@
   <content contentuid="h0fd25a54gc39cg3d00g013bg09099444df23" version="4">Leather armor with decorations</content>
   <content contentuid="hb456dcb8gb08ege665g3d8dg72d213094cda" version="4">Bhaal Rags B</content>
   <content contentuid="hd029f1e6gb968g7fefg7adcg5bd645958786" version="4">Leather armor with decorations</content>
+  <content contentuid="h6efb3f70g822ega080g9e50ga39de0aa61f8" version="9">Gnoll Headwear</content>
+  <content contentuid="h0ed17cd4gd16bg4c8ag40a6g82835d25a3e1" version="9">Light, framing the face like a window to the wearer's expression of devotion A crude helm fashioned from a hyena’s skull, bound with strips of leather and adorned with scavenged feathers. Once worn to intimidate prey and rivals alike, it still carries the musk of the wild and the faint rattle of old bones.</content>
+  <content contentuid="hdb58a435g2b93g5814g03eeg7d9e42ca0177" version="1">Cult of the Absolute Headwear</content>
+  <content contentuid="ha9c1b452gc4b8gd8bfg6ca8g8f3e97dfa340" version="1">Light, framing the face like a window to the wearer's expression of devotion for the Absolute.</content>
+  <content contentuid="hff0840cdg450dge0c6g9539gd97adf25a190" version="3">Gnoll Headwear B</content>
+  <content contentuid="h4e5bef6eg1d4agb6eeg3734g1a5b73a75a44" version="3">Light, framing the face like a window to the wearer's expression of devotion for the Absolute.</content>
+  <content contentuid="hed0139acg969dg9049g6daagf23112cf424a" version="7">Breastplate Gnoll A</content>
+  <content contentuid="h76f85e1cgf65bg5ce2g2670gb90918c3ca5e" version="5">Taken from the body of a fallen gnoll, this armor still bears the stench of its former owner. The leather is cracked, the metal dented, yet it remains serviceable - if you don’t mind carrying the scent of the wild with you.</content>
 </contentList>

@@ -1827,6 +1827,17 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0efdbd82-9373-405c-96f3-568d152d9a15" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Armor_A_TT_substat_155" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF9370DB" value="I_ARM_AkElkA_Breastplate_Gnoll_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="4a355df3-3628-4e6b-a3d9-2c4e7305300a" />
@@ -2612,6 +2623,39 @@
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Cloak_Long_D" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5e63d684-9984-4340-ba34-2089716087ba" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_3" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF9370DB" value="I_ARM_AkELkA_Headwear_Gnoll_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5f96c188-d90b-421c-813d-010f1642f6ea" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_5" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Headwear_Gnoll_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="00ea73c1-549a-4ab8-9775-ef8a40d5a89b" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_4" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cult_Absolute_Headwear_B" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
