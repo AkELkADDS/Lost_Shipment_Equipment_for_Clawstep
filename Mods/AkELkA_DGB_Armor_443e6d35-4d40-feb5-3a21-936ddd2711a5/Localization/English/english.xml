@@ -187,14 +187,14 @@
   <content contentuid="h854d74f4g8d45gd5d5ge754gbabb6e477e20" version="6">Leather armor with decorations. Looks like was magical once</content>
   <content contentuid="h16bbd566gf65egddf2ge322g26b7d6e002d6" version="5">Barbarian Magical Armour C</content>
   <content contentuid="heda78956gfe89ge0d3g4840g5f5ff19fd5ba" version="5">Leather armor with decorations. Looks like was magical once</content>
-  <content contentuid="h9ab261e7gcbd5g7cb7g938cge651e1795de2" version="7">Barbarian Magical Gloves A</content>
-  <content contentuid="h529fb058g0126gb8b4g4d57gdd26c0e3f765" version="7">Looks like was magical once. </content>
-  <content contentuid="hd3535ee9gab95gb81fg8b62g3c3df603f710" version="3">Barbarian Magical Gloves A</content>
-  <content contentuid="haac19db4gd5e9gf563gc58bg39f7f11ff244" version="3">Looks like was magical once. </content>
+  <content contentuid="h9ab261e7gcbd5g7cb7g938cge651e1795de2" version="9">Barbarian Magical Gloves A</content>
+  <content contentuid="h529fb058g0126gb8b4g4d57gdd26c0e3f765" version="9">Looks like was magical once. </content>
+  <content contentuid="hd3535ee9gab95gb81fg8b62g3c3df603f710" version="4">Barbarian Magical Gloves A</content>
+  <content contentuid="haac19db4gd5e9gf563gc58bg39f7f11ff244" version="4">Looks like was magical once. </content>
   <content contentuid="h638eae4bgc477gfb22g8c82gbc67a879f1b2" version="3">Barbarian Magical Armour D</content>
   <content contentuid="h1e20bfdcg9a92g0db9gcd04ge0588e4491fd" version="3">Leather armor with decorations. Looks like was magical once</content>
-  <content contentuid="hc8a199fdg4523geb00g3295gff66aaf95b16" version="4">HalfPlate Gloves</content>
-  <content contentuid="h58f8250agb66dgc841gf7e2ga2207d347bf8" version="3">Crafted from layered steel plates over a flexible leather base, these gloves offer solid protection without sacrificing too much dexterity. The segmented design guards the knuckles and forearms while allowing the wearer to grip weapons and tools with ease.</content>
+  <content contentuid="hc8a199fdg4523geb00g3295gff66aaf95b16" version="7">HalfPlate Gloves (Trow them into the chasm!)</content>
+  <content contentuid="h58f8250agb66dgc841gf7e2ga2207d347bf8" version="6">Will be removed after V1.004, due debug. Trow them into the chasm just in case. Crafted from layered steel plates over a flexible leather base, these gloves offer solid protection without sacrificing too much dexterity. The segmented design guards the knuckles and forearms while allowing the wearer to grip weapons and tools with ease.</content>
   <content contentuid="h071cb84cg7c4dgc61eg9b0bged70857bab8b" version="5">Moonmaiden Robe A</content>
   <content contentuid="h2d34a18cg26fag0b9bg5c67g00cef52795d7" version="5">Robe of the Moonmaiden follower</content>
   <content contentuid="hc54136aagccd4g98b7g66ddg307812c9f1f4" version="3">Moonmaiden Robe B</content>
@@ -324,8 +324,8 @@
   <content contentuid="hcbb1395dg8218g9a8fge950gcf14daaf5568" version="4">Chain Shirt Broken</content>
   <content contentuid="h08d1393cg264cg4ec5gaea0g359fc1aacc21" version="2">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
   <content contentuid="h28bfd823ge32egf6dfg1fe1g673c89c6a13f" version="2">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
-  <content contentuid="h3ed71c1fg28feg6d3bg424cg3671aec22578" version="4">Elven Chain Shirt</content>
-  <content contentuid="h85dda2d4g0c46gb6fcg5cf7g893d1270c494" version="4">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy.</content>
+  <content contentuid="h3ed71c1fg28feg6d3bg424cg3671aec22578" version="5">Elven Chain Shirt</content>
+  <content contentuid="h85dda2d4g0c46gb6fcg5cf7g893d1270c494" version="5">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy.</content>
   <content contentuid="h1fd7bd90g37f0g4e7cg5eedg3ced19a66288" version="5">Chain Shirt A</content>
   <content contentuid="hee26c8d6ge1c2g749egabdeg803ccda1203d" version="5">The chain mail is sturdy</content>
   <content contentuid="hece6175fg388agdcf7g1444g8d1c77e4d4d6" version="3">Chain Shirt B</content>
@@ -362,4 +362,147 @@
   <content contentuid="h4e5bef6eg1d4agb6eeg3734g1a5b73a75a44" version="3">Light, framing the face like a window to the wearer's expression of devotion for the Absolute.</content>
   <content contentuid="hed0139acg969dg9049g6daagf23112cf424a" version="7">Breastplate Gnoll A</content>
   <content contentuid="h76f85e1cgf65bg5ce2g2670gb90918c3ca5e" version="5">Taken from the body of a fallen gnoll, this armor still bears the stench of its former owner. The leather is cracked, the metal dented, yet it remains serviceable - if you don’t mind carrying the scent of the wild with you.</content>
+  <content contentuid="hd9af8694g6544g9df2ga17dg88f77932a4d1" version="4">DEBUG chest</content>
+  <content contentuid="hbba2280dg24e7g8841g9714g5a73233c8066" version="4">An oddly specific collection - this chest holds nothing but underwear. Someone had... particular priorities.</content>
+  <content contentuid="ha3a22611ga393g68e1g1eb8gcff8ca0a6537" version="1">Gloves A</content>
+  <content contentuid="hb19984ffg02ebg2932g021egeba39c2e615e" version="4">Bane Gloves</content>
+  <content contentuid="h850e9f5ag5cf2g90c2g873egc2ba227fb970" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h5aaac361g6b5agf8dbg6f27g948281e2deca" version="4">Barbarian Gloves</content>
+  <content contentuid="h0653949bg7eecg8d4fg98b5g7e7676d00b6b" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hb486c048ge80fg7ff0g0381g29f5a02e19be" version="3">Daisy Gloves</content>
+  <content contentuid="hc653e92fg2403gb0fdg9323g77678ae6de61" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h4d0b4b91g7dbdgf069g1062g5e4d61ea82ea" version="4">Dark Justiciar Gloves A</content>
+  <content contentuid="h032350abgb5cdgc348g079fgc9229bbfea9e" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hb8dd2c96ge168geae5gbb84ge618b6cc8193" version="3">Bhaal Gloves A</content>
+  <content contentuid="hae554009g78bbg0676g2564g85b8acfe0bb0" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="hb5569fc3g5770gf1dagff88g5c3b567dd48b" version="3">Bhaal Rag Gloves A</content>
+  <content contentuid="h1e0da1a9g0273g0b6ag42e9g007346ad0494" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h30571d37g04a3g5265g8d4dge3696980506c" version="2">Dark Justiciar Gloves B</content>
+  <content contentuid="h8e87b4f4g272egd290gade4g21c651c4ed9b" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h3e9ffc81gba9age784gdc81g358ffb4424ea" version="4">Cloth Magic Gloves A</content>
+  <content contentuid="h1fd47d04gf943gce89g9a40g49d6c7e0ae97" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h6beea41dg1d72g1ed0g5d85g61ad8c83a522" version="4">Cloth Magic Gloves B</content>
+  <content contentuid="h5f846c09ga694g9510gf47fg0883bd097e1a" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hf9d06563gb2ddgdc88gd88bg3079cb442a52" version="3">Demon Gloves A</content>
+  <content contentuid="h64567b8bg5db3g5454ge720g5c332c420450" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="hcc79b6a8gbd13g8af4gbc1bg433ff65920fd" version="3">Devils Halfplate Gloves A</content>
+  <content contentuid="hcfa0700ag3cd3g5862g1296g21c90502e11c" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h16fbd6bbgc43ag64a3g4089g1c2bd38d5b8b" version="5">Elven ChainShirt Gloves</content>
+  <content contentuid="h157a7ae7g49b5gf3fcg33bfge11c394945d1" version="5">Gloves are sturdy and made with care</content>
+  <content contentuid="h062cab86g7b01gb981g6351gad608f77648f" version="4">Githyanki HalfPlate Gloves A</content>
+  <content contentuid="hfdce1bd2gd759ge473gadafg73bc8a9c1d8c" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="ha59b27d7ga84dg55dbgef1cg8912c9a66bbd" version="4">Githyanki HalfPlate Bracer B</content>
+  <content contentuid="he7596d3fg502bgd106g8d9ag1c74dca2f90c" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hb39461b2ga75eg6582g628cg0e3a28897210" version="4">Githyanki HalfPlate B</content>
+  <content contentuid="h55966725g37b9g627fgf024gf57590874a92" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h9d6acc7bg7a68g00f1gbbcegaf2f39bdfec0" version="2">Broken Githyanki HalfPlate Gloves A</content>
+  <content contentuid="hcf116f94gf8b0gd655gdaf2ge091b04b781a" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="hb9884a97gff41g0645g085cg870f5210eb1a" version="3">Cloth Gloves A</content>
+  <content contentuid="hf85ce7d2ga852ga757g5583g0bef341072e0" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h6aa7594egfe81g713dgd2b5g0dc88048faa6" version="2">Cloth Gloves B</content>
+  <content contentuid="haf44dba4g1821gd502gf9fbgbc58bde15707" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h5258ea17ga83cg67a0g382agc4dc82a4fc48" version="3">Cloth Gloves C</content>
+  <content contentuid="h6e8905e0g984bgb5c1g7d6ega962f58dd100" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="hc718641cg3c5bgf102g3383geaa00a876e98" version="1">Cloth Gloves D</content>
+  <content contentuid="h32330630g5a24g34f2gd6d0g4c5e91338669" version="1">Gloves are sturdy and made with care</content>
+  <content contentuid="hd7bb4516ge164gba29g5fbfg35e8f4cf2a1e" version="6">Leather Gloves A</content>
+  <content contentuid="haf2b94c1gd200ge008g6b1eg10c1b032cd9e" version="6">Gloves are sturdy and made with care</content>
+  <content contentuid="h11562d84gc085ga58cg6880g441d9f4a3e64" version="4">Leather Gloves B</content>
+  <content contentuid="hdcf60e2bg8c2fgef3dg27eagbef1367981cc" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h1544cd0dg4684g2d70ga233gd1bed9ce254b" version="4">Leather Gloves C</content>
+  <content contentuid="hf7a0e935gac0eg6e3dg7598g4e5f1590b42c" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h646fed9fgb6e7g2bd9gda55gde7541e77afb" version="4">Leather Gloves D</content>
+  <content contentuid="h03543369gd336gcf25g6b9dg81f3bbda097c" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h3a4dfe65gec1cg927fg400bg617634f986fd" version="4">Leather Gloves E</content>
+  <content contentuid="hd56b3d12ga88ag721dg8dd5gd2e191dfc38e" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hed96de98g8c25g4733g67c7gdfb9a9c1e00e" version="4">Leather Gloves F</content>
+  <content contentuid="h9f7327d3g6bd0g68a9ge321g4714d7023636" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hbb2ea4c6gf057g67eag532cg7f3ad1101d73" version="4">Leather Gloves G</content>
+  <content contentuid="h164267dbg5068g5106g3621gca6023ab1cf9" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h1a7ee96cg27dbgd933g49e2g47c8b6a613bd" version="2">Leather Gloves H</content>
+  <content contentuid="h5b084aa5g7d54gb304gb499g3b116dab95c6" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="hc46156c6g03cegd5fag25dbgea4e8abf375d" version="4">Leather Gloves I</content>
+  <content contentuid="hff1a67beg4326g2437g8f77ge1b50143da40" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h0e9dd707ge3e2g6923g5a65g01ced4ff323b" version="2">Broken Leather Gloves A</content>
+  <content contentuid="h2e0accc9g3232g5726g81acgc347730f28ed" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h3b191082g9eb4gb2f6g3013ga11a8e924a6a" version="3">Metal Gloves A</content>
+  <content contentuid="h5b70204cg3eaeg4184g577dg890e0cd3d3c8" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h33f0aa40gb419g2313g44a8gbf1ca90e3a86" version="3">Metal Gloves B</content>
+  <content contentuid="h89a4b245ga614ged0agfda2gacdbc32578dd" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="hfc0300e1g33deg1ec4gd04agb6594edf8fa6" version="4">Metal Gloves C</content>
+  <content contentuid="hd6ce227fg63f6g29b8gfa76gdbac574ffdae" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="haef56b4egfca8gdd10g4b5fgb5f5d13cef3d" version="4">Metal Gloves D</content>
+  <content contentuid="hb0245d92gd233g63a5g1e30gd625124f5090" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h05231a07g116fg1ad5g79d0g3fd309b34349" version="4">Metal Gloves E</content>
+  <content contentuid="h09f4b109g90bcg2506g5890g7286bb309bed" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h95045e94gafabgaf23g929fgb1654ac04e30" version="4">Metal Gloves F</content>
+  <content contentuid="h4e670166g904bg6542gac4fg7ff4c1497c79" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="habc95b49g8cbeg3fdfgaf10g41d6a2e74605" version="4">Metal Gloves G</content>
+  <content contentuid="hcc6704e8g9b2bg2321gcf2cg911af809a392" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h0c2df429ga6c6g1730gde49gdb6e50829588" version="4">Metal Gloves H</content>
+  <content contentuid="hcb3f0604g530cg3846g45e4geee6ecc7d8be" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hd5ba952dg56ddgf0c7g3b7eg18a1e5e62b5c" version="4">Metal Gloves I</content>
+  <content contentuid="h6031d5efgd116g7743gf2fdg0630e03cce8e" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hbd62c7c0g92c8g4959gd53eg2522350ee3b3" version="3">Metal Gloves of Oathbreaker Paladin E</content>
+  <content contentuid="hac913146g32c5g4b30g40b4g74d73c54be73" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h94dae93cg2389g34edge550g77166cb167f1" version="3">Leather Gloves Of Archery</content>
+  <content contentuid="hdc831937g2d21g4166g9fa6gf0befabf2047" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h53e491eega16dge446ga973gbe217071e9ec" version="3">Cloth Gloves of Defense</content>
+  <content contentuid="hdbf3ec2dg9552gd5f4gd7b6ga935de41669b" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="hc3eea61fg85acg6f13g9b7dgfcf7c4eaee84" version="3">Leather Gloves Of Missile Snaring</content>
+  <content contentuid="ha081bc47g28a0g35c0g8091gbe5f0ae92a5f" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h864f86c4ga9b7g5528g6b9cgdb63a9f0931e" version="4">OgrePower Metal Gloves</content>
+  <content contentuid="hee6006f9gc3b6g8102g20acgf66ae8170b0c" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h1076cf8bgc006gdff2gfd74g5ee84fb387f3" version="4">Scalemail Gloves A</content>
+  <content contentuid="ha43dfd95g520cg2fdag98b0g268ea59c562d" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hdcbb47b5g39f4g8da8gaf7eg8f55bd65bd20" version="2">Leather Shar Gloves B</content>
+  <content contentuid="hf10f141cg1d41g29bcge881g093172bbdee6" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h1e046044g27f8g8612g4a09ge59ef9e77b50" version="2">Sock Leather Gloves A</content>
+  <content contentuid="h066bbc20ga638g72d6gfad3g50f9791f559c" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h6fb20f7dg9752gf656g7400g4171e32bf9ba" version="2">Gortash Gloves</content>
+  <content contentuid="h87db082fg04c0g6474g4941g791f29abb081" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h242cc6c4g202cgeb5fg75d0g131c2daa0529" version="4">HalfPlate Decorated Gloves A</content>
+  <content contentuid="h16957e06g5be0g3b13g6af4ge3d625c20a49" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hf65e9b77g7e28g132ag49c9g4589f58b0f61" version="2">Hide Gloves A</content>
+  <content contentuid="hb8dc514ag5bb5g6c26gec5ege86c28848cba" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="hf7a2246cg6219ga947g01fbg809f0b805fd8" version="3">Jaheira Gloves A</content>
+  <content contentuid="h12afb6beg6cf8gba3fgafabg0596129cc36b" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="he94c7e7dgfc89g0a46geff6gb331fda7f3a5" version="2">Ketheric Metal Gloves</content>
+  <content contentuid="h794fa5e9g8713ge5adge973g5a6fb78bd4e5" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h5565d1c0g39bcg32f0g41a9g91a55c50c107" version="3">Cloth Magic Monk Gloves A</content>
+  <content contentuid="hb182192dgb7f7g2410ga72ag0e489d86f39f" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h2119f47dgcd42g7148g6009gf8c4ea57bc45" version="2">Mindflayer Gloves A</content>
+  <content contentuid="hea568f7dg3f2bg8ef9ge797g3f418291684d" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="hff72303fg0c06gef09g49c4g23dea09d37ba" version="2">Cloth Monk Gloves A</content>
+  <content contentuid="h6fb9572fg85f1g0c6cgc6cegc96c3d35307e" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h5bba75c6g2dbbg229cg7f91gd8dfd20a9154" version="3">Drow Leather Gloves A</content>
+  <content contentuid="h3bd396a1gc86cg5f91gff8fgc3c0724c1f54" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h80796afdg5144g7dd8ge4a3gda57d9e4e312" version="3">Drow Leather Gloves B</content>
+  <content contentuid="hbcd8a7e2g8e0cgcb82g051fg4bfc56c31548" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h7de9ccc3gc808ga041gb282g3558f194c7a3" version="1">Myrkul Gloves A</content>
+  <content contentuid="h4a35702bg474bg948egb43agda8fdc2ba940" version="1">Gloves are sturdy and made with care</content>
+  <content contentuid="h983b0ecbgac43g50a1ge441gb73610f3779a" version="3">Myrkul Plate Gloves A</content>
+  <content contentuid="hc1441bfdg404ag46d6g546bgd27e4c2bb357" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="hd5c95dbbg98c1g606bg4a95g09a955437be2" version="2">Myrkul Plate Gloves B</content>
+  <content contentuid="h0c2cbf80g4e8age611g9c24g0e8d7eaecb53" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="ha54574a3g49a4gd925g280bg8b81a798d4e8" version="2">Myrkul Plate Gloves C</content>
+  <content contentuid="h80aabc3bgd0bcg4b42g9ee1g1e0b02444d93" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h6d498916g9255g3d66g2167gaf3f30dca87d" version="2">Myrkul Plate Gloves D</content>
+  <content contentuid="h80260e45gce6fgb23cg9b6cg35a742a2885b" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h4471233egeb09g0c03g55f7g564cf198fa66" version="3">Moonmaiden Gloves E</content>
+  <content contentuid="h26b75befgb052g1c8dg568dg57a7343b5afd" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h5fdccd19ga961g72b6g2432g847946cf5d5d" version="3">Minsc Leather Gloves</content>
+  <content contentuid="h73b08a00gfca2g9619gad09g40b95c69293c" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="hd419183eg5565g19ecg0165gb2e00f3c7126" version="4">Umberlee Gloves</content>
+  <content contentuid="hd88ca129gee9eg7e43gb25cgbd7ca96564d0" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="hcc609f82gf32ag62beg260fgc357d6e43c77" version="3">Karlach Barbarian Gloves</content>
+  <content contentuid="h95c3b8edgda2cg3287gbf30gc403eb7380a4" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h4a5b37b6gd40eg05d4gefc0g45f9f9b8377b" version="2">Blacksmith Gloves</content>
+  <content contentuid="h81104c99gbe85g82d1gf21dg29de397714ec" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h952aeb2dg2085gadb2g68b6g7785a50acce1" version="5">Druid Gloves A</content>
+  <content contentuid="h8109bd88g7cefg6a44gb3a9g20d714c7cafc" version="5">Gloves are sturdy and made with care</content>
+  <content contentuid="h14793c53g61e6g337bgeeeaga2a789cc3d89" version="3">Druid Gloves B</content>
+  <content contentuid="h69d3cf5fg95fag19degb0ddg409748a7e31f" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="h6677b6a2gc06dgff88ga001gcec3026190f2" version="5">Shadow Druid Gloves A</content>
+  <content contentuid="h2fbacbbcg980bge53cgb758gbccc23a0f49f" version="5">Gloves are sturdy and made with care</content>
 </contentList>

@@ -63,3 +63,10 @@ data "RootTemplate" "5c10b286-d3b4-46c5-9eda-03216712cf66"
 data "Weight" "10"
 data "Vitality" "25"
 
+new entry "OBJ_AkELkA_Chest_ChaosForge_Z_LostShipment_DEBUG_A"
+type "Object"
+using "OBJ_Chest_Wood"
+data "RootTemplate" "003b6ff4-8328-46c2-bde4-aee66b080c33"
+data "Weight" "10"
+data "Vitality" "25"
+
