@@ -3105,5 +3105,77 @@
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd779543-2e95-4760-94d6-af64279bd8b8" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Camp_Dress_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e9fb51cb-318b-4b14-b4fc-19de3481f75c" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="da34b7f2-575f-41b4-9af3-904bea7ac607" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Camp_Dress_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5cfabd46-87eb-41c5-a57e-e0faebd1846c" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4ab051a5-15d1-4093-8c37-b25cb28b3bbf" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Camp_Bhaal_Rags_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8fca7e19-6288-4f67-917f-b62e2037cfb3" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e2038cf0-b5d2-4442-a47a-f816a8109ea7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Camp_Bhaal_Rags_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bf813f2c-0da6-4037-b90b-90d481ba06e1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f4cce9ee-b72f-4cee-899b-fad8b5da2b69" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Camp_Bhaal_Rags_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ccffa893-4a3e-4aa3-8d09-3d4eb1170c3f" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6f375596-a8d7-4e40-9f54-5ec15d20aa2c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Camp_Bhaal_Rags_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="01008abc-057d-46fe-a16c-4149be927b82" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="749b1c54-8610-4783-b6c9-41322e62c870" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Camp_Bhaal_Rags_E" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="63df1480-0d5f-4cf9-9191-001127afec80" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="49d7f77e-fc34-43f3-ba96-fdcd5742f696" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Camp_Bhaal_Rags_F" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="acea3675-f347-44b2-8c78-cb5310d61c84" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
