@@ -2897,7 +2897,7 @@
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2910,7 +2910,7 @@
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2923,7 +2923,7 @@
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2936,7 +2936,7 @@
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2949,7 +2949,7 @@
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2962,7 +2962,7 @@
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
   </stat_objects>
