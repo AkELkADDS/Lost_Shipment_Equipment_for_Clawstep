@@ -26,6 +26,10 @@ new subtable "1,1"
 object category "I_OBJ_AkELkA_Chest_ChaosForge_Z_LostShipment_DEBUG_A",1,0,0,0,0,0,0,0
 new treasuretable "AkELKA_Chest_ChaosForge_Armor_A_TT"
 new subtable "1,1"
+object category "I_ARM_Civilian_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Mindflayer_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_AkELkA_Nightsong_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Daisy_Plate_A",1,0,0,0,0,0,0,0
@@ -39,6 +43,8 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_Ketheric_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Ketheric_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Demon_Body_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Orin",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -54,8 +60,6 @@ object category "I_ARM_AkELkA_HalfPlate_Body_Githyanki_Broken",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_ChainShirt_Shar_Justiciar_Broken",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_ARM_Civilian_Body",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_UNI_Astarion_StarterArmor",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Astarion_A",1,0,0,0,0,0,0,0
@@ -63,8 +67,6 @@ new subtable "1,1"
 object category "I_ARM_Bard",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Bard_A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_Padded_Body",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Padded_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -173,6 +175,8 @@ new subtable "1,1"
 object category "I_ARM_Robe_FlamingFist",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_ScaleMail_FlamingFist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_ChainMail_FlamingFist_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Padded_BGWatch",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -336,6 +340,12 @@ object category "I_ARM_AkElkA_Splint_Adamantine_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkElkA_Scalemail_Adamantine_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkElkA_Scalemail_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkElkA_Scalemail_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkElkA_Scalemail_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_ScaleMail_Body_Paladin_Devotion",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_ScaleMail_Body_Paladin_Ancients",1,0,0,0,0,0,0,0
@@ -357,6 +367,16 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_HalfPlate_Lady_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_HalfPlate_Lady_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_PlateMail_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_PlateMail_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_PlateMail_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_PlateMail_Oathbreaker_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_PlateMail_Decorated_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkElkA_Breastplate_Gnoll_A",1,0,0,0,0,0,0,0
 new treasuretable "AkELKA_Chest_ChaosForge_Boots_A_TT"

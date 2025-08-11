@@ -2965,5 +2965,145 @@
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5be20321-8f5c-49c6-83ff-e3bbbfbe0ee0" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_ChainMail_FlamingFist_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a93ebb0c-4d9d-45a4-b7a6-655f326532e0" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="ChainMail" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="56761170-5087-46b8-88b2-e2798fd0c44a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkElkA_Scalemail_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0f321567-8c31-45e1-97f6-1a3e806b2ab8" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="ChainMail" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="89ebb16f-206a-453c-89ab-cf8928331ddd" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkElkA_Scalemail_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5f484574-8806-4170-959f-644ee71c1614" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="ChainMail" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e279e01d-e66c-4d68-a49b-23cc624f334c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkElkA_Scalemail_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="37863266-6c1f-4461-a6d8-d3406d2c0660" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="ChainMail" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="71a1b5f5-0d28-40cb-8d53-30caf8190d31" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Demon_Body_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2014b608-30c6-4119-b84a-388989467ab0" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="StuddedLeather" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0d45cdb6-f170-490a-8a77-769eb4b26ab2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_PlateMail_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="53e2f0fa-6ad8-49dd-b8ba-746462e7a389" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Plate" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5c2a3a11-810c-45bb-9873-8ad59f910574" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_PlateMail_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8d987405-c21e-4f6e-87da-921dceab6a9c" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Plate" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="038f642e-1051-4dc6-91f7-4283dd30aa5b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_PlateMail_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="154857bd-ae45-442a-9862-80c7553569e4" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Plate" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="800d242a-c19f-4304-bfdd-4ab49bbd7f77" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_PlateMail_Oathbreaker_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1c343aba-6b99-4fcd-9161-b8f8a67ead15" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Plate" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4a440dd4-cb59-4bbe-ab9f-3af9b5e547a5" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_PlateMail_Decorated_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2da2577b-3cb5-4d26-8a39-43e4f75db622" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Plate" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="HeavyArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4712d777-a088-4760-8cf5-721a3443647c" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Mindflayer_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6a59f41c-6411-4c09-a678-28f22d8ac13d" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="ScaleMail" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
