@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5 
-   Mon 08/11/2025  1:10:47.88 
+   Mon 08/11/2025  5:48:13.04 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -73,6 +73,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\26c2112e-ebfb-4012-99d3-b1298a808d22.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\27c0540c-7c13-4326-b68e-5782bf30034c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2999de02-ce3f-4e0e-b30d-58bb737938b1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\29bb29db-b5c1-44bc-84de-633f11bb7bd4.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2b1c7f69-ec12-453f-8950-c66d4e717b6c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2b423035-660e-4c6a-b3fc-2c9ee64b6a67.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2bcd41a2-0f61-4c20-96f3-b4c913a7bf49.lsf 
@@ -80,6 +81,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2f4fdce6-ab29-4d39-8e19-a367c58df67d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2f8377db-d4ee-4950-8343-f308e230248e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\308df005-b346-485c-9267-b2ed64611fca.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\313fd102-837f-46b7-85d9-615884a08a88.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\31a79eff-f660-4b64-8b46-aa960deec896.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\329f90d0-10bb-4d3b-8503-fab75f7d38a8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\33338738-fd60-4691-9b32-ca69f0a1618c.lsf 
@@ -89,11 +91,13 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\36f3e5f7-4a72-4292-bb4a-43916d379648.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\3765ca96-b17c-49e1-9b26-9bdc5c507931.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\3783f549-0e48-4d85-bd62-1e12fd15701c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\37e2b2f0-74a5-40e1-b88a-a3b6110e8f9a.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\38fca1d0-5921-4b4e-9026-2edd8e5a7406.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\3941ad31-de2d-4643-baa8-e999ad21d112.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\3cb134c1-5c70-4696-8432-7587748c1ab6.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4104924a-85e3-4a5e-bcb8-f64105e2221b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4175eca2-34df-48b6-89d3-9e6adc56f0ee.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\446cb6c7-c10a-48e4-87e9-d37c5d68b111.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\45406dca-b446-4cc0-b8fa-9dfa895ccefb.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\46653143-5e91-40df-9981-04bbb9d68e57.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4677a0b5-ac0d-4817-9d62-e22bfcc88819.lsf 
@@ -103,11 +107,13 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4a69569c-432c-4e3d-a7d7-b48653f0477d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4c4163a9-972c-44ec-8e5c-f398fe98532a.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4c7055e7-f235-4e7f-91f3-eef409234e4f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4e5d15d7-7135-4b66-a797-cf8bd3d55784.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4e7fdab6-abcc-4e07-b73d-dba1f09beaae.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4ef5574e-6c1f-41ff-aa68-9b3dbef23fd0.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\50573ed8-e306-4fdc-aa52-2104ac523a45.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\510542fa-f1fc-49c1-965b-b44eac6dda44.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\51386cdb-8a69-4772-a487-9495c484e81d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\536e48a6-00cc-4bd3-9042-3aceedb3f208.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\53f958f7-726e-45f6-b649-9357e25ca13d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\550e3c9c-aa61-4042-8695-f87dab6c5e40.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\5529646a-38e2-436b-826b-04c98dafc96f.lsf 
@@ -128,6 +134,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\66f89914-cad9-431a-98ca-c8428bfb58ad.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\69357563-6026-46a8-9a9e-f7eafd2f8b51.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\69c45ed5-358e-4fe3-bfed-a23e9f306efa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\69cfb0a1-c7dd-4abe-9852-523a5e83494b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\6b7403a1-c361-4aef-a3f1-27e6ce8be580.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\6b9d20f6-dcd0-454d-8c9c-803d88103650.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\6cfec122-ae97-4f70-b937-c22eaeaa04cc.lsf 
@@ -149,6 +156,8 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7c32d3c0-a99d-47e5-a41e-233b4e2c39bf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7c6c961f-9752-4782-8261-2591da81abb4.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7d660124-5957-49d3-87cf-db32bdb43b26.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7d99820f-fae2-4240-8c47-655af721a0ac.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7da3aebb-e237-4311-9b7d-e37b72eaafc0.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\803382dd-e365-4b0a-bfeb-3d749b0131ed.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\803df75f-dff5-43e3-8fa7-8526d7dd22a4.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\80addbe4-6a9b-471e-8d9f-39b87a8f663d.lsf 
@@ -184,6 +193,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\9c5fdd34-61c4-47e9-9d7d-fbbacb518331.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\9d58f8e1-922b-4cb1-9ed6-65047909dbd9.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a05b5e6d-74e6-43ab-b22b-a7473b38fd78.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a0a8fda2-0375-4a4e-8b96-2374ef345b04.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a0d768ea-7c77-4514-9186-c5aa18d708e1.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a17c0635-32a1-46c9-b19e-45ff9614fd47.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a314e43d-ebea-475b-9680-593732bd1249.lsf 
@@ -199,6 +209,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b736586d-e0a1-41d4-9a9a-01686052a8d3.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b7644e92-1c56-4da1-a6b0-d632143287d5.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b92584d6-9cda-4386-9981-eaa60d396393.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b92dfcbd-c2bf-45b0-9a0d-4772bbbc9452.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b96e5afa-a68d-4d1b-80b8-a3e9d03e8c4d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b9d2eb9f-4988-4526-8f7d-9534da895d09.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\ba184716-7d3c-420c-95bf-9bc6ccdd3506.lsf 
@@ -282,9 +293,9 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Generated\TreasureTable.txt 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Generated\Data\Armor.txt 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Generated\Data\Object.txt 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5: 243 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5: 254 
  
-[LOG] Total files found across all folders: 253 
+[LOG] Total files found across all folders: 264 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -300,7 +311,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, August 11, 2025 1:10:51 AM
+  Started : Monday, August 11, 2025 5:48:16 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -322,9 +333,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            16531615 Bytes/sec.
-   Speed :             945.946 MegaBytes/min.
-   Ended : Monday, August 11, 2025 1:10:51 AM
+   Speed :           214911000 Bytes/sec.
+   Speed :           12297.306 MegaBytes/min.
+   Ended : Monday, August 11, 2025 5:48:16 AM
 
  
 [DEBUG] Counting source files 
@@ -350,7 +361,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, August 11, 2025 1:10:53 AM
+  Started : Monday, August 11, 2025 5:48:18 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -361,22 +372,22 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     789	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\OneTimeRewards\OneTimeRewards.tbl100%  
-	    New File  		  231369	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Stats\Armor.stats100%  
+	    New File  		  245806	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Stats\Armor.stats100%  
 	    New File  		    8039	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Stats\Object.stats100%  
-	    New File  		  368905	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\TreasureTable\TreasureTable.stats100%  
+	    New File  		  378020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\TreasureTable\TreasureTable.stats100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         8         8         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :   594.8 k   594.8 k         0         0         0         0
+   Bytes :   617.8 k   617.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            60910200 Bytes/sec.
-   Speed :            3485.309 MegaBytes/min.
-   Ended : Monday, August 11, 2025 1:10:53 AM
+   Speed :           632654000 Bytes/sec.
+   Speed :           36200.752 MegaBytes/min.
+   Ended : Monday, August 11, 2025 5:48:18 AM
 
  
 [DEBUG] Counting source files 
@@ -402,7 +413,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, August 11, 2025 1:10:55 AM
+  Started : Monday, August 11, 2025 5:48:19 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -413,22 +424,22 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   11937	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\meta.lsx100%  
-	    New File  		  214217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\mod_publish_logo.png  0%  100%  
+	    New File  		  214217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\GUI\metadata.lsf100%  
-	    New File  		   68668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Localization\English\english.xml100%  
+	    New File  		   70934	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Localization\English\english.xml100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :   289.0 k   289.0 k         0         0         0         0
+   Bytes :   291.2 k   291.2 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            36995375 Bytes/sec.
-   Speed :            2116.892 MegaBytes/min.
-   Ended : Monday, August 11, 2025 1:10:55 AM
+   Speed :           149114500 Bytes/sec.
+   Speed :            8532.400 MegaBytes/min.
+   Ended : Monday, August 11, 2025 5:48:19 AM
 
  
 [DEBUG] Counting source files 
@@ -454,7 +465,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, August 11, 2025 1:10:57 AM
+  Started : Monday, August 11, 2025 5:48:21 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -498,6 +509,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1566	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\26c2112e-ebfb-4012-99d3-b1298a808d22.lsf100%  
 	    New File  		    7173	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\27c0540c-7c13-4326-b68e-5782bf30034c.lsf100%  
 	    New File  		    7167	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2999de02-ce3f-4e0e-b30d-58bb737938b1.lsf100%  
+	    New File  		    6791	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\29bb29db-b5c1-44bc-84de-633f11bb7bd4.lsf100%  
 	    New File  		    8668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2b1c7f69-ec12-453f-8950-c66d4e717b6c.lsf100%  
 	    New File  		    7197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2b423035-660e-4c6a-b3fc-2c9ee64b6a67.lsf100%  
 	    New File  		    8612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2bcd41a2-0f61-4c20-96f3-b4c913a7bf49.lsf100%  
@@ -505,6 +517,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    7159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2f4fdce6-ab29-4d39-8e19-a367c58df67d.lsf100%  
 	    New File  		    7179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\2f8377db-d4ee-4950-8343-f308e230248e.lsf100%  
 	    New File  		    3252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\308df005-b346-485c-9267-b2ed64611fca.lsf100%  
+	    New File  		    5748	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\313fd102-837f-46b7-85d9-615884a08a88.lsf100%  
 	    New File  		    7177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\31a79eff-f660-4b64-8b46-aa960deec896.lsf100%  
 	    New File  		    7967	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\329f90d0-10bb-4d3b-8503-fab75f7d38a8.lsf100%  
 	    New File  		    5544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\33338738-fd60-4691-9b32-ca69f0a1618c.lsf100%  
@@ -514,11 +527,13 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    7153	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\36f3e5f7-4a72-4292-bb4a-43916d379648.lsf100%  
 	    New File  		    7409	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\3765ca96-b17c-49e1-9b26-9bdc5c507931.lsf100%  
 	    New File  		    6201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\3783f549-0e48-4d85-bd62-1e12fd15701c.lsf100%  
+	    New File  		    5746	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\37e2b2f0-74a5-40e1-b88a-a3b6110e8f9a.lsf100%  
 	    New File  		    7192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\38fca1d0-5921-4b4e-9026-2edd8e5a7406.lsf100%  
 	    New File  		    9059	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\3941ad31-de2d-4643-baa8-e999ad21d112.lsf100%  
 	    New File  		    8639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\3cb134c1-5c70-4696-8432-7587748c1ab6.lsf100%  
 	    New File  		   11751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4104924a-85e3-4a5e-bcb8-f64105e2221b.lsf100%  
 	    New File  		    7195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4175eca2-34df-48b6-89d3-9e6adc56f0ee.lsf100%  
+	    New File  		    6791	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\446cb6c7-c10a-48e4-87e9-d37c5d68b111.lsf100%  
 	    New File  		    4248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\45406dca-b446-4cc0-b8fa-9dfa895ccefb.lsf100%  
 	    New File  		    3178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\46653143-5e91-40df-9981-04bbb9d68e57.lsf100%  
 	    New File  		    7164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4677a0b5-ac0d-4817-9d62-e22bfcc88819.lsf100%  
@@ -528,12 +543,14 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    4917	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4a69569c-432c-4e3d-a7d7-b48653f0477d.lsf100%  
 	    New File  		    6573	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4c4163a9-972c-44ec-8e5c-f398fe98532a.lsf100%  
 	    New File  		    7144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4c7055e7-f235-4e7f-91f3-eef409234e4f.lsf100%  
+	    New File  		    5751	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4e5d15d7-7135-4b66-a797-cf8bd3d55784.lsf100%  
 	    New File  		    7180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4e7fdab6-abcc-4e07-b73d-dba1f09beaae.lsf100%  
 	    New File  		    4896	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\4ef5574e-6c1f-41ff-aa68-9b3dbef23fd0.lsf100%  
 	    New File  		    7174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\50573ed8-e306-4fdc-aa52-2104ac523a45.lsf100%  
 	    New File  		    9860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\510542fa-f1fc-49c1-965b-b44eac6dda44.lsf100%  
 	    New File  		    6738	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\51386cdb-8a69-4772-a487-9495c484e81d.lsf100%  
-	    New File  		    7489	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\53f958f7-726e-45f6-b649-9357e25ca13d.lsf100%  
+	    New File  		    6160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\536e48a6-00cc-4bd3-9042-3aceedb3f208.lsf100%  
+	    New File  		    7519	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\53f958f7-726e-45f6-b649-9357e25ca13d.lsf100%  
 	    New File  		    6964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\550e3c9c-aa61-4042-8695-f87dab6c5e40.lsf100%  
 	    New File  		    6632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\5529646a-38e2-436b-826b-04c98dafc96f.lsf100%  
 	    New File  		    8677	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\5770c2c6-5b14-4070-8bb1-f68d56786acb.lsf100%  
@@ -553,6 +570,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    6876	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\66f89914-cad9-431a-98ca-c8428bfb58ad.lsf100%  
 	    New File  		    5396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\69357563-6026-46a8-9a9e-f7eafd2f8b51.lsf100%  
 	    New File  		    7173	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\69c45ed5-358e-4fe3-bfed-a23e9f306efa.lsf100%  
+	    New File  		    6160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\69cfb0a1-c7dd-4abe-9852-523a5e83494b.lsf100%  
 	    New File  		    9516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\6b7403a1-c361-4aef-a3f1-27e6ce8be580.lsf100%  
 	    New File  		    8639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\6b9d20f6-dcd0-454d-8c9c-803d88103650.lsf100%  
 	    New File  		    7330	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\6cfec122-ae97-4f70-b937-c22eaeaa04cc.lsf100%  
@@ -574,6 +592,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    8483	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7c32d3c0-a99d-47e5-a41e-233b4e2c39bf.lsf100%  
 	    New File  		    6178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7c6c961f-9752-4782-8261-2591da81abb4.lsf100%  
 	    New File  		    7153	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7d660124-5957-49d3-87cf-db32bdb43b26.lsf100%  
+	    New File  		    6160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7d99820f-fae2-4240-8c47-655af721a0ac.lsf100%  
+	    New File  		    6186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\7da3aebb-e237-4311-9b7d-e37b72eaafc0.lsf100%  
 	    New File  		    8082	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\803382dd-e365-4b0a-bfeb-3d749b0131ed.lsf100%  
 	    New File  		    7179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\803df75f-dff5-43e3-8fa7-8526d7dd22a4.lsf100%  
 	    New File  		    4519	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\80addbe4-6a9b-471e-8d9f-39b87a8f663d.lsf100%  
@@ -609,6 +629,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    7169	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\9c5fdd34-61c4-47e9-9d7d-fbbacb518331.lsf100%  
 	    New File  		    5959	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\9d58f8e1-922b-4cb1-9ed6-65047909dbd9.lsf100%  
 	    New File  		    7509	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a05b5e6d-74e6-43ab-b22b-a7473b38fd78.lsf100%  
+	    New File  		    5746	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a0a8fda2-0375-4a4e-8b96-2374ef345b04.lsf100%  
 	    New File  		    7172	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a0d768ea-7c77-4514-9186-c5aa18d708e1.lsf100%  
 	    New File  		    6955	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a17c0635-32a1-46c9-b19e-45ff9614fd47.lsf100%  
 	    New File  		    4051	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\a314e43d-ebea-475b-9680-593732bd1249.lsf100%  
@@ -624,6 +645,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    5192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b736586d-e0a1-41d4-9a9a-01686052a8d3.lsf100%  
 	    New File  		    7153	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b7644e92-1c56-4da1-a6b0-d632143287d5.lsf100%  
 	    New File  		    4929	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b92584d6-9cda-4386-9981-eaa60d396393.lsf100%  
+	    New File  		    6791	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b92dfcbd-c2bf-45b0-9a0d-4772bbbc9452.lsf100%  
 	    New File  		    7290	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b96e5afa-a68d-4d1b-80b8-a3e9d03e8c4d.lsf100%  
 	    New File  		    7163	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\b9d2eb9f-4988-4526-8f7d-9534da895d09.lsf100%  
 	    New File  		    7153	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\ba184716-7d3c-420c-95bf-9bc6ccdd3506.lsf100%  
@@ -704,30 +726,30 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    7173	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\fdc950c2-9902-4b3b-a9e3-692e3fbb5fcf.lsf100%  
 	    New File  		    9743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\fe0b07ae-6c9d-4cc8-89c2-9117a0e6cd20.lsf100%  
 	    New File  		    1507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\RootTemplates\fe2d13c3-bb81-466a-a5e9-625dc5b4b509.lsf100%  
-	    New File  		   37334	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Generated\TreasureTable.txt100%  
-	    New File  		   60301	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Generated\Data\Armor.txt100%  
+	    New File  		   38214	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Generated\TreasureTable.txt100%  
+	    New File  		   64124	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Generated\Data\Armor.txt100%  
 	    New File  		    2006	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Stats\Generated\Data\Object.txt100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         7         7         1         0         0         0
-   Files :       243       243         0         0         0         0
-   Bytes :    1.61 m    1.61 m         0         0         0         0
-   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+   Files :       254       254         0         0         0         0
+   Bytes :    1.68 m    1.68 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :             8432815 Bytes/sec.
-   Speed :             482.529 MegaBytes/min.
-   Ended : Monday, August 11, 2025 1:10:57 AM
+   Speed :            34661941 Bytes/sec.
+   Speed :            1983.372 MegaBytes/min.
+   Ended : Monday, August 11, 2025 5:48:21 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 243 
-[DEBUG] Successfully copied files: 243 
+[DEBUG] Total files counted: 254 
+[DEBUG] Successfully copied files: 254 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5: 
-      Total files: 243 
-      Copied successfully: 243 
+      Total files: 254 
+      Copied successfully: 254 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -752,13 +774,13 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 243 
+[LOG] Files copied by xcopy: 254 
 SECTION 4: FINAL SUMMARY 
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 253 
-[SUMMARY] Total files successfully copied: 506 
+[SUMMARY] Total files found: 264 
+[SUMMARY] Total files successfully copied: 528 
  
 [SUMMARY] All files were copied successfully 
  

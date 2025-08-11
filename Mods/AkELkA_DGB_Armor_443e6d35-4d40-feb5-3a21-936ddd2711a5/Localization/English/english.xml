@@ -154,10 +154,10 @@
   <content contentuid="h9133c6ceg8b3bg6696g4a9eg936317c9244a" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
   <content contentuid="h03b5b946ge4fbg9d6bg6dd9gb741c88869db" version="4">Watch Commander armor</content>
   <content contentuid="hc6e59729geec8gb1a5gc8cag719168cf632d" version="4">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
-  <content contentuid="h8c4ec8b0gb39bga813gb240g239a2f796400" version="5">Guardian armor</content>
-  <content contentuid="hc7ea5f94g9a44g56fdg98d0g3ae967784a10" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
-  <content contentuid="hadb9b335ge7f5g3917gf6e5g5c2d422fc8cf" version="6">HalfPlate decorated armor</content>
-  <content contentuid="ha89592a8g9919g9f02gda16gb34074d4aae2" version="6">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
+  <content contentuid="h8c4ec8b0gb39bga813gb240g239a2f796400" version="8">Guardian armor</content>
+  <content contentuid="hc7ea5f94g9a44g56fdg98d0g3ae967784a10" version="8">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="hadb9b335ge7f5g3917gf6e5g5c2d422fc8cf" version="7">HalfPlate Decorated Armor</content>
+  <content contentuid="ha89592a8g9919g9f02gda16gb34074d4aae2" version="7">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
   <content contentuid="hcbc8e35eg39d2gfc51g0866g5df9a00086eb" version="5">Dwarven plate armor</content>
   <content contentuid="h7fe7cf23g77f9g4e30gf8ecgfee0d397bcb9" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
   <content contentuid="hf2e33f5dge37bga290g9e6dg5348bf3f52b3" version="7">Umberlee Robe A</content>
@@ -505,4 +505,21 @@
   <content contentuid="h69d3cf5fg95fag19degb0ddg409748a7e31f" version="3">Gloves are sturdy and made with care</content>
   <content contentuid="h6677b6a2gc06dgff88ga001gcec3026190f2" version="5">Shadow Druid Gloves A</content>
   <content contentuid="h2fbacbbcg980bge53cgb758gbccc23a0f49f" version="5">Gloves are sturdy and made with care</content>
+  <content contentuid="hc6daf18fg63a7g0cc9gd642g4380bc3484c8" version="5">Padded Armour A</content>
+  <content contentuid="h7dafe9a1g6091g4517g314cg5595ab496801" version="5">Padded Armour C</content>
+  <content contentuid="ha5d3159cgaa85gc289gebdcg0b35c1b0d19c" version="4">Padded Armour B</content>
+  <content contentuid="h11d205e1g51a9geaf2g3542gcb5b104fa1dd" version="4">Padded Armour D</content>
+  <content contentuid="h003f6752g4737g690bgea7eg7b58079c7d31" version="2">Padded Armour E</content>
+  <content contentuid="h76449bd6g0f35ge70fg56f0g8041b1dd28d5" version="3">HalfPlate Armor A</content>
+  <content contentuid="h1cfa6514g37d1gbbebg7d95g4a8ee3533676" version="3">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
+  <content contentuid="hb0d2086dga428g1196g181dg0367ad361185" version="2">HalfPlate Armor B</content>
+  <content contentuid="h9f5a1fa4g1fcdgfa7egce35gc47b15921ce0" version="2">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
+  <content contentuid="h85454544ga407gdfd8g1927geed9be437a38" version="2">HalfPlate Armor C</content>
+  <content contentuid="hf981025cg5755g7074g8fbcg37ca22344431" version="2">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
+  <content contentuid="ha9a10d34gf108g86e8g3673g7c09b322d95b" version="3">HalfPlate Lady Armor A</content>
+  <content contentuid="h3970ff69gd620g0bf0gb15cg2731bd991cdb" version="3">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
+  <content contentuid="h630ebd01g7d67g8791ga7caga6000165afbe" version="2">HalfPlate Lady Armor B</content>
+  <content contentuid="h243291c0g7fceg6adcg2947ge8b461af765c" version="2">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
+  <content contentuid="h927d1c8ag7e13gde08g0f4bg26992415bd35" version="2">HalfPlate Lady Armor C</content>
+  <content contentuid="hac292c9eg0405gec18gbe64g024d19ceb09f" version="2">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
 </contentList>
