@@ -327,6 +327,23 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="92b15dd2-fa89-4bbd-85a4-e7c11cc971cc" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Boots_Dark_Justiciar_B" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Plate" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="54a5281a-e417-4299-b840-a634e38d9e2e" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Skill(Athletics,1)" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="2" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e081b454-80bb-4ce9-9db3-60d536a69f4f" />
         <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Boots_Demon_A" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Plate" enumeration_type_name="ArmorType" version="1" />
@@ -492,8 +509,25 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7f18b4be-7829-4d5f-b9a0-3c1bf8bd17e2" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkElkA_ Boots_Metal_Githyanki_A_Broken" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Plate" enumeration_type_name="ArmorType" version="1" />
+        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1addcf9e-c736-4e0a-a405-a3d1941d6320" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Skill(Athletics,1)" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="2" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="4b8c91c7-fb58-4563-a916-4ff0208f2d60" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Boots_Mindflayer_A" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Boots_Mindflayer_A" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="07c3ef37-899d-4ade-9481-7939da51e579" />
         <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="45406dca-b446-4cc0-b8fa-9dfa895ccefb" />
@@ -502,20 +536,30 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="80eb12e4-2622-4815-a936-a4bf22dc25bf" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_DevilsBlackmith_Gloves_A" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a87d9447-81c5-4342-8159-343a8c24e0d7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2ad91df6-62ed-4f36-bd4b-c7ead70df675" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Boots_Cloth_B_Torn" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="090faab4-f448-45d3-a9cb-9e091239992d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fc767b5c-00ef-4bef-83b3-8efa039ee74f" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor;None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="1add6b9d-4edf-4887-89da-21314e33ff1d" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Body_Githyanki_Broken" />
+        <field name="UUID" type="IdTableFieldDefinition" value="514ac453-fdc5-4426-9853-41a850067892" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Boots_Cloth_C_Torn" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="090faab4-f448-45d3-a9cb-9e091239992d" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="33338738-fd60-4691-9b32-ca69f0a1618c" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f6dd8546-5248-400c-92d7-1846369bfe23" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor;None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="80eb12e4-2622-4815-a936-a4bf22dc25bf" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_DevilsBlackmith_Gloves_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a87d9447-81c5-4342-8159-343a8c24e0d7" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1762,7 +1806,7 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a70d12c9-7329-4e4e-b0e7-42179e9cf523" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_ChainShirt_Shar_Justiciar_Broken" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_ChainShirt_Shar_Justiciar_Broken" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="147ccec5-9aa7-4154-9e13-f3a55353273a" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="bafdc568-816d-415b-8d9b-d62d3e12d80a" />
       </fields>
@@ -1781,6 +1825,14 @@
         <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_ChainShirt_Shar_Justiciar_B" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="147ccec5-9aa7-4154-9e13-f3a55353273a" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ef550bf3-389f-4fd1-b2e2-11304debf59b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="603d9aa3-f438-40a0-800a-6d0b899fdb3b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_ChainShirt_Shar_Justiciar_of_Damned_Broken" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="147ccec5-9aa7-4154-9e13-f3a55353273a" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="18a879da-1a0e-41e4-8500-d4d12f14b751" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -3175,6 +3227,132 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="e0bfef29-473f-4c75-bf10-cba92237e229" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="acea3675-f347-44b2-8c78-cb5310d61c84" />
         <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0846ed61-4fbb-48c6-ac22-f10ba7e6d9c0" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bard_B" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f5e41d93-bb61-4300-80b5-664a7c8e5ef5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b74e4b7f-df54-4935-86cf-6de111642c63" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bard_C" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e3f82cda-9685-4097-a505-3a9711425141" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="59595206-3876-4079-83b5-98d42f3f4528" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bard_D" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a310eb84-5b81-4971-9417-da3fcaaebcec" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="56790d64-35fc-40dc-b3e0-a13c75a8fe57" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bard_E" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="85bd9e46-6d93-40cf-929c-365cac5aad21" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="21e2c5fd-5343-4b29-9729-d8ccb4d32271" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bard_F" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f7c5cee1-467e-4624-85b6-41adf5ec5b03" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e262959a-4f50-4acd-b979-9e64dfe4ba26" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Bard_H" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="Breast" enumeration_type_name="Itemslot" version="1" />
+        <field name="InventoryTab" type="EnumerationTableFieldDefinition" value="Equipment" enumeration_type_name="InventoryTabs" version="1" />
+        <field name="Shield" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
+        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="Ability" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="9495e96a-7e7c-4e3a-8d81-51611908908c" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:1" />
+        <field name="ValueRounding" type="BoolTableFieldDefinition" value="True" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="5" />
+        <field name="ComboCategory" type="StringTableFieldDefinition" value="DyableArmor" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e7d7162f-1798-40fc-b84b-8a5a65eb7f18" />
       </fields>
     </stat_object>
   </stat_objects>

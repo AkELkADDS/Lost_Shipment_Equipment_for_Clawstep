@@ -116,7 +116,7 @@
   <content contentuid="hb5510f0dg0ea7g8b50g4740g5caec21acb83" version="3">Metal Armour BGWatch A</content>
   <content contentuid="h8ac5e31cg11e4gaa64g2b06g55a53094f11d" version="2">Breastplate BGWatch A</content>
   <content contentuid="h30f355aeg2cedge714gc9c7gdec2460c5c59" version="2">Chainmail Boots A</content>
-  <content contentuid="hb16e5f61g2b26g45d2g2a63gbb5d1f030263" version="2">Dark Justiciar Footwear A</content>
+  <content contentuid="hb16e5f61g2b26g45d2g2a63gbb5d1f030263" version="3">Dark Justiciar Footwear</content>
   <content contentuid="h98bdc964gce35g8597g9ab8gcabed5f09440" version="1">Demonwight Boots A</content>
   <content contentuid="h195b1780gc31fgdbbbg6623gfed86ae59fcf" version="1">Gortash's Boots A</content>
   <content contentuid="h815c5a2fg77c8ga937ga3edgfdcadf9c21e9" version="1">Stiffly-Shod Hide Boots A</content>
@@ -229,7 +229,7 @@
   <content contentuid="h9a497f41gcbc8g0d6cgf5b8gc61254eaf046" version="2">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
   <content contentuid="h68ff533dg0742gf070g3b13g2268db35ad2f" version="6">Astarion's Leather Armour</content>
   <content contentuid="h47aff943g3187gd1f9g0120g550809c25a7f" version="6">Was magical once</content>
-  <content contentuid="h9e6b5641ge902g8803g34c4g38c7d47e634e" version="3">Bard's Garb</content>
+  <content contentuid="h9e6b5641ge902g8803g34c4g38c7d47e634e" version="5">Bard's Outfit A</content>
   <content contentuid="h444b7329geff9g2750g18e9g45e82ce4c6a0" version="3">Cloth Magic Armour A</content>
   <content contentuid="hdb537dd8ge4d4g2eaeg539eg1bcab5915056" version="3">Leather armor with decorations</content>
   <content contentuid="h3a0479d9gc8dbgca02g448fgd0bda3e3f1bd" version="5">Cloth Magic Armour B</content>
@@ -319,10 +319,10 @@
   <content contentuid="hc25ed18dg7341gea09g5897gb853d64f7b92" version="3">Drow Leather Armour </content>
   <content contentuid="hff2a5532gf3b8g2241g3a54g3d94a29394a8" version="4">Drow Leather Armour </content>
   <content contentuid="hfd032577g2896gad5ega75agd4bdfa8cc6c5" version="5">Drow Leather Armour </content>
-  <content contentuid="h147d6edag0b89g0895g3e8cgb0cfe1216757" version="6">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
-  <content contentuid="h3517fdbbg05cfgde45g5086g24a0c6a7dfbe" version="4">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
-  <content contentuid="hcbb1395dg8218g9a8fge950gcf14daaf5568" version="4">Chain Shirt Broken</content>
-  <content contentuid="h08d1393cg264cg4ec5gaea0g359fc1aacc21" version="2">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
+  <content contentuid="h147d6edag0b89g0895g3e8cgb0cfe1216757" version="7">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
+  <content contentuid="h3517fdbbg05cfgde45g5086g24a0c6a7dfbe" version="5">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
+  <content contentuid="hcbb1395dg8218g9a8fge950gcf14daaf5568" version="5">Dark Justiciar Armor Broken</content>
+  <content contentuid="h08d1393cg264cg4ec5gaea0g359fc1aacc21" version="3">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
   <content contentuid="h28bfd823ge32egf6dfg1fe1g673c89c6a13f" version="2">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
   <content contentuid="h3ed71c1fg28feg6d3bg424cg3671aec22578" version="5">Elven Chain Shirt</content>
   <content contentuid="h85dda2d4g0c46gb6fcg5cf7g893d1270c494" version="5">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy.</content>
@@ -371,14 +371,14 @@
   <content contentuid="h0653949bg7eecg8d4fg98b5g7e7676d00b6b" version="4">Gloves are sturdy and made with care</content>
   <content contentuid="hb486c048ge80fg7ff0g0381g29f5a02e19be" version="3">Daisy Gloves</content>
   <content contentuid="hc653e92fg2403gb0fdg9323g77678ae6de61" version="3">Gloves are sturdy and made with care</content>
-  <content contentuid="h4d0b4b91g7dbdgf069g1062g5e4d61ea82ea" version="4">Dark Justiciar Gloves A</content>
-  <content contentuid="h032350abgb5cdgc348g079fgc9229bbfea9e" version="4">Gloves are sturdy and made with care</content>
+  <content contentuid="h4d0b4b91g7dbdgf069g1062g5e4d61ea82ea" version="5">Dark Justiciar Gloves</content>
+  <content contentuid="h032350abgb5cdgc348g079fgc9229bbfea9e" version="5">Gloves are sturdy and made with care</content>
   <content contentuid="hb8dd2c96ge168geae5gbb84ge618b6cc8193" version="3">Bhaal Gloves A</content>
   <content contentuid="hae554009g78bbg0676g2564g85b8acfe0bb0" version="3">Gloves are sturdy and made with care</content>
   <content contentuid="hb5569fc3g5770gf1dagff88g5c3b567dd48b" version="3">Bhaal Rag Gloves A</content>
   <content contentuid="h1e0da1a9g0273g0b6ag42e9g007346ad0494" version="3">Gloves are sturdy and made with care</content>
-  <content contentuid="h30571d37g04a3g5265g8d4dge3696980506c" version="2">Dark Justiciar Gloves B</content>
-  <content contentuid="h8e87b4f4g272egd290gade4g21c651c4ed9b" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h30571d37g04a3g5265g8d4dge3696980506c" version="3">Dark Justiciar Gloves of Damned</content>
+  <content contentuid="h8e87b4f4g272egd290gade4g21c651c4ed9b" version="3">Gloves are sturdy and made with care</content>
   <content contentuid="h3e9ffc81gba9age784gdc81g358ffb4424ea" version="4">Cloth Magic Gloves A</content>
   <content contentuid="h1fd47d04gf943gce89g9a40g49d6c7e0ae97" version="4">Gloves are sturdy and made with care</content>
   <content contentuid="h6beea41dg1d72g1ed0g5d85g61ad8c83a522" version="4">Cloth Magic Gloves B</content>
@@ -559,4 +559,21 @@
   <content contentuid="h543ec08dg0ab6gba7bg4963g043f9183a3c3" version="2">Fashioned at the hands of someone deeply skilled... or, at the very least, someone who was having a good day at the loom and tailor shop.</content>
   <content contentuid="h6b814d07gb017gd8ffg9141gc7879e1cb919" version="2">Bhaal's Rags F</content>
   <content contentuid="h5ed8568cg3fc1gc6faga392g3073de8f2e7e" version="2">Fashioned at the hands of someone deeply skilled... or, at the very least, someone who was having a good day at the loom and tailor shop.</content>
+  <content contentuid="ha12ef8abg019cg87f7gfcf9g148c3c244516" version="1">Circus Clothes A</content>
+  <content contentuid="h499b85bdgfda5g2b5bgdfc6g94e5766ac9ac" version="1">Fashioned at the hands of someone deeply skilled... or, at the very least, someone who was having a good day at the loom and tailor shop.</content>
+  <content contentuid="h0e56b978g0c91gc573g1aa8g2aca737ab8e5" version="2">Bard's Outfit B</content>
+  <content contentuid="h1f71ca53g9c94g96edge7e0gd3e6931ee86c" version="4">Bard's Outfit C</content>
+  <content contentuid="haa986b3bgaf9dgf96bgaaedg5bd60b4ae5ae" version="3">Bard's Outfit D</content>
+  <content contentuid="he27464a3g55cbg8b5ag5c5bg606568f8c0ab" version="3">Bard's Outfit E</content>
+  <content contentuid="h46ddad96g4ad4g5400g8703g492a2d1e54ac" version="2">Bard's Outfit F</content>
+  <content contentuid="h8af6d309g614ag914dgc27cg02503e6d5427" version="2">Bard's Outfit H</content>
+  <content contentuid="h87f4a8dag197fg8303gf0f7g7bf0aef464a1" version="2">Githyanki Metal Boots A Broken</content>
+  <content contentuid="h177707b8gefc9gf278g3275g0a664168294b" version="2">Lavishly decorated boots, crafted on far-away planes from stolen metals and poached rubies.</content>
+  <content contentuid="h2be2375bgfffag7716gf78bg4ad83668b064" version="2">Cloth Boots B Torn</content>
+  <content contentuid="he9d3cc66g9dd0gdcf8g5ef1g2c1dc30bbc75" version="2">Cloth Boots C Torn</content>
+  <content contentuid="h48dfd69ag1b7cgac43g43efga5ba42ecd65d" version="3">Dark Justiciar Footwear of Damned</content>
+  <content contentuid="h812321e5g9a30gcbb2g8e26g8e05beab4304" version="1">Dark Justiciar Armor</content>
+  <content contentuid="h9d96b76ag688cg3e06g91c3gca1862135023" version="1">Dark Justiciar Armor</content>
+  <content contentuid="h6f957ff0g7f31gaf97g156fg4d1fb068f274" version="5">Dark Justiciar Armor of Damned</content>
+  <content contentuid="ha0d70d18g20e8g707ege634g92f5a7c62a12" version="5">While the stitching on the shirt is rushed and uneven, the chain mail is sturdy, and the garment is decorated with an obsidian disk that seems to swallow all light.</content>
 </contentList>
