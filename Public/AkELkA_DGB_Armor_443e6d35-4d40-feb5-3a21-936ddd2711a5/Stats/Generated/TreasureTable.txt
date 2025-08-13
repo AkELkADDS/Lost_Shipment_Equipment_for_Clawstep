@@ -391,8 +391,6 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_PlateMail_Oathbreaker_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_PlateMail_Decorated_B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkElkA_Breastplate_Gnoll_A",1,0,0,0,0,0,0,0
 new treasuretable "AkELKA_Chest_ChaosForge_Boots_A_TT"
 new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Dark_Justiciar_B",1,0,0,0,0,0,0,0
@@ -663,12 +661,6 @@ new subtable "1,1"
 object category "I_ARM_Cloak_Long_C_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Cloak_Long_D",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_Headwear_Gnoll_A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_Headwear_Gnoll_B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_Cult_Absolute_Headwear_B",1,0,0,0,0,0,0,0
 new treasuretable "AkELKA_Chest_ChaosForge_CampCloth_A_TT"
 new subtable "1,1"
 object category "I_ARM_Camp_Body_Astarion",1,0,0,0,0,0,0,0

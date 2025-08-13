@@ -2113,54 +2113,6 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="16fffa43-6597-459b-b08c-6edfab58e32e" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkElkA_Breastplate_Gnoll_A" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="17fbd33d-6377-4ec4-b642-5c6e9b063366" />
-        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="11" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Padded" enumeration_type_name="ArmorType" version="1" />
-        <field name="MinAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="MaxAmount" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
-        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
-        <field name="Armor Class Ability" type="EnumerationTableFieldDefinition" value="Dexterity" enumeration_type_name="Ability" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c861af5f-0090-45e9-ad68-ff978f62e05c" />
-        <field name="Weight" type="FloatTableFieldDefinition" value="3.6" />
-        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.8" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="59458f85-fb8f-4287-ac1e-555ae9691eaf" />
-        <field name="Name" type="NameTableFieldDefinition" color="#FF6A5ACD" value="ARM_AkELkA_Headwear_Gnoll_A" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="92049dee-1531-4b2d-819e-3d63b94ffd08" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0c9aa895-1d24-4942-89ac-32c0411f1be7" />
-        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.3" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="742bf96c-48dc-484c-9653-e855ca8329ff" />
-        <field name="Name" type="NameTableFieldDefinition" color="#FF6A5ACD" value="ARM_AkELkA_Headwear_Gnoll_B" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="92049dee-1531-4b2d-819e-3d63b94ffd08" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="165ca72c-e758-4a08-b4b6-450bce8974d9" />
-        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.3" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="9bae3015-5469-46bf-a074-5e58fc033954" />
-        <field name="Name" type="NameTableFieldDefinition" color="#FF9370DB" value="ARM_AkELkA_Cult_Absolute_Headwear_B" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="92049dee-1531-4b2d-819e-3d63b94ffd08" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Cloth" enumeration_type_name="ArmorType" version="1" />
-        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="472dca31-b11c-4c75-9a1c-1bfc47ceb62a" />
-        <field name="ValueScale" type="FloatTableFieldDefinition" value="0.3" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a776edd6-d5fe-4ce9-b7e4-ac2b9d89fc0d" />
         <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Gloves_Bane_A" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
