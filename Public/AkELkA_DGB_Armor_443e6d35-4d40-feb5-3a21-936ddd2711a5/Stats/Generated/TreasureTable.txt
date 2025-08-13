@@ -62,6 +62,12 @@ object category "I_ARM_AkELkA_ChainShirt_Shar_Justiciar_Broken",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_ChainShirt_Shar_Justiciar_of_Damned_Broken",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkELkA_BreastPlate_Lady_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_BreastPlate_Lady_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_BreastPlate_Lady_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_UNI_Astarion_StarterArmor",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Astarion_A",1,0,0,0,0,0,0,0
@@ -375,12 +381,6 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_HalfPlate_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_HalfPlate_C",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_HalfPlate_Lady_A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_HalfPlate_Lady_B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_HalfPlate_Lady_C",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_PlateMail_A",1,0,0,0,0,0,0,0
 new subtable "1,1"

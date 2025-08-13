@@ -2933,40 +2933,40 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="36a01fb7-ebec-4276-83b0-6bcbb15bd5ec" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Lady_A" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_BreastPlate_Lady_A" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
         <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="29bb29db-b5c1-44bc-84de-633f11bb7bd4" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="BreastPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="3f3fb6f1-06d8-47e5-b970-864aeebd18bf" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Lady_B" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_BreastPlate_Lady_B" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
         <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="446cb6c7-c10a-48e4-87e9-d37c5d68b111" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="BreastPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="22529913-64d7-49d7-ac02-8a226be36c85" />
-        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_HalfPlate_Lady_C" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_BreastPlate_Lady_C" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
         <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b92dfcbd-c2bf-45b0-9a0d-4772bbbc9452" />
         <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="HalfPlate" enumeration_type_name="ArmorType" version="1" />
-        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="MediumArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="BreastPlate" enumeration_type_name="ArmorType" version="1" />
+        <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="LightArmor" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
