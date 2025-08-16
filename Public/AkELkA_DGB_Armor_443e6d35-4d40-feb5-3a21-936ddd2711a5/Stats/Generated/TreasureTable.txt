@@ -40,11 +40,13 @@ object category "I_ARM_AkELkA_ChainShirt_Elven_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Dwarven_Plate_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkELkA_Demon_Body_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Cloth_Gortash",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_AkELkA_Ketheric_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Ketheric_B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_Demon_Body_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Orin",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -231,6 +233,8 @@ new subtable "1,1"
 object category "I_ARM_Monk",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Cloth_Magic_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "ARM_AkELkA_Cloth_Magic_C",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Cloth_Magic_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
