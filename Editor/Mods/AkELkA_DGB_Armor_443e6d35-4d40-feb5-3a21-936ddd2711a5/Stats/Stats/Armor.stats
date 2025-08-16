@@ -3101,11 +3101,14 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="4712d777-a088-4760-8cf5-721a3443647c" />
-        <field name="Name" type="NameTableFieldDefinition" color="#FF2F4F4F" value="ARM_AkELkA_Mindflayer_A" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="bf036aaa-8c14-4ade-bec1-ff76d89e1d88" />
+        <field name="UUID" type="IdTableFieldDefinition" value="537f4e41-3b95-4a05-94dc-a3b1b4249f08" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Mindflayer_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="b66eee7b-5a31-4eb5-8494-606a3119137e" />
+        <field name="ArmorClass" type="IntegerTableFieldDefinition" value="16" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6a59f41c-6411-4c09-a678-28f22d8ac13d" />
-        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="ScaleMail" enumeration_type_name="ArmorType" version="1" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="f0307da3-feb7-40b0-bd62-18eea9167021" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="ArmorType" version="1" />
         <field name="Proficiency Group" type="EnumerationListTableFieldDefinition" value="None" enumeration_type_name="ProficiencyGroupFlags" version="1" />
       </fields>
     </stat_object>
