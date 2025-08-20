@@ -227,8 +227,8 @@
   <content contentuid="hb5d07e0fgefe5g199eg9333g1b1d77a9fe35" version="2">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
   <content contentuid="hc829049egb70cgc27bgddadg4be94dee8299" version="2">Bandit's Armour F</content>
   <content contentuid="h9a497f41gcbc8g0d6cgf5b8gc61254eaf046" version="2">This lightweight armour appears to have been quickly produced, skipped stitches and fraying edges betraying the inattention of its maker.</content>
-  <content contentuid="h68ff533dg0742gf070g3b13g2268db35ad2f" version="7">Rich Leather Armour</content>
-  <content contentuid="h47aff943g3187gd1f9g0120g550809c25a7f" version="7">Was magical once</content>
+  <content contentuid="h68ff533dg0742gf070g3b13g2268db35ad2f" version="8">Rich Leather Armour A</content>
+  <content contentuid="h47aff943g3187gd1f9g0120g550809c25a7f" version="8">Was magical once</content>
   <content contentuid="h9e6b5641ge902g8803g34c4g38c7d47e634e" version="5">Bard's Outfit A</content>
   <content contentuid="h444b7329geff9g2750g18e9g45e82ce4c6a0" version="3">Cloth Magic Armour A</content>
   <content contentuid="hdb537dd8ge4d4g2eaeg539eg1bcab5915056" version="3">Leather armor with decorations</content>
@@ -582,4 +582,6 @@
   <content contentuid="h42cdf080ge6eag7729ge748gfe58a5fdc27d" version="1">Leather armor with decorations</content>
   <content contentuid="hdf49b39fg7fe8g56fag95d2gc5c413530605" version="4">Gortash's Outfit</content>
   <content contentuid="h7761248fg866dg6411g47adgbe4cd98ef522" version="4">Leather armor with decorations</content>
+  <content contentuid="h027db73cgd0fegf3c8gcecdg5479cd81cdb0" version="2">Rich Leather Armour B</content>
+  <content contentuid="h47fc1864ge752g976bg9b4ag4fa764001072" version="2">Was magical once</content>
 </contentList>

@@ -74,6 +74,8 @@ object category "I_UNI_Astarion_StarterArmor",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Astarion_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkELkA_Astarion_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_Bard",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Bard_A",1,0,0,0,0,0,0,0
