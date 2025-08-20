@@ -60,6 +60,8 @@ object category "I_ARM_AkELkA_Padded_Broken_A_0",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_HalfPlate_Body_Githyanki_Broken",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkELkA_ChainShirt_Shar_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_AkELkA_ChainShirt_Shar_Justiciar_Broken",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_ChainShirt_Shar_Justiciar_of_Damned_Broken",1,0,0,0,0,0,0,0
@@ -323,8 +325,6 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_ChainShirt_Shar_Justiciar_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_ChainShirt_Shar_Justiciar_B",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_ChainShirt_Shar_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_ChainShirt_Body",1,0,0,0,0,0,0,0
 new subtable "1,1"
