@@ -278,10 +278,10 @@
   <content contentuid="hcf202180g1fb2g0a9agae03gd97d12166c0c" version="6">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
   <content contentuid="h55d9d9c2ge512g730agf84bg332dffa846e1" version="6">Mage Robe of Changing</content>
   <content contentuid="ha7d32f4bgd8eagb914geb7cgc1b51e9b3e13" version="6">Different garments for each gender - rougher for females, satin for males. Crafted with care, this robe will protect you from the elements, though it won’t offer much against a sword’s thrust.</content>
-  <content contentuid="hee2ab08dg7d50gfc35ga542gca45e9b4aaf1" version="4">Sun Robe</content>
-  <content contentuid="hca51205cg540cg94f6g212bgf53f6224dc75" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
-  <content contentuid="h121176f4gcbe2ge39cg98afg55c62f5498d5" version="2">Elegant Robe</content>
-  <content contentuid="h315a6478g2152gd850gb549g6ff2c4ae395d" version="2">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="hee2ab08dg7d50gfc35ga542gca45e9b4aaf1" version="6">Elegant  Robe</content>
+  <content contentuid="hca51205cg540cg94f6g212bgf53f6224dc75" version="6">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
+  <content contentuid="h121176f4gcbe2ge39cg98afg55c62f5498d5" version="3">Sun Robe</content>
+  <content contentuid="h315a6478g2152gd850gb549g6ff2c4ae395d" version="3">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
   <content contentuid="h524f62aagfdc2g0ee2ga286g3d9c48b7198f" version="4">Undead Robe</content>
   <content contentuid="h6dd3a867gcc39g8e15g8ac7gf8d21591f69e" version="4">Crafted with care, this robe will protect you from the elements. It won't do much against a sword's thrust, though.</content>
   <content contentuid="hd9e8efd4gff4bga4ebgab36ged613bae8b59" version="5">Wizard Robe</content>
@@ -561,7 +561,7 @@
   <content contentuid="h5ed8568cg3fc1gc6faga392g3073de8f2e7e" version="2">Fashioned at the hands of someone deeply skilled... or, at the very least, someone who was having a good day at the loom and tailor shop.</content>
   <content contentuid="ha12ef8abg019cg87f7gfcf9g148c3c244516" version="1">Circus Clothes A</content>
   <content contentuid="h499b85bdgfda5g2b5bgdfc6g94e5766ac9ac" version="1">Fashioned at the hands of someone deeply skilled... or, at the very least, someone who was having a good day at the loom and tailor shop.</content>
-  <content contentuid="h0e56b978g0c91gc573g1aa8g2aca737ab8e5" version="2">Bard's Outfit B</content>
+  <content contentuid="h0e56b978g0c91gc573g1aa8g2aca737ab8e5" version="3">Bard's Outfit B</content>
   <content contentuid="h1f71ca53g9c94g96edge7e0gd3e6931ee86c" version="4">Bard's Outfit C</content>
   <content contentuid="haa986b3bgaf9dgf96bgaaedg5bd60b4ae5ae" version="3">Bard's Outfit D</content>
   <content contentuid="he27464a3g55cbg8b5ag5c5bg606568f8c0ab" version="3">Bard's Outfit E</content>
@@ -584,4 +584,7 @@
   <content contentuid="h7761248fg866dg6411g47adgbe4cd98ef522" version="4">Leather armor with decorations</content>
   <content contentuid="h027db73cgd0fegf3c8gcecdg5479cd81cdb0" version="2">Rich Leather Armour B</content>
   <content contentuid="h47fc1864ge752g976bg9b4ag4fa764001072" version="2">Was magical once</content>
+  <content contentuid="hd5fe38c1gc3f0gb835g9018gfa140cbbfa6c" version="2">CultOfAbsolute Simple Robe D</content>
+  <content contentuid="haaa35ed1g9c04g7783ge31ega82f983d7fc1" version="2">Bard's Outfit I</content>
+  <content contentuid="h8d757af9ga77bg3fa1gf72fg8b06bdbd60ac" version="2">Bard's Outfit J</content>
 </contentList>

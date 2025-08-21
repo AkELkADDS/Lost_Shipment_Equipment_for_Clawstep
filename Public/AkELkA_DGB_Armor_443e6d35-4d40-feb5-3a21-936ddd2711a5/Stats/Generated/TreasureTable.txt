@@ -80,11 +80,11 @@ object category "I_ARM_AkELkA_Astarion_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Bard",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_ARM_AkELkA_Bard_A",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ARM_AkELkA_Bard_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Bard_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Bard_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Bard_H",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -93,6 +93,10 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_Bard_E",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Bard_F",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Bard_I",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Bard_J",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Padded_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -221,6 +225,8 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_Robe_CultOfAbsolute_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Robe_CultOfAbsolute_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Robe_CultOfAbsolute_D",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Bandit_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
