@@ -3393,5 +3393,221 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="1.8" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="375334cf-2864-4b35-808f-7b6a6b1be3cb" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF483D8B" value="ARM_AkELkA_Underwear_Dragonborn_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7f59fa61-04a5-436a-8d48-16e614e90b09" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2313d6d8-49e4-43ea-836f-c31e29e7cc35" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Dragonborn_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f8c0e91d-1359-46ef-b2c9-53a571b48ed7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="815ff898-1730-4703-a0df-935b3005b662" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Dragonborn_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e5414ee0-a22b-4818-9623-72bc60a215e3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a829957e-28d5-494c-91ff-f3c11a66cbc2" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF483D8B" value="ARM_AkELkA_Underwear_Dwarves_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6e17c24d-d8df-4da2-aed1-0ac0eda9844c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="35156342-9b40-4fd4-bb7c-3c962672d096" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Dwarves_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cc5ed1a6-134c-47d4-be53-bd2029708b7d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a5f1ca45-41f3-41ae-a363-4bd6e1564d62" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Dwarves_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7f3834bc-93cc-4299-9bd7-7c2a7e52c545" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8e69e859-38ac-4304-a4a6-b9b9eebf124c" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF483D8B" value="ARM_AkELkA_Underwear_Elves_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="952f7c10-f1ba-48df-b1ea-8d6329cdce46" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3d29fbc9-aeca-4d07-8e8d-df72d745b395" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Elves_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e77013dd-3345-418e-9f4c-8d4e19b26d8c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a7ae8fb1-1aa6-439c-b69e-f85d4fcd645c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Elves_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="86688cb6-59fb-4272-9678-a0c485c1fe27" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="49c5f862-715c-4e98-9c92-ddaddffcfe4b" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF483D8B" value="ARM_AkELkA_Underwear_Githyanki_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a4b8b0a2-7cad-439c-a45b-a8e49f13c0a5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f8f8fd69-7eac-492a-8257-a14d8b9f358e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Githyanki_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8a12eb6b-277f-4494-a119-9199e29ab70e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3c1ffaa4-209f-4d80-b3fd-1bd0719ba910" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Githyanki_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2afac5a6-a945-4855-ae1d-741c45bfce49" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="11dc73c5-f1d4-416f-a071-7b7caedf2c05" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF483D8B" value="ARM_AkELkA_Underwear_Gnomes_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7557131a-bcb0-4290-9634-b9c2e108afe1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="42688489-b28c-4d81-99db-380573070f1f" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF483D8B" value="ARM_AkELkA_Underwear_Halflings_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8d810496-f56d-4331-b9d3-697b983e8d50" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1cfba281-d97c-4eed-9278-12dcb1494213" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF483D8B" value="ARM_AkELkA_Underwear_HalfOrcs_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7a73af6a-a0cb-45ce-8975-2078a0ead87f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d14f176f-85b6-4e2b-8fe1-c4afecdf6c73" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_HalfOrcs_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5ec9e2e6-a124-4c57-900d-9dbbc1061b0e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="422df4f2-d9ce-4017-840c-d20dcdc5493e" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF483D8B" value="ARM_AkELkA_Underwear_Incubus_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6ad10423-b99f-444a-beb9-4f8a0efbf514" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8f688f30-198a-43bd-b1e2-af0bb0d88c97" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Incubus_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5d547480-559a-4aba-8454-5363e05b903e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ea56f60e-07f2-4163-b4f5-8649d74a6645" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Incubus_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="af848e6e-0a96-4478-a1f5-57766d0f4adc" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b7eb2938-0d89-4ad1-ab9a-ffdef7584d85" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Incubus_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="376fc565-5fe4-4e18-a65b-2740c153ef90" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5113ec6b-e99d-48a3-a09e-f2ff26ae1513" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Incubus_E" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b8c5cb3d-637d-49ee-81d1-c5e4da379717" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3268a58d-4b42-4607-85ef-f632b9ed9d62" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="ARM_AkELkA_Underwear_Tieflings_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1a62b1bf-7ab3-4bdb-bcd9-5c99aa5d22b8" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c03918f4-602f-47e4-9b3f-cba3ec4f759a" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Humans_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="28cde4db-f0de-45ed-8add-8b5d65322247" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="850ab991-0206-477d-a1ed-b8f76550e17b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Humans_B" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5adc066d-ed8c-4f2d-8738-3ffb60bbe07e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7bc6774b-84e8-47b4-89f8-57492e51ae8c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Humans_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3f2339f8-aa5d-4f0a-95a4-5b8409921ed4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2c3a175a-7234-4e93-b2f8-f2ba769fdb90" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Humans_E" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3d82358e-b788-41d4-933c-39168d633e1d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2bcf646b-1da8-4647-8761-e8075256c00c" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Underwear_Humans_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ea6fe38d-3881-4956-8977-4f58d9703825" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="cf4dfec7-70a6-4057-b2b9-e1e825094bae" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

@@ -116,17 +116,6 @@
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="4048d6a5-bdc9-4e5c-a5fb-435e63c3970e" />
-        <field name="UUID" type="IdTableFieldDefinition" value="84967d23-ccca-49bf-957e-56358112cc98" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_A_TT_substat_2" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_AkELkA_Chest_ChaosForge_Z_LostShipment_DEBUG_A" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
     <stat_object color="#FF483D8B" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="fbd74175-d89a-4091-be4f-5681bf35f6a2" />
@@ -5084,11 +5073,11 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="ca11e70a-f4fe-4fbd-8adf-7e6e829d6e05" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8a0a43dd-00d0-4c56-b3bb-d77846c7f5fe" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_14" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_Dragonborn" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -5096,10 +5085,43 @@
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
         <field name="UUID" type="IdTableFieldDefinition" value="14575ea7-d900-4e80-bf23-12c0bdac3214" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_13" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_2" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Dragonborn_Bronze" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9d25746b-1149-4322-8ee2-b98b184b2e7b" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Dragonborn_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f8aeb8ba-0614-40cd-a40d-6b1ea8dbfe90" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_13" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Dragonborn_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0ab439b9-2bcf-4c38-afc7-ed3957bdd9ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_32" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Dragonborn_C" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -5110,18 +5132,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_15" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Dwarves" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="8a0a43dd-00d0-4c56-b3bb-d77846c7f5fe" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_14" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Dragonborn" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_Dwarves" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -5139,33 +5150,77 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0eb1e5f5-621e-41d0-8d9c-d210d799bcf0" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_33" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Dwarves_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4fcae0b7-2ad8-4e65-bf05-b4707af3e51b" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_34" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Dwarves_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4402ed83-6eea-4a00-b3c7-b292532ee949" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_35" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Dwarves_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
         <field name="UUID" type="IdTableFieldDefinition" value="f7bd56d1-1aca-4a1c-bfa9-484281abe14d" />
         <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_17" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Elves" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_Elves" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="e2666bfa-cc23-4a2a-acf2-c5bbce4e83ed" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_18" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e6d939ab-7215-4777-adab-37fa5274c224" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_36" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Elves_Blue" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Elves_A" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="b82a0ccb-abb8-4126-9a48-863dc2528782" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="92317237-bf82-437a-8c5d-b1d76f4a97c2" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_37" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Elves_Purple" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Elves_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="73da4811-448c-46cf-a690-644ab1a04bbd" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_38" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Elves_C" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -5176,106 +5231,40 @@
         <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_20" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Githyanki" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_Githyanki" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="da910ea5-1a08-4fd2-86f4-0ad5a08602c1" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_21" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a6eea607-dfbc-4419-beba-605e70b38265" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_39" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Githyanki_Black" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Githyanki_A" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="235b2137-7b3a-469b-9c34-be0ce203b18b" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_22" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7d9b536b-8320-422f-a7d7-126d0a81f881" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_40" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Gnomes" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Githyanki_B" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="24d8b16b-e05a-4c20-84bf-cfa6b3d665f6" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_23" />
+        <field name="UUID" type="IdTableFieldDefinition" value="123ea379-62ed-4087-9f34-de6729262d93" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_41" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Gnomes_Blue" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="81a46e3c-ce10-4db1-89ae-0b030a4d03a8" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_24" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Halflings" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="5490a7a1-4725-40c7-9a3b-e9f907eccfe9" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_25" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_HalfOrcs" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="dcb9ce30-eeb5-4628-a152-04e8bb73df39" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_26" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_HalfOrcs_Orange" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="27513954-997e-4b8d-be9b-c3c1466953e5" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_27" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Humans" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="c028ec7c-a9aa-432e-8a84-8a3db615e8e2" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_28" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Humans_B" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
-        <field name="UUID" type="IdTableFieldDefinition" value="e94147de-3e79-4dc3-ae6d-3a412c60c1b2" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_29" />
-        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Humans_C" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Githyanki_C" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -5286,7 +5275,150 @@
         <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_30" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Incubus" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_Incubus" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fa8320a7-4f4c-44b2-bb39-f7787bdf24cd" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_46" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Incubus_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="191ae0e0-cc41-4e85-980a-6edeaf698d48" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_47" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Incubus_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1cd71b1d-261d-4a58-adee-ff1fb6feee00" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_48" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Incubus_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="97bf1ae3-91de-415c-bcf0-ed9392f7a3c9" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_49" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Incubus_D" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f85762bd-c6a6-4183-90fc-35f078b3ed94" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_50" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Incubus_E" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="235b2137-7b3a-469b-9c34-be0ce203b18b" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_22" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_Gnomes" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4122853e-fa94-47c6-9cf8-903ec83047fe" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_42" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Gnomes_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="81a46e3c-ce10-4db1-89ae-0b030a4d03a8" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_24" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_Halflings" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="262374d7-6b89-4b29-be4f-2b73b08caf54" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_43" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Halflings_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5490a7a1-4725-40c7-9a3b-e9f907eccfe9" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_25" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_HalfOrcs" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ac5c7387-c29d-42fb-9d3e-c1085fe5568a" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_44" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_HalfOrcs_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b3cdf14a-4072-4998-9811-149648aebb59" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_45" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_HalfOrcs_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="574c7f19-f8ee-44e1-a52f-0875966675c0" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_21" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_AkELkA_Underwear_Tieflings_A" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -5294,10 +5426,98 @@
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
         <field name="UUID" type="IdTableFieldDefinition" value="291fd506-2de6-4805-afec-0e6d1c7e3bcd" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_31" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_23" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Tieflings" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="27513954-997e-4b8d-be9b-c3c1466953e5" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_12" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF8C00" value="I_ARM_Underwear_Humans" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f16cbd43-8bd4-4353-8192-2895e7d448fb" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_26" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Humans_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c028ec7c-a9aa-432e-8a84-8a3db615e8e2" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_18" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Humans_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="85f25a92-7d66-4a31-a747-11f19ac69571" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_27" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Humans_B" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e94147de-3e79-4dc3-ae6d-3a412c60c1b2" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_19" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Underwear_Humans_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ec8fbe50-a834-4ec9-996a-67c7c80f57d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_28" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Humans_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0654e1c7-5656-4eb6-94c5-f06e0127cc3e" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_31" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Humans_E" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71c1b906-0a24-43e5-90ea-3daa456cd554" />
+        <field name="UUID" type="IdTableFieldDefinition" value="194f6159-e62e-4ab2-9a10-dbaf29a9fdc1" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Underwear_A_TT_substat_29" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Underwear_Humans_D" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

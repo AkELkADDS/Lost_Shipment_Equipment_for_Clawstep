@@ -2601,3 +2601,138 @@ data "MinLevel" "1"
 data "Armor Class Ability" "Dexterity"
 data "Proficiency Group" "None"
 
+new entry "ARM_AkELkA_Underwear_Dragonborn_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "7f59fa61-04a5-436a-8d48-16e614e90b09"
+
+new entry "ARM_AkELkA_Underwear_Dragonborn_B"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "f8c0e91d-1359-46ef-b2c9-53a571b48ed7"
+
+new entry "ARM_AkELkA_Underwear_Dragonborn_C"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "e5414ee0-a22b-4818-9623-72bc60a215e3"
+
+new entry "ARM_AkELkA_Underwear_Dwarves_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "6e17c24d-d8df-4da2-aed1-0ac0eda9844c"
+
+new entry "ARM_AkELkA_Underwear_Dwarves_B"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "cc5ed1a6-134c-47d4-be53-bd2029708b7d"
+
+new entry "ARM_AkELkA_Underwear_Dwarves_C"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "7f3834bc-93cc-4299-9bd7-7c2a7e52c545"
+
+new entry "ARM_AkELkA_Underwear_Elves_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "952f7c10-f1ba-48df-b1ea-8d6329cdce46"
+
+new entry "ARM_AkELkA_Underwear_Elves_B"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "e77013dd-3345-418e-9f4c-8d4e19b26d8c"
+
+new entry "ARM_AkELkA_Underwear_Elves_C"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "86688cb6-59fb-4272-9678-a0c485c1fe27"
+
+new entry "ARM_AkELkA_Underwear_Githyanki_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "a4b8b0a2-7cad-439c-a45b-a8e49f13c0a5"
+
+new entry "ARM_AkELkA_Underwear_Githyanki_B"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "8a12eb6b-277f-4494-a119-9199e29ab70e"
+
+new entry "ARM_AkELkA_Underwear_Githyanki_C"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "2afac5a6-a945-4855-ae1d-741c45bfce49"
+
+new entry "ARM_AkELkA_Underwear_Gnomes_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "7557131a-bcb0-4290-9634-b9c2e108afe1"
+
+new entry "ARM_AkELkA_Underwear_Halflings_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "8d810496-f56d-4331-b9d3-697b983e8d50"
+
+new entry "ARM_AkELkA_Underwear_HalfOrcs_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "7a73af6a-a0cb-45ce-8975-2078a0ead87f"
+
+new entry "ARM_AkELkA_Underwear_HalfOrcs_B"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "5ec9e2e6-a124-4c57-900d-9dbbc1061b0e"
+
+new entry "ARM_AkELkA_Underwear_Incubus_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "6ad10423-b99f-444a-beb9-4f8a0efbf514"
+
+new entry "ARM_AkELkA_Underwear_Incubus_B"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "5d547480-559a-4aba-8454-5363e05b903e"
+
+new entry "ARM_AkELkA_Underwear_Incubus_C"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "af848e6e-0a96-4478-a1f5-57766d0f4adc"
+
+new entry "ARM_AkELkA_Underwear_Incubus_D"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "376fc565-5fe4-4e18-a65b-2740c153ef90"
+
+new entry "ARM_AkELkA_Underwear_Incubus_E"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "b8c5cb3d-637d-49ee-81d1-c5e4da379717"
+
+new entry "ARM_AkELkA_Underwear_Tieflings_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "1a62b1bf-7ab3-4bdb-bcd9-5c99aa5d22b8"
+
+new entry "ARM_AkELkA_Underwear_Humans_A"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "28cde4db-f0de-45ed-8add-8b5d65322247"
+
+new entry "ARM_AkELkA_Underwear_Humans_B"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "5adc066d-ed8c-4f2d-8738-3ffb60bbe07e"
+
+new entry "ARM_AkELkA_Underwear_Humans_C"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "3f2339f8-aa5d-4f0a-95a4-5b8409921ed4"
+
+new entry "ARM_AkELkA_Underwear_Humans_E"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "3d82358e-b788-41d4-933c-39168d633e1d"
+
+new entry "ARM_AkELkA_Underwear_Humans_D"
+type "Armor"
+using "ARM_Underwear"
+data "RootTemplate" "cf4dfec7-70a6-4057-b2b9-e1e825094bae"
+
