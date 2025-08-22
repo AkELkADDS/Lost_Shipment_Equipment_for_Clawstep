@@ -168,6 +168,8 @@ object category "I_ARM_AkElkA_Metal_DevilsBlacksmith_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkElkA_Metal_DevilsBlacksmith_C",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkELkA_Devils_Halfplate_Body_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_Leather_Body_Minsc",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Barbarian",1,0,0,0,0,0,0,0
@@ -265,8 +267,6 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_Robe_Weave_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_UNI_GaleRobe",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_Robe_Body",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Robe_A_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -418,6 +418,8 @@ new subtable "1,1"
 object category "I_ARM_AkElkA_Boots_Metal_Oathbreaker_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkElkA_Boots_Metal_DevilsBlacksmith_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Devils_Halfplate_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Isobel",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -609,6 +611,8 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_Gloves_Demon_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Gloves_Devils_Halfplate_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Gloves_Devils_Halfplate_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Gloves_Githyanki_HalfPlate_A",1,0,0,0,0,0,0,0
 new subtable "1,1"

@@ -142,8 +142,8 @@
   <content contentuid="ha1603d48g04bcg5febg560cg0fe206ed680b" version="4">Nothing stings the master blacksmith more than a cancelled commission - not even molten iron. This mail is engraved with the mark of a devillish forgemaster, as well as several curses stamped out in Infernal, and hums with diabolic magic.</content>
   <content contentuid="h6af78c09gd552g2a07gfd06gfa22e8e291d7" version="4">Unwanted Masterwork Gauntlets</content>
   <content contentuid="hb3ebee6bg7343gee6eg44dcgc635c3bccd69" version="4">These gauntlets spark with unfinished, yet still potent devillish magic - indicative of a cancelled blacksmith's commission. </content>
-  <content contentuid="h15f1e162g8307ga532g319ag9a65f8a63f31" version="4">Githyanki Half Plate Broken</content>
-  <content contentuid="ha4e85f30g22f7g78d8g0e3eg7394692a643f" version="4">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith, broken, though</content>
+  <content contentuid="h15f1e162g8307ga532g319ag9a65f8a63f31" version="6">Githyanki Half Plate Broken</content>
+  <content contentuid="ha4e85f30g22f7g78d8g0e3eg7394692a643f" version="6">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith, broken, though</content>
   <content contentuid="h84f4acf7g755dg59bdg931ag68b45e71ff63" version="1">Githyanki Half Plate</content>
   <content contentuid="hfd0710d6gb304gebccg0976g686a34a0f72f" version="1">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
   <content contentuid="h9c92c5beg92e8g0939gfa83g6f7783c45d68" version="4">Unwanted Masterwork Scalemail B</content>
@@ -385,8 +385,8 @@
   <content contentuid="h5f846c09ga694g9510gf47fg0883bd097e1a" version="4">Gloves are sturdy and made with care</content>
   <content contentuid="hf9d06563gb2ddgdc88gd88bg3079cb442a52" version="3">Demon Gloves A</content>
   <content contentuid="h64567b8bg5db3g5454ge720g5c332c420450" version="3">Gloves are sturdy and made with care</content>
-  <content contentuid="hcc79b6a8gbd13g8af4gbc1bg433ff65920fd" version="3">Devils Halfplate Gloves A</content>
-  <content contentuid="hcfa0700ag3cd3g5862g1296g21c90502e11c" version="3">Gloves are sturdy and made with care</content>
+  <content contentuid="hcc79b6a8gbd13g8af4gbc1bg433ff65920fd" version="4">Devils Halfplate Gloves</content>
+  <content contentuid="hcfa0700ag3cd3g5862g1296g21c90502e11c" version="4">Gloves are sturdy and made with care</content>
   <content contentuid="h16fbd6bbgc43ag64a3g4089g1c2bd38d5b8b" version="5">Elven ChainShirt Gloves</content>
   <content contentuid="h157a7ae7g49b5gf3fcg33bfge11c394945d1" version="5">Gloves are sturdy and made with care</content>
   <content contentuid="h062cab86g7b01gb981g6351gad608f77648f" version="4">Githyanki HalfPlate Gloves A</content>
@@ -614,4 +614,9 @@
   <content contentuid="h1250ad3bg315eg1612g4b28g9ca7cebe8173" version="2">Full Humans Underwear C</content>
   <content contentuid="he06bf9f6gc6ebg0762g3b79g8e48e0a77fd5" version="2">Full Humans Underwear D</content>
   <content contentuid="h72d34b33gbc23g2665g6b47g34a4733682a4" version="2">Bottom of Humans Underwear D</content>
+  <content contentuid="hb56c68feg77c3gf065g4d12g6d4c9bafd253" version="2">Single Devils Halfplate Glove</content>
+  <content contentuid="h88092450g01f2gc1c5g8b9dg1f4d7cd5916a" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h2b15b65bgdaefg284eg46dcg5386f739c517" version="2">Devil's Halfplate</content>
+  <content contentuid="h14f52de2g59d5g39bcg9ca1g641a30496394" version="2">Looks different on some races .Nothing stings the master blacksmith more than a cancelled commission - not even molten iron. This mail is engraved with the mark of a devillish forgemaster, as well as several curses stamped out in Infernal, and hums with diabolic magic.</content>
+  <content contentuid="hfc0b5cb4g677ag5250g5b09gde3f66de7eba" version="2">Devil's Boots</content>
 </contentList>
