@@ -417,10 +417,6 @@ object category "I_ARM_Boots_Metal_Karlach",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkElkA_Boots_Metal_Oathbreaker_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_ARM_AkElkA_Boots_Metal_DevilsBlacksmith_A",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_Boots_Devils_Halfplate_A",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Isobel",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Nightsong",1,0,0,0,0,0,0,0
@@ -428,6 +424,10 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Ketheric",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Demon_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Devils_Blacksmith_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Devils_Halfplate_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Mindflayer_A",1,0,0,0,0,0,0,0
 new subtable "1,1"

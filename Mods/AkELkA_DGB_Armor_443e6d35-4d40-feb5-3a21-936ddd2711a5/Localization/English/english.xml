@@ -131,8 +131,8 @@
   <content contentuid="hb6e501ebg5748gf371g0886g46b11ea5d5a0" version="2">Flaming Fist Leather Boots G</content>
   <content contentuid="h93cb55aag04dag835fgf212g68ae2a6a05a5" version="2">Metallic Boots A Decorated</content>
   <content contentuid="h0ecaceb0gc125g6e9fgac60g7cedb5015a33" version="2">Metallic Boots HalfPlate A Decorated </content>
-  <content contentuid="hf6bdda37gd710g04fbg8932g9530aec2eb88" version="5">Mindflayer's Boots A</content>
-  <content contentuid="hdc2ecd5dg28f7g3f4cgd284ge61760aa4a85" version="1">When worn, a subtle pressure coils around the calves - like the brush of tentacles or a thought not entirely your own. Some claim that wearing them too long causes dreams not your own… and hungers that are hard to silence.</content>
+  <content contentuid="hf6bdda37gd710g04fbg8932g9530aec2eb88" version="6">Mindflayer's Boots A</content>
+  <content contentuid="hdc2ecd5dg28f7g3f4cgd284ge61760aa4a85" version="2">When worn, a subtle pressure coils around the calves - like the brush of tentacles or a thought not entirely your own. Some claim that wearing them too long causes dreams not your own… and hungers that are hard to silence.</content>
   <content contentuid="h3f69c016g7c23ga4e7g7727gbad866a75ff9" version="1">Wrapped in sun-hardened leather and bone-plated cuffs, these boots thunder across stone and snow alike, worn by those whose rage echoes louder than warhorns.</content>
   <content contentuid="h6c6d311cg86b9g9263g8149g6eca6480cd83" version="1">Boots lined with beast-fur and battle grime, built to trample snow, stone, and skull alike. Favored by highland raiders, these rugged boots keep the cold out and the blood in. The fur isn’t just for warmth-it’s a trophy, ripped from a slain winter wolf, still carrying the beast’s savage pride.</content>
   <content contentuid="h19f34eadg73fag78a3gc9abge29dbf83ae12" version="2">Boots stollen from undead elf. They lost all of their former power</content>
@@ -645,4 +645,5 @@
   <content contentuid="h882212c4g69a1g2364gffe0g27a9c34f2613" version="4">Rich Cloak</content>
   <content contentuid="h9f6032cag09b8gaca7g864bg0fc4175abab5" version="3">Long Folded Cloak of Poison</content>
   <content contentuid="h7d6d2c08gd9a8gd1ccg6426g5758442964ae" version="3">Long Cloak of Dark Justiciar</content>
+  <content contentuid="h64fda4b5g6e32gdd03gc481gbb1adb202837" version="1">Devil's Blacksmith Boots</content>
 </contentList>
