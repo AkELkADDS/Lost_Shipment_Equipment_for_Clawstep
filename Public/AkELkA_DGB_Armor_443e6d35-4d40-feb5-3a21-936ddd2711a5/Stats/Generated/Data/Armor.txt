@@ -2776,3 +2776,128 @@ data "Priority" "1"
 data "MinLevel" "1"
 data "Proficiency Group" "MediumArmor"
 
+new entry "ARM_AkELkA_Cloak_Collector_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "11af581b-aa9a-4eef-b7a5-49422aa7f32b"
+
+new entry "ARM_AkELkA_Cloak_EndGame_Robe_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "dae50ee3-9641-4660-9bcf-c3150fbf41e2"
+
+new entry "ARM_AkELkA_Cloak_Ketheric_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "e1468306-b262-45be-b9c5-85e601e6f37d"
+
+new entry "ARM_AkELkA_Cloak_Long_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "e06deb41-2782-4c5d-ba79-6e2c2c0d8bcd"
+
+new entry "ARM_AkELkA_Cloak_Long_B_Caster"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "682b2274-722d-431b-b4c8-69ee7def2418"
+
+new entry "ARM_AkELkA_Cloak_Long_B_Disquise"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "307f8870-a4b3-4422-99ec-330925e9623b"
+
+new entry "ARM_AkELkA_Cloak_Long_B_Psychic"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "69336a4d-1228-451b-990c-1926a385a88e"
+
+new entry "ARM_AkELkA_Cloak_Long_B_Shadow"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "69cb5b1c-5e33-4d85-a6e5-53f89eba8340"
+
+new entry "ARM_AkELkA_Cloak_Long_B_Thunder"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "e2a37b4f-378c-425c-bba4-3bbf4032a5a5"
+
+new entry "ARM_AkELkA_Cloak_Long_HidingCritical_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "009cf3d3-3fb4-4bf6-a760-fbbcea326c0b"
+
+new entry "ARM_AkELkA_Cloak_Myrkul_Plate_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "22505227-3522-4f5e-a863-d7c866abc92b"
+
+new entry "ARM_AkELkA_Cloak_Protection_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "e6168d6e-baf5-45f1-bf77-b5cf55f5c81c"
+
+new entry "ARM_AkELkA_Cloak_Short_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "02785e12-8bb9-409a-9b6a-86973cf2fe6c"
+
+new entry "ARM_AkELkA_Cloak_Short_HidingCritical_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "06673753-8bfb-47e4-a98e-22452171d87e"
+
+new entry "ARM_AkELkA_Cloak_StuddedLeather_Minsc_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "075bdb81-6194-4599-a401-60f8655e5d7f"
+
+new entry "ARM_AkELkA_Cloak_Long_C"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "0f30854d-e678-48e0-aba0-cee816a9739e"
+
+new entry "ARM_AkELkA_Cloak_Long_C_1"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "17c73c11-3084-422b-a974-181a478513f1"
+
+new entry "ARM_AkELkA_Cloak_Long_C_1_Bhaal"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "a7455a7e-cc67-4030-b1e0-21a4a6c06ca3"
+
+new entry "ARM_AkELkA_Cloak_Long_C_1_Umberlee"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "001bc061-b636-40f7-9fe8-6acd6ae5cbc7"
+
+new entry "ARM_AkELkA_Cloak_Long_C_Displacement"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "b36ab435-e36c-42df-9ed3-21b7959c3739"
+
+new entry "ARM_AkELkA_Cloak_Long_C_Nymph"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "adb13894-5e21-4588-be00-20e41cca29aa"
+
+new entry "ARM_AkELkA_Cloak_Long_C_Poison"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "1830978b-2aa3-4a91-93e6-47b2b5b49fc3"
+
+new entry "ARM_AkELkA_Cloak_Long_D"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "10fc9302-893f-4d28-97b0-07ac8e98c827"
+
+new entry "ARM_AkELkA_Cloak_Rich_D"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "740093ad-4576-430b-b63d-87744f38e815"
+
+new entry "ARM_AkELkA_Cloak_Dark_Justiciar_A"
+type "Armor"
+using "ARM_Cloak"
+data "RootTemplate" "70ac3f8f-99c6-493f-9810-562dc078046b"
+

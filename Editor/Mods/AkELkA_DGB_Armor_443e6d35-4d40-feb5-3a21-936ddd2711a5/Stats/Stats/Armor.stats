@@ -3658,5 +3658,205 @@
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="4" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cfbb990c-81bc-4fc0-89d6-b8505f212801" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF9400D3" value="ARM_AkELkA_Cloak_Collector_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="11af581b-aa9a-4eef-b7a5-49422aa7f32b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="419283b6-1a45-48bd-b9bd-832ae62a0d08" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_EndGame_Robe_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="dae50ee3-9641-4660-9bcf-c3150fbf41e2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6f6d080d-b6f0-4e59-90c7-694dfc2b2e49" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Ketheric_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e1468306-b262-45be-b9c5-85e601e6f37d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5e2e782e-17b5-443b-9f4c-8d6e28f26a79" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e06deb41-2782-4c5d-ba79-6e2c2c0d8bcd" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1a6f6628-e388-4de5-b95c-979ed0fef943" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_B_Caster" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="682b2274-722d-431b-b4c8-69ee7def2418" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="093b4703-a27a-4437-962e-0e6c872964e6" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_B_Disquise" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="307f8870-a4b3-4422-99ec-330925e9623b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a1c759a3-d97d-4479-be7e-c4362379c032" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_B_Psychic" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="69336a4d-1228-451b-990c-1926a385a88e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="11fd201a-e86a-446f-bc58-617bf84a9702" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_B_Shadow" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="69cb5b1c-5e33-4d85-a6e5-53f89eba8340" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="87081911-052c-4e85-b02f-affe8efa9bd4" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_B_Thunder" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e2a37b4f-378c-425c-bba4-3bbf4032a5a5" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8726b860-f9a4-424e-8516-2dbcc7ce57b2" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_HidingCritical_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="009cf3d3-3fb4-4bf6-a760-fbbcea326c0b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="77c4c3fa-bdf5-462e-a7cd-9dc796efd41f" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Myrkul_Plate_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="22505227-3522-4f5e-a863-d7c866abc92b" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e7d11602-e5ff-41a9-948f-bc0b43da782e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Protection_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e6168d6e-baf5-45f1-bf77-b5cf55f5c81c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f8616bc7-f461-46e9-9630-c4fdfbeee9ff" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Short_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="02785e12-8bb9-409a-9b6a-86973cf2fe6c" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5cb9b44f-077e-4a22-91e6-b2ea3bac6d1d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Short_HidingCritical_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="06673753-8bfb-47e4-a98e-22452171d87e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2ad2ab21-c194-4cbf-90b4-328a99f095e9" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_StuddedLeather_Minsc_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="075bdb81-6194-4599-a401-60f8655e5d7f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="928b3133-8e8c-47fd-b099-ae41553a4173" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_C" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0f30854d-e678-48e0-aba0-cee816a9739e" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc9f5932-847a-4f3b-83f5-d5b9c66e6a1d" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_C_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="17c73c11-3084-422b-a974-181a478513f1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0eb3f3e2-180a-4f93-bd18-7a817d94b2ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_C_1_Bhaal" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a7455a7e-cc67-4030-b1e0-21a4a6c06ca3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="008cdaba-aaff-418c-bb55-b2a889b1f2d7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_C_1_Umberlee" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="001bc061-b636-40f7-9fe8-6acd6ae5cbc7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a75bd2bb-6f5f-4c15-8259-a117697843dc" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_C_Displacement" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b36ab435-e36c-42df-9ed3-21b7959c3739" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8948acab-e0b0-4770-9195-cbac748e62e7" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_C_Nymph" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="adb13894-5e21-4588-be00-20e41cca29aa" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5f1e05af-bc7a-4988-97d3-f2c285642b40" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_C_Poison" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="1830978b-2aa3-4a91-93e6-47b2b5b49fc3" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b43d0f7e-549c-4674-95fb-8d8f2a0b17c3" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Long_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="10fc9302-893f-4d28-97b0-07ac8e98c827" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d16c2b0e-8a9a-47e0-9364-9f2ff489514e" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Rich_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="740093ad-4576-430b-b63d-87744f38e815" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="76b5a457-76dc-4acf-b91f-8c081811ab53" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_AkELkA_Cloak_Dark_Justiciar_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="17e7655a-a980-434e-b4cb-a29540f27c6d" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="70ac3f8f-99c6-493f-9810-562dc078046b" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

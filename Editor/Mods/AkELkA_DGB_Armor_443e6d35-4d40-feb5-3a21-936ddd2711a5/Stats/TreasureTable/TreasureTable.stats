@@ -3658,44 +3658,286 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bf1b59cb-a5a7-4dc9-9f7f-8f4b731cf299" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_27" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Dark_Justiciar_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
         <field name="UUID" type="IdTableFieldDefinition" value="ddafafb8-ac37-41f4-8f96-504ec2846837" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_28" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_Cloak_Long_B" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Cloak_Long_B" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
-        <field name="UUID" type="IdTableFieldDefinition" value="2b474c1f-a77c-46ec-bc30-4527ecd154b8" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c0ef38dc-eba2-446f-ac31-08bdc39d5887" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_3" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_Cloak_Long_C" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FFFF1493" value="I_ARM_AkELkA_Cloak_Collector_A" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
-        <field name="UUID" type="IdTableFieldDefinition" value="3a5c1a1d-fad7-4778-9a51-31bbb44e9e01" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0da706f8-dc71-42f9-b492-e0a254465355" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_4" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_Cloak_Long_C_1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_EndGame_Robe_A" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
-        <field name="UUID" type="IdTableFieldDefinition" value="f0e28fd2-9e3b-4d72-b487-b7fed103ac91" />
-        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2d3d1fc0-59a2-4fd9-8261-4866ccedf982" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_5" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" color="#FF2F4F4F" value="I_ARM_Cloak_Long_D" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Ketheric_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="42267327-d964-44ac-93e1-c558d3c8c942" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_6" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="85eb9adf-4319-4379-bc28-983f288a6121" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_7" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_B_Caster" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5ae5dcbb-7561-4fd1-84ee-0810b2d1c9b8" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_8" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_B_Disquise" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2c4d371e-3172-4db3-9533-048d8a8a7ddb" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_15" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_B_Psychic" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="03b0e394-fc58-42aa-89bf-375e373cf84d" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_16" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_B_Shadow" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dc36737e-22a5-40c9-be1a-d7049f805186" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_17" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_B_Thunder" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5b7c0a76-75ea-403e-a412-9193eeeff9c3" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_9" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_HidingCritical_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0cf418f3-1f94-45ce-ba05-aeb3a7d49354" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_10" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Myrkul_Plate_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cb7f4b27-9346-42e9-881c-3797e0f076d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_11" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Protection_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="be024742-e546-40bd-8c98-2d28ca888218" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_12" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Short_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5ff8b695-d64b-4dba-8937-bd11d49b7c35" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_13" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Short_HidingCritical_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6623fefa-3b14-4ec9-bfe7-89a52e5fd516" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_14" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_StuddedLeather_Minsc_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9f483eba-ac0d-4078-a229-a7ed9fefcf29" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_18" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6973f763-86c8-4469-b2f6-7e1a21646e7a" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_19" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_C_1" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5a29390a-80e2-4c1d-a6b4-c480847c5c91" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_20" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_C_1_Bhaal" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d9162b01-986e-411b-a9eb-b28564f51776" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_21" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_C_1_Umberlee" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4a7876f1-d0db-439a-b6bf-16a24516e3e1" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_22" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_C_Displacement" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4506f3db-8b74-4dad-9ba7-1a834469d983" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_23" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_C_Nymph" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0268bc20-97c3-490b-aaf1-f584764e6acb" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_24" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_C_Poison" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ee462c03-d0f5-4cc3-8147-2c5893463f1e" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_25" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Long_D" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="cba5b7ab-e96c-4e4a-b22f-ea52db258c66" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9986d77b-d0b8-4a0a-bc1e-a179d73dc630" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Capes_A_TT_substat_26" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Cloak_Rich_D" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
