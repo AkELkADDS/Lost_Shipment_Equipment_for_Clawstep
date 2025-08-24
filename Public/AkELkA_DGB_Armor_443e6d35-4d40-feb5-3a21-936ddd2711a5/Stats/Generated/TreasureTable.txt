@@ -48,6 +48,10 @@ object category "I_ARM_AkELkA_Ketheric_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Orin",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkELkA_Bhaal_Armor_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Bhaal_Armor_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_AkELkA_Bhaal_Rags_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Bhaal_Rags_B",1,0,0,0,0,0,0,0
@@ -403,10 +407,6 @@ new treasuretable "AkELKA_Chest_ChaosForge_Boots_A_TT"
 new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Dark_Justiciar_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_ARM_AkELkA_Boots_Cloth_B_Torn",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_ARM_AkELkA_Boots_Cloth_C_Torn",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_UNI_Daisy_Boots",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_UNI_Jaheira_Boots",1,0,0,0,0,0,0,0
@@ -516,6 +516,12 @@ new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Cloth_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Boots_Cloth_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Cloth_B_Torn",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Cloth_C_Torn",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Boots_Bhaal_Rags_A",1,0,0,0,0,0,0,0
 new treasuretable "AkELKA_Chest_ChaosForge_Glovebox_A_TT"
 new subtable "1,1"
 object category "I_ARM_AkELkA_Gloves_Dark_Justiciar_Gloves_B",1,0,0,0,0,0,0,0
