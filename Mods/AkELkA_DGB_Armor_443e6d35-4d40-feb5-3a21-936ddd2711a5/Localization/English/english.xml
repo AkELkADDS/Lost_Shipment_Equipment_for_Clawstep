@@ -154,8 +154,8 @@
   <content contentuid="h9133c6ceg8b3bg6696g4a9eg936317c9244a" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
   <content contentuid="h03b5b946ge4fbg9d6bg6dd9gb741c88869db" version="4">Watch Commander armor</content>
   <content contentuid="hc6e59729geec8gb1a5gc8cag719168cf632d" version="4">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
-  <content contentuid="h8c4ec8b0gb39bga813gb240g239a2f796400" version="10">Dreamsome Armor</content>
-  <content contentuid="hc7ea5f94g9a44g56fdg98d0g3ae967784a10" version="10">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h8c4ec8b0gb39bga813gb240g239a2f796400" version="11">Dreamsome Armor A</content>
+  <content contentuid="hc7ea5f94g9a44g56fdg98d0g3ae967784a10" version="11">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
   <content contentuid="hadb9b335ge7f5g3917gf6e5g5c2d422fc8cf" version="7">HalfPlate Decorated Armor</content>
   <content contentuid="ha89592a8g9919g9f02gda16gb34074d4aae2" version="7">Crafted by an artist's hands, this exquisite halfplate armor feels like it could turn aside any blade.</content>
   <content contentuid="hcbc8e35eg39d2gfc51g0866g5df9a00086eb" version="5">Dwarven plate armor</content>
@@ -652,4 +652,30 @@
   <content contentuid="hfabe1da3ge872g76a5ge528g7f98590d013e" version="3">Leather armor with decorations</content>
   <content contentuid="h1f4e3b0fg790ega722gac4bgdbcaaef020c2" version="2">Bhaal Armor B</content>
   <content contentuid="h8b924fe9gd2dbg0a58gb9acgddbe67d0ba37" version="2">Leather armor with decorations</content>
+  <content contentuid="hf0aa2bd6g7746g9a1fg87dbgb2b1802013e0" version="7">Myrkul Armor A</content>
+  <content contentuid="h31aafe0cgbe18g08dagd9fegee5c28473e51" version="7">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h1088a135g476bg8c9fg3967g7339f54016e3" version="6">Myrkul Armor B</content>
+  <content contentuid="h6e9bfeadgae94g6caag2245g39ebf9db686e" version="6">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h803048adge47fg2a83g1688gbc7be254a400" version="2">Dreamsome Armor B</content>
+  <content contentuid="h9ce3cb1dg81a2gaa5fg12e7g6400f329be3f" version="2">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="ha0344ea3gbdd2gc3e0gd616g243b92020f28" version="3">Myrkul Plate Armor </content>
+  <content contentuid="h7e8278b9g36b3g91cag6780g4878ae34b1f8" version="3">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h193c2911ga270ge108gd641gf78fd504a0b6" version="3">Myrkul Plate and Bone Armor</content>
+  <content contentuid="h8e80c317gc21eg821ege179g81a59c406eff" version="3">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="hb838093cg58e3ga913gf78bg6be2693c0099" version="1">Myrkul Plate Armor B</content>
+  <content contentuid="h73f61999g04f3g950agc400gd78004d0c3cf" version="1">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h9bb376b4g673fg5c2cgb2ceg63fc299f3a36" version="4">Myrkul Plate Armor Male</content>
+  <content contentuid="hbfb95b07gd84cgd690g6429g29b09894b3be" version="4">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h33fe5c64g0f12g74e9gb1f2g752d935f493a" version="2">Myrkul Armor C</content>
+  <content contentuid="h6b316c6ag503dge3d5gb9f0g34d326d3e1d4" version="2">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h6af98ae3gc153g874cgf89bg2f39bb782b40" version="5">Bane Robe A</content>
+  <content contentuid="h03337aafg27ffga3b7g8fabgdb2560e8a384" version="5">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h9c6bd5ebg3a05g4f82g097bg30d172c0306d" version="4">Bane Robe B</content>
+  <content contentuid="h5a7496d0gb2edg142ag121cg52b05fc053e7" version="4">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h36a674f4gd969g19dfg6777gaa1869770f8c" version="3">Bane Plate Armor A</content>
+  <content contentuid="he6948e1cg14a8g98dag6e3eg583cd6156ee7" version="3">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h3e5fc7bcg7ed9ge3b3g5fb2gb080c694c2f2" version="3">Bane Plate Armor B</content>
+  <content contentuid="h22bc0015g20b2g92a1ge341g4ab0bae2cbe2" version="3">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="ha62427b9g320ag4acbg3ab0g6f2cbb66977e" version="3">Bane Plate Armor C</content>
+  <content contentuid="hbbd7e4afga452g5584gcbcdg5266bb51af8a" version="3">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
 </contentList>
