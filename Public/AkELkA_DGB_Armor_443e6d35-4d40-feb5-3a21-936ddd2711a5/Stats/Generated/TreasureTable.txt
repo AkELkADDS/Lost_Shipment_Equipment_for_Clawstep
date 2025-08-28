@@ -80,6 +80,10 @@ object category "I_ARM_AkELkA_Bhaal_Rags_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Bhaal_Rags_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkELkA_Blacksmith_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_AkELkA_Blacksmith_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_ChainShirt_Body_Destroyed",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Padded_Broken_A_0",1,0,0,0,0,0,0,0
