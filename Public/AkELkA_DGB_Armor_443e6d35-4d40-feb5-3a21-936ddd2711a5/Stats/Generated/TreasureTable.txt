@@ -936,6 +936,12 @@ new subtable "1,1"
 object category "I_ARM_Vanity_Body_Leather_Rich_Green",1,0,0,0,0,0,0,0
 new treasuretable "AkELKA_Chest_ChaosForge_CampCloth_A_Boots_TT"
 new subtable "1,1"
+object category "I_ARM_Camp_Shoes_Cloth_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Camp_Shoes_Cloth_D",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Camp_Shoes_Leather_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_Camp_Shoes",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_Camp_Shoes_B",1,0,0,0,0,0,0,0

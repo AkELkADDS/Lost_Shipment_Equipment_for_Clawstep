@@ -4113,5 +4113,41 @@
         <field name="Weight" type="FloatTableFieldDefinition" value="4.5" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8c5e0db6-7ae2-4bc8-9289-b3749504e483" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Camp_Shoes_Cloth_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c23f965d-cea3-4d5a-9224-726d59734e43" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8ea6241b-fdca-4a5d-8a93-335073c1f721" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="VanityBoots" enumeration_type_name="Itemslot" version="1" />
+        <field name="ItemColor" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dbd97781-07ea-4353-9790-a4a27215ee74" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Camp_Shoes_Cloth_D" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c23f965d-cea3-4d5a-9224-726d59734e43" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="426659cf-b899-41b7-a85f-6980ff344c5e" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="VanityBoots" enumeration_type_name="Itemslot" version="1" />
+        <field name="ItemColor" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6c142247-1288-4f91-bcf3-67c28cd7122b" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Camp_Shoes_Leather_A" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c23f965d-cea3-4d5a-9224-726d59734e43" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="36f2f117-5c8e-423f-b951-5501b98400b1" />
+        <field name="Slot" type="EnumerationTableFieldDefinition" value="VanityBoots" enumeration_type_name="Itemslot" version="1" />
+        <field name="ItemColor" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="ArmorType" type="EnumerationTableFieldDefinition" value="None" enumeration_type_name="ArmorType" version="1" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

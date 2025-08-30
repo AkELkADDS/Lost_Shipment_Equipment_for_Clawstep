@@ -5148,6 +5148,39 @@
         <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_CampCloth_A_Boots_TT_substat_10" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Cloth_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ac08310b-9b80-4f83-85f9-4d312d7bdfc7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c4275414-e2ea-4656-a0e9-f9e9ac145f87" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_CampCloth_A_Boots_TT_substat_25" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Cloth_D" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ac08310b-9b80-4f83-85f9-4d312d7bdfc7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="849b2f56-2e3b-4157-a764-02fcb996c648" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_CampCloth_A_Boots_TT_substat_26" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes_Leather_A" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ac08310b-9b80-4f83-85f9-4d312d7bdfc7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4fb78848-e5b0-4f87-a8de-1ffe919129c7" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_CampCloth_A_Boots_TT_substat_24" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_Camp_Shoes" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
