@@ -648,6 +648,8 @@ object category "I_ARM_AkELkA_Gloves_Devils_Halfplate_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Gloves_Devils_Halfplate_B",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_ARM_AkELkA_Gloves_Devils_Halfplate_C",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_ARM_AkELkA_Gloves_Githyanki_HalfPlate_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARM_AkELkA_Gloves_Githyanki_HalfPlate_A_Broken",1,0,0,0,0,0,0,0

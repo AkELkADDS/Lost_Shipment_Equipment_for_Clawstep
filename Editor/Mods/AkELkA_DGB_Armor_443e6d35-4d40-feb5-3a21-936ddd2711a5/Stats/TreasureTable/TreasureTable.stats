@@ -3558,6 +3558,17 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="6c0170b6-0ac7-47fa-8dab-d73d1de3a9ed" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f4149ea6-80c1-4555-ae32-790ad06f1d08" />
+        <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Glovebox_A_TT_substat_73" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ARM_AkELkA_Gloves_Devils_Halfplate_C" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6c0170b6-0ac7-47fa-8dab-d73d1de3a9ed" />
         <field name="UUID" type="IdTableFieldDefinition" value="46fc1237-26f4-4f42-8459-830590d71557" />
         <field name="Name" type="NameTableFieldDefinition" value="AkELKA_Chest_ChaosForge_Glovebox_A_TT_substat_18" />
         <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
