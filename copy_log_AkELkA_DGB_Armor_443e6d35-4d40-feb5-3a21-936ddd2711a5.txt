@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5 
-   Wed 09/03/2025 10:14:39.50 
+   Thu 09/11/2025 12:45:26.77 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -411,7 +411,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, September 3, 2025 10:14:42 AM
+  Started : Thursday, September 11, 2025 12:45:30 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -431,11 +431,7 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   209.8 k   209.8 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :            17909250 Bytes/sec.
-   Speed :            1024.775 MegaBytes/min.
-   Ended : Wednesday, September 3, 2025 10:14:42 AM
+   Ended : Thursday, September 11, 2025 12:45:30 PM
 
  
 [DEBUG] Counting source files 
@@ -461,7 +457,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, September 3, 2025 10:14:44 AM
+  Started : Thursday, September 11, 2025 12:45:32 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -485,9 +481,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           100473375 Bytes/sec.
-   Speed :            5749.132 MegaBytes/min.
-   Ended : Wednesday, September 3, 2025 10:14:44 AM
+   Speed :           401893500 Bytes/sec.
+   Speed :           22996.530 MegaBytes/min.
+   Ended : Thursday, September 11, 2025 12:45:32 PM
 
  
 [DEBUG] Counting source files 
@@ -513,7 +509,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, September 3, 2025 10:14:46 AM
+  Started : Thursday, September 11, 2025 12:45:33 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -537,9 +533,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            32045600 Bytes/sec.
-   Speed :            1833.663 MegaBytes/min.
-   Ended : Wednesday, September 3, 2025 10:14:46 AM
+   Speed :           160228000 Bytes/sec.
+   Speed :            9168.319 MegaBytes/min.
+   Ended : Thursday, September 11, 2025 12:45:33 PM
 
  
 [DEBUG] Counting source files 
@@ -565,7 +561,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, September 3, 2025 10:14:48 AM
+  Started : Thursday, September 11, 2025 12:45:35 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -936,12 +932,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :         7         7         1         0         0         0
    Files :       354       354         0         0         0         0
    Bytes :    2.33 m    2.33 m         0         0         0         0
-   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            10048245 Bytes/sec.
-   Speed :             574.965 MegaBytes/min.
-   Ended : Wednesday, September 3, 2025 10:14:48 AM
+   Speed :            35025314 Bytes/sec.
+   Speed :            2004.164 MegaBytes/min.
+   Ended : Thursday, September 11, 2025 12:45:35 PM
 
  
 [DEBUG] Counting source files 
