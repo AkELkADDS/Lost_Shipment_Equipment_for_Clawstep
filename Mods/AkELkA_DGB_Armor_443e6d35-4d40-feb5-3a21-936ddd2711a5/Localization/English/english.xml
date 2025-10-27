@@ -10,20 +10,20 @@
   <content contentuid="ha49c2f7ag450fg7961g4691gc5dfbe7f389c" version="4">A rough combination of rugs, leathers, metal and supple fabrics.</content>
   <content contentuid="he8ac935dg49feg5f92g8e5cg769f948950d8" version="17">Heavy Shipment from Chaos Forge</content>
   <content contentuid="h2f2e30e3gf72bg7246g02d9geaab2835d142" version="17">A heavy, crude chest once stolen from the Chaos Forge, likely traded through the shadowy Black Network. The real mystery is how it found its way here.</content>
-  <content contentuid="h3782b7bbgea26gb07bg0e2eg5455776cb159" version="21">Camp Cloth</content>
-  <content contentuid="h352bc890g016ag2f05g60d0g72992c6a278b" version="21">A chest brimming with dresses and slippers in all styles and colors - once part of someone's prized collection. Whether for ballroom twirls or cozy tavern nights, these outfits have stories stitched into every seam</content>
-  <content contentuid="h5bb73404g36d0gb303g4796g86af23ba52d0" version="20">Glovebox</content>
-  <content contentuid="h848c4fceg1927gd0b1gf14egbd8f27219f05" version="20">This chest holds an impressive assortment of gloves, each pair worn but well-kept. It's like someone was preparing for every kind of encounter - gentle or grim.</content>
+  <content contentuid="h3782b7bbgea26gb07bg0e2eg5455776cb159" version="23">Camp Cloth from Chaos Forge</content>
+  <content contentuid="h352bc890g016ag2f05g60d0g72992c6a278b" version="23">A chest brimming with dresses in all styles and colors - once part of someone's prized collection. Whether for ballroom twirls or cozy tavern nights, these outfits have stories stitched into every seam</content>
+  <content contentuid="h5bb73404g36d0gb303g4796g86af23ba52d0" version="21">Glovebox from Chaos Forge</content>
+  <content contentuid="h848c4fceg1927gd0b1gf14egbd8f27219f05" version="21">This chest holds an impressive assortment of gloves, each pair worn but well-kept. It's like someone was preparing for every kind of encounter - gentle or grim.</content>
   <content contentuid="h8f4d6a2dgd266g7dfbga499gb5a660a04aff" version="4">Wicker Basket</content>
   <content contentuid="ha404e557g1b85g8c10g9050g7f1cb0e670a2" version="4">A portable container woven from dried reeds.</content>
   <content contentuid="h266657d8ge784ga8f8g9462g02ccb5fa769e" version="17">Wicker Chest from Molten Mug Inn </content>
   <content contentuid="h99d9b18eg6bdbg8e00gb7d5g79a50b9ef354" version="17">Chest from the Molten Mug Inn. It’s packed with various supplies - mostly wine and beer. Looks like it was meant for a party in a forge.</content>
-  <content contentuid="h70c23d74g897bg06dagc774gf6a23401841b" version="19">Underwear</content>
-  <content contentuid="h04ab991cgfe0dg6288gd715g0021774efff3" version="19">An oddly specific collection - this chest holds nothing but underwear. Someone had... particular priorities.</content>
-  <content contentuid="h31dc6ba4g58b5g6d74g0860g96f5418e53b3" version="10">Boots</content>
-  <content contentuid="hc4093226g0776g7866g952ag08f292a8f23f" version="10">A strange collection of boots, all shaped for paws and clawed feet. Whoever wore these had more joints than manners</content>
-  <content contentuid="h55b9b97agf2c5geeebgd592g17b61b353c76" version="10">Armor</content>
-  <content contentuid="h85e1fc77ge806gc036gbe9ag1085db8696ac" version="10">A chest packed with a mix of freshly forged armor and well-worn pieces - some gleam with the heat of the forge, while others show the scars of battles fought long ago. Together, they tell a story of new beginnings and hard-earned experience.</content>
+  <content contentuid="h70c23d74g897bg06dagc774gf6a23401841b" version="20">Underwear from Chaos Forge</content>
+  <content contentuid="h04ab991cgfe0dg6288gd715g0021774efff3" version="20">An oddly specific collection - this chest holds nothing but underwear. Someone had... particular priorities.</content>
+  <content contentuid="h31dc6ba4g58b5g6d74g0860g96f5418e53b3" version="12">Boots from Chaos Forge</content>
+  <content contentuid="hc4093226g0776g7866g952ag08f292a8f23f" version="12">A strange collection of boots, all shaped for paws and clawed feet. Whoever wore these had more joints than human,</content>
+  <content contentuid="h55b9b97agf2c5geeebgd592g17b61b353c76" version="11">Armor from Chaos Forge</content>
+  <content contentuid="h85e1fc77ge806gc036gbe9ag1085db8696ac" version="11">A chest packed with a mix of freshly forged armor and well-worn pieces - some gleam with the heat of the forge, while others show the scars of battles fought long ago. Together, they tell a story of new beginnings and hard-earned experience.</content>
   <content contentuid="h792f6b03g7b17g5b6fgb73cgf45f55dc005b" version="8">Magic Armor from Chaos Forge </content>
   <content contentuid="h6accf165ge84agb341gb327g8d108ba25113" version="8">The chest hums faintly with arcane energy. Inside, armor pieces shimmer with enchantments - runes etched into metal, fabric that resists flame, and plates that feel far too light for their size.</content>
   <content contentuid="h91e942f5g5aafgf88fgd6eegf44da7be1137" version="6">Helmets from Chaos Forge </content>
@@ -60,10 +60,10 @@
   <content contentuid="h5439e777g91fbg153eg5b32gf18a37e1e533" version="4">This chest holds an impressive assortment of gloves, each pair worn but well-kept. It's like someone was preparing for every kind of encounter - gentle or grim.</content>
   <content contentuid="h1ee3c91bgbedcg20a6g67dbg1c6580ace2ef" version="4">Glovebox - Starter</content>
   <content contentuid="hb95b8a7fg226dg9be0g614dgad3b12e7ea52" version="4">This chest holds an impressive assortment of gloves, each pair worn but well-kept. It's like someone was preparing for every kind of encounter - gentle or grim.</content>
-  <content contentuid="h9fc93496ge7fcg6e70g5330g9d95e1cd71bb" version="5">Capes</content>
-  <content contentuid="h84d299c2g1da5g5da8g8ffcg1c5c9695dcb0" version="5">A common chest of timber and iron.</content>
-  <content contentuid="hf2757909g8a68g2ef2gc7d0g813fc8964feb" version="6">Camp Boots</content>
-  <content contentuid="h35f2e965g9f82ge8e9ge7a4gb0672d5a7058" version="6">A chest brimming with dresses and slippers in all styles and colors - once part of someone's prized collection. Whether for ballroom twirls or cozy tavern nights, these outfits have stories stitched into every seam</content>
+  <content contentuid="h9fc93496ge7fcg6e70g5330g9d95e1cd71bb" version="7">Capes from Chaos Forge</content>
+  <content contentuid="h84d299c2g1da5g5da8g8ffcg1c5c9695dcb0" version="7">A well-worn chest of timber and iron, packed with capes of all kinds.</content>
+  <content contentuid="hf2757909g8a68g2ef2gc7d0g813fc8964feb" version="9">Camp Boots from Chaos Forge</content>
+  <content contentuid="h35f2e965g9f82ge8e9ge7a4gb0672d5a7058" version="9">Slippers and Paw wraps in all styles and colors - made to fit most common paws across Faerûn.</content>
   <content contentuid="hb0d56d22g952fg55e1g8e82g329c2580b7da" version="4">Camp Cloth - Starter</content>
   <content contentuid="h5a7b6be3ge06eg1775gc677g2f104fcfb7af" version="4">A chest brimming with dresses and slippers in all styles and colors - once part of someone's prized collection. Whether for ballroom twirls or cozy tavern nights, these outfits have stories stitched into every seam</content>
   <content contentuid="h5c325be6g4481g8699g449dg728fcb9e58e6" version="4">Camp Cloth - Unique</content>
@@ -100,42 +100,42 @@
   <content contentuid="h2285f7fbg17aeg5a6bgc8c6g52b74ce50d57" version="2">CultOfAbsolute Simple Robe A</content>
   <content contentuid="h0a447d27g9f50g35d0g4fe2gc26e082c8970" version="2">CultOfAbsolute Simple Robe B</content>
   <content contentuid="hb6dc57e3g2212gecc3gce92g92d14b866317" version="2">CultOfAbsolute Simple Robe C</content>
-  <content contentuid="h98e51252gff59g182fg18ebg2e7ba121d45f" version="2">Metallic Boots A</content>
-  <content contentuid="hd557c874gd2cfg1c0cgff52g20d8a4c84174" version="2">Metallic Boots B</content>
-  <content contentuid="he0e0d408g52f3gbe6fgaf5ag18a9016d754a" version="2">Metallic Boots C</content>
-  <content contentuid="h85e8f25ag0d3ag6705g4ffcg85a89647777e" version="2">Metallic Boots D</content>
-  <content contentuid="hb5670f00g88d1g1d2eg09f6gfc7218136568" version="2">Metallic Boots E</content>
-  <content contentuid="h4750db2fgd5b7g854cg5348g17eebf00ed79" version="2">Metallic Boots F</content>
-  <content contentuid="he24e8f03gfb8fg2c5dgdfa9gd7180b7794ee" version="5">Githyanki Metal Boots A</content>
-  <content contentuid="ha4379b34g8712g07adg6088gadea1907328d" version="5">Lavishly decorated boots, crafted on far-away planes from stolen metals and poached rubies.</content>
-  <content contentuid="he49a9574g0a09gadb0gbfdbg7afc00a18b15" version="3">Githyanki Metal Boots B</content>
-  <content contentuid="h0d0fee41g3420g7db3gfec2g2f5e69745398" version="3">Lavishly decorated boots, crafted on far-away planes from stolen metals and poached rubies.</content>
-  <content contentuid="h9221c091gfb5ag7e7dgfb83gd34e6875e211" version="2">Oathbreaker Knight Boots A</content>
+  <content contentuid="h98e51252gff59g182fg18ebg2e7ba121d45f" version="5">Four Clawed Sabatons</content>
+  <content contentuid="hd557c874gd2cfg1c0cgff52g20d8a4c84174" version="5">Bastion Paw Covers</content>
+  <content contentuid="he0e0d408g52f3gbe6fgaf5ag18a9016d754a" version="4">Chromeshard Sabatons</content>
+  <content contentuid="h85e8f25ag0d3ag6705g4ffcg85a89647777e" version="4">Dawnplate Greaves</content>
+  <content contentuid="hb5670f00g88d1g1d2eg09f6gfc7218136568" version="3">Edgebound Greaves</content>
+  <content contentuid="h4750db2fgd5b7g854cg5348g17eebf00ed79" version="3">Falconcrest Greaves</content>
+  <content contentuid="he24e8f03gfb8fg2c5dgdfa9gd7180b7794ee" version="7">Githyanki Light Sandalled Greaves</content>
+  <content contentuid="ha4379b34g8712g07adg6088gadea1907328d" version="7">Lavishly decorated boots, crafted on far-away planes from stolen metals and poached rubies.</content>
+  <content contentuid="he49a9574g0a09gadb0gbfdbg7afc00a18b15" version="4">Githyanki Greaves</content>
+  <content contentuid="h0d0fee41g3420g7db3gfec2g2f5e69745398" version="4">Lavishly decorated boots, crafted on far-away planes from stolen metals and poached rubies.</content>
+  <content contentuid="h9221c091gfb5ag7e7dgfb83gd34e6875e211" version="3">Oathbreaker Knight Greaves</content>
   <content contentuid="ha13726ebg1667g4cb9g6c53ga05d5ed5c2f9" version="2">Unwanted Masterwork Greaves A</content>
   <content contentuid="h99cc1ea5gab12g35acg1fddged4d7060cb7a" version="2">These boots are stamped with the marks of a cancelled commission. Despite their discarded fate, they still hum with complex infernal arcana.</content>
   <content contentuid="hb5510f0dg0ea7g8b50g4740g5caec21acb83" version="3">Metal Armour BGWatch A</content>
   <content contentuid="h8ac5e31cg11e4gaa64g2b06g55a53094f11d" version="2">Breastplate BGWatch A</content>
-  <content contentuid="h30f355aeg2cedge714gc9c7gdec2460c5c59" version="2">Chainmail Boots A</content>
-  <content contentuid="hb16e5f61g2b26g45d2g2a63gbb5d1f030263" version="3">Dark Justiciar Footwear</content>
-  <content contentuid="h98bdc964gce35g8597g9ab8gcabed5f09440" version="1">Demonwight Boots A</content>
-  <content contentuid="h195b1780gc31fgdbbbg6623gfed86ae59fcf" version="1">Gortash's Boots A</content>
-  <content contentuid="h815c5a2fg77c8ga937ga3edgfdcadf9c21e9" version="1">Stiffly-Shod Hide Boots A</content>
-  <content contentuid="hd1c5b373g3802gbe34g58e8g7c0e608bd6dd" version="1">Isobel's Boots A</content>
-  <content contentuid="hcde682degdc13g1e76g044ag18abce19d7d4" version="3">Ketheric's Boots</content>
-  <content contentuid="hcddb89d0g01a0gdd37gddcfgbe00ec21e326" version="1">Light Leather Boots G</content>
-  <content contentuid="h09d3f4b0gbc51gb3e7gc1bage1822f08fd62" version="1">Nightsong Boots A</content>
-  <content contentuid="h63c2993egaa62gdd4bgf5e8ga7d36611e488" version="6">Metallic Bane Boots A</content>
-  <content contentuid="h190d1eaeg2cd4g9cecg01f0gb300bd56ad18" version="4">Barbarian Boots A</content>
-  <content contentuid="h7ca16d8fgfe67gb871gabc2g49f4e3138913" version="5">Barbarian Magical Boots A</content>
-  <content contentuid="h2f198aa1ge318gfeaeg7addg8b014a9420d2" version="5">Barbarian Magical Boots B</content>
-  <content contentuid="hb6e501ebg5748gf371g0886g46b11ea5d5a0" version="2">Flaming Fist Leather Boots G</content>
-  <content contentuid="h93cb55aag04dag835fgf212g68ae2a6a05a5" version="2">Metallic Boots A Decorated</content>
-  <content contentuid="h0ecaceb0gc125g6e9fgac60g7cedb5015a33" version="2">Metallic Boots HalfPlate A Decorated </content>
-  <content contentuid="hf6bdda37gd710g04fbg8932g9530aec2eb88" version="6">Mindflayer's Boots A</content>
-  <content contentuid="hdc2ecd5dg28f7g3f4cgd284ge61760aa4a85" version="2">When worn, a subtle pressure coils around the calves - like the brush of tentacles or a thought not entirely your own. Some claim that wearing them too long causes dreams not your own… and hungers that are hard to silence.</content>
-  <content contentuid="h3f69c016g7c23ga4e7g7727gbad866a75ff9" version="1">Wrapped in sun-hardened leather and bone-plated cuffs, these boots thunder across stone and snow alike, worn by those whose rage echoes louder than warhorns.</content>
-  <content contentuid="h6c6d311cg86b9g9263g8149g6eca6480cd83" version="1">Boots lined with beast-fur and battle grime, built to trample snow, stone, and skull alike. Favored by highland raiders, these rugged boots keep the cold out and the blood in. The fur isn’t just for warmth-it’s a trophy, ripped from a slain winter wolf, still carrying the beast’s savage pride.</content>
-  <content contentuid="h19f34eadg73fag78a3gc9abge29dbf83ae12" version="2">Boots stollen from undead elf. They lost all of their former power</content>
+  <content contentuid="h30f355aeg2cedge714gc9c7gdec2460c5c59" version="3">Chainmail Greaves</content>
+  <content contentuid="hb16e5f61g2b26g45d2g2a63gbb5d1f030263" version="4">Dark Justiciar Sabatons</content>
+  <content contentuid="h98bdc964gce35g8597g9ab8gcabed5f09440" version="2">Demonwight Sabatons</content>
+  <content contentuid="h195b1780gc31fgdbbbg6623gfed86ae59fcf" version="2">Gortash's Greaves</content>
+  <content contentuid="h815c5a2fg77c8ga937ga3edgfdcadf9c21e9" version="3">Stiffly-Shod Hide Greaves</content>
+  <content contentuid="hd1c5b373g3802gbe34g58e8g7c0e608bd6dd" version="2">Isobel's Greaves</content>
+  <content contentuid="hcde682degdc13g1e76g044ag18abce19d7d4" version="5">Ketheric's Greaves</content>
+  <content contentuid="hcddb89d0g01a0gdd37gddcfgbe00ec21e326" version="3">Light Leather Greaves</content>
+  <content contentuid="h09d3f4b0gbc51gb3e7gc1bage1822f08fd62" version="2">Nightsong's Greaves</content>
+  <content contentuid="h63c2993egaa62gdd4bgf5e8ga7d36611e488" version="9">Metallic Bane Paw Covers</content>
+  <content contentuid="h190d1eaeg2cd4g9cecg01f0gb300bd56ad18" version="6">Barbarian Boots with Fur</content>
+  <content contentuid="h7ca16d8fgfe67gb871gabc2g49f4e3138913" version="6">Barbarian Magical Boots with Fur</content>
+  <content contentuid="h2f198aa1ge318gfeaeg7addg8b014a9420d2" version="6">Barbarian Magical Boots</content>
+  <content contentuid="hb6e501ebg5748gf371g0886g46b11ea5d5a0" version="4">Flaming Fist Leather Greaves</content>
+  <content contentuid="h93cb55aag04dag835fgf212g68ae2a6a05a5" version="6">Decorated Four Clawed Sabatons</content>
+  <content contentuid="h0ecaceb0gc125g6e9fgac60g7cedb5015a33" version="5">Decorated HalfPlate Greaves of Striding</content>
+  <content contentuid="hf6bdda37gd710g04fbg8932g9530aec2eb88" version="7">Mindflayer's Greaves</content>
+  <content contentuid="hdc2ecd5dg28f7g3f4cgd284ge61760aa4a85" version="3">When worn, a subtle pressure coils around the calves - like the brush of tentacles or a thought not entirely your own. Some claim that wearing them too long causes dreams not your own… and hungers that are hard to silence.</content>
+  <content contentuid="h3f69c016g7c23ga4e7g7727gbad866a75ff9" version="2">Wrapped in sun-hardened leather and bone-plated cuffs, these boots thunder across stone and snow alike, worn by those whose rage echoes louder than warhorns.</content>
+  <content contentuid="h6c6d311cg86b9g9263g8149g6eca6480cd83" version="2">Boots lined with beast-fur and battle grime, built to trample snow, stone, and skull alike. Favored by highland raiders, these rugged boots keep the cold out and the blood in. The fur isn’t just for warmth-it’s a trophy, ripped from a slain winter wolf, still carrying the beast’s savage pride.</content>
+  <content contentuid="h19f34eadg73fag78a3gc9abge29dbf83ae12" version="4">Boots from undead elf. They lost all of their former power</content>
   <content contentuid="h2dad60b4g4bb6g2b1ag216eg02f6c95a93af" version="2">Githyanki Half Plate Broken</content>
   <content contentuid="hb79ddd8dg0cd1g55dagdc8fga5a0872144ca" version="2">This armour was forged to Vlaakith's standards under the exacting eye of a githyanki smith.</content>
   <content contentuid="h5c4796cdg8f53g3911gc746ge125b7870fb3" version="4">Unwanted Masterwork Scalemail A</content>
@@ -168,13 +168,13 @@
   <content contentuid="hf194c74ag027cgd619g69a4gfb151bfcfe08" version="2">Robe of the Shar follower</content>
   <content contentuid="h5e20c7cfgf2d4g89ccgdc86g998dea497b09" version="4">Weave Robe A</content>
   <content contentuid="hedd4d8d6g359dgf462g0a81g1004a34e31ac" version="4">Robe of the Mistra follower</content>
-  <content contentuid="h5955212cgc29bg05bbg46dcg7e2ed02ac603" version="3">ShadowDruid Boots A</content>
-  <content contentuid="h9d798eb9g4fc4g2b98g37d6ge267adac6a6f" version="3">These boots were made with bark and old rugs</content>
-  <content contentuid="h9087c9beg319ag41d9g29acg9cfa0403a074" version="2">Metallic Boots Platemail B</content>
-  <content contentuid="he26aea66ga3f4g2dc9g53e0gab69af6f105a" version="4">Barbarian Boots B</content>
-  <content contentuid="h2e097e12g15e1g0c65gd33cg596aaf61f9de" version="3">Metallic Boots Myrkul Plate</content>
-  <content contentuid="h4a7b75b6g1cf7ge196g0365g5bbc74613a13" version="3">Cloth Boots B</content>
-  <content contentuid="h05cc3272gff08g7824g9fc7gb1c08a44e830" version="2">Cloth Boots C</content>
+  <content contentuid="h5955212cgc29bg05bbg46dcg7e2ed02ac603" version="5">Shadow Druid's Wooden Greaves</content>
+  <content contentuid="h9d798eb9g4fc4g2b98g37d6ge267adac6a6f" version="5">These boots were made with bark and old rugs</content>
+  <content contentuid="h9087c9beg319ag41d9g29acg9cfa0403a074" version="3">Plain Platemail Greaves</content>
+  <content contentuid="he26aea66ga3f4g2dc9g53e0gab69af6f105a" version="6">Barbarian Hide Boots</content>
+  <content contentuid="h2e097e12g15e1g0c65gd33cg596aaf61f9de" version="4">Myrkul Plate Greaves</content>
+  <content contentuid="h4a7b75b6g1cf7ge196g0365g5bbc74613a13" version="6">Simple Cloth Greaves</content>
+  <content contentuid="h05cc3272gff08g7824g9fc7gb1c08a44e830" version="5">Cloth Leg Wraps</content>
   <content contentuid="hff901ed6ga75cgfe72gc3c5g507eea5c2d74" version="4">Hide Druid Armour</content>
   <content contentuid="h4982b9a0gf327g44f8gb9fcg0f963062f15a" version="4">Leather armor with decorations</content>
   <content contentuid="ha0dd4d20ga9e3g674ag1efdg3f33e81af244" version="4">Hide Armour A1</content>
@@ -193,8 +193,8 @@
   <content contentuid="haac19db4gd5e9gf563gc58bg39f7f11ff244" version="4">Looks like was magical once. </content>
   <content contentuid="h638eae4bgc477gfb22g8c82gbc67a879f1b2" version="3">Barbarian Magical Armour D</content>
   <content contentuid="h1e20bfdcg9a92g0db9gcd04ge0588e4491fd" version="3">Leather armor with decorations. Looks like was magical once</content>
-  <content contentuid="hc8a199fdg4523geb00g3295gff66aaf95b16" version="7">HalfPlate Gloves (Trow them into the chasm!)</content>
-  <content contentuid="h58f8250agb66dgc841gf7e2ga2207d347bf8" version="6">Will be removed after V1.004, due debug. Trow them into the chasm just in case. Crafted from layered steel plates over a flexible leather base, these gloves offer solid protection without sacrificing too much dexterity. The segmented design guards the knuckles and forearms while allowing the wearer to grip weapons and tools with ease.</content>
+  <content contentuid="hc8a199fdg4523geb00g3295gff66aaf95b16" version="8">HalfPlate Gloves (Trow them into the chasm!)</content>
+  <content contentuid="h58f8250agb66dgc841gf7e2ga2207d347bf8" version="7">Will be removed after V1.004, due debug. Trow them into the chasm just in case.</content>
   <content contentuid="h071cb84cg7c4dgc61eg9b0bged70857bab8b" version="5">Moonmaiden Robe A</content>
   <content contentuid="h2d34a18cg26fag0b9bg5c67g00cef52795d7" version="5">Robe of the Moonmaiden follower</content>
   <content contentuid="hc54136aagccd4g98b7g66ddg307812c9f1f4" version="3">Moonmaiden Robe B</content>
@@ -362,8 +362,8 @@
   <content contentuid="h4e5bef6eg1d4agb6eeg3734g1a5b73a75a44" version="3">Light, framing the face like a window to the wearer's expression of devotion for the Absolute.</content>
   <content contentuid="hed0139acg969dg9049g6daagf23112cf424a" version="7">Breastplate Gnoll A</content>
   <content contentuid="h76f85e1cgf65bg5ce2g2670gb90918c3ca5e" version="5">Taken from the body of a fallen gnoll, this armor still bears the stench of its former owner. The leather is cracked, the metal dented, yet it remains serviceable - if you don’t mind carrying the scent of the wild with you.</content>
-  <content contentuid="hd9af8694g6544g9df2ga17dg88f77932a4d1" version="4">DEBUG chest</content>
-  <content contentuid="hbba2280dg24e7g8841g9714g5a73233c8066" version="4">An oddly specific collection - this chest holds nothing but underwear. Someone had... particular priorities.</content>
+  <content contentuid="hd9af8694g6544g9df2ga17dg88f77932a4d1" version="7">DEBUG chest from Chaos Forge</content>
+  <content contentuid="hbba2280dg24e7g8841g9714g5a73233c8066" version="7">Debug Chest. If you see this, tell the modsmith and toss it into a chasm - it poses a threat to the existence of everything around.</content>
   <content contentuid="ha3a22611ga393g68e1g1eb8gcff8ca0a6537" version="1">Gloves A</content>
   <content contentuid="hb19984ffg02ebg2932g021egeba39c2e615e" version="4">Bane Gloves</content>
   <content contentuid="h850e9f5ag5cf2g90c2g873egc2ba227fb970" version="4">Gloves are sturdy and made with care</content>
@@ -569,9 +569,9 @@
   <content contentuid="h8af6d309g614ag914dgc27cg02503e6d5427" version="4">Divine Bard Outfit</content>
   <content contentuid="h87f4a8dag197fg8303gf0f7g7bf0aef464a1" version="2">Githyanki Metal Boots A Broken</content>
   <content contentuid="h177707b8gefc9gf278g3275g0a664168294b" version="2">Lavishly decorated boots, crafted on far-away planes from stolen metals and poached rubies.</content>
-  <content contentuid="h2be2375bgfffag7716gf78bg4ad83668b064" version="2">Cloth Boots B Torn</content>
-  <content contentuid="he9d3cc66g9dd0gdcf8g5ef1g2c1dc30bbc75" version="2">Cloth Boots C Torn</content>
-  <content contentuid="h48dfd69ag1b7cgac43g43efga5ba42ecd65d" version="3">Dark Justiciar Footwear of Damned</content>
+  <content contentuid="h2be2375bgfffag7716gf78bg4ad83668b064" version="5">Torn Simple Cloth Greaves</content>
+  <content contentuid="he9d3cc66g9dd0gdcf8g5ef1g2c1dc30bbc75" version="4">Torn Cloth Leg Wraps</content>
+  <content contentuid="h48dfd69ag1b7cgac43g43efga5ba42ecd65d" version="5">Dark Justiciar Greaves of Damned</content>
   <content contentuid="h812321e5g9a30gcbb2g8e26g8e05beab4304" version="1">Dark Justiciar Armor</content>
   <content contentuid="h9d96b76ag688cg3e06g91c3gca1862135023" version="1">Dark Justiciar Armor</content>
   <content contentuid="h6f957ff0g7f31gaf97g156fg4d1fb068f274" version="5">Dark Justiciar Armor of Damned</content>
@@ -618,7 +618,7 @@
   <content contentuid="h88092450g01f2gc1c5g8b9dg1f4d7cd5916a" version="2">Gloves are sturdy and made with care</content>
   <content contentuid="h2b15b65bgdaefg284eg46dcg5386f739c517" version="2">Devil's Halfplate</content>
   <content contentuid="h14f52de2g59d5g39bcg9ca1g641a30496394" version="2">Looks different on some races .Nothing stings the master blacksmith more than a cancelled commission - not even molten iron. This mail is engraved with the mark of a devillish forgemaster, as well as several curses stamped out in Infernal, and hums with diabolic magic.</content>
-  <content contentuid="hfc0b5cb4g677ag5250g5b09gde3f66de7eba" version="2">Devil's Boots</content>
+  <content contentuid="hfc0b5cb4g677ag5250g5b09gde3f66de7eba" version="4">Devil's Greaves</content>
   <content contentuid="h5c7cc7deg65fcg3aa0g0315gf6fdff611e13" version="4">Collector's Cloak</content>
   <content contentuid="h63dbb4f8g5640gded0gfe6fgd4f8cdf5906c" version="3">Cloak of Weave</content>
   <content contentuid="hae72a2eeg6643gd5e9gec3cg90d6ae0d83d6" version="4">Long Plain Cloak</content>
@@ -645,9 +645,9 @@
   <content contentuid="h882212c4g69a1g2364gffe0g27a9c34f2613" version="4">Rich Cloak</content>
   <content contentuid="h9f6032cag09b8gaca7g864bg0fc4175abab5" version="3">Long Folded Cloak of Poison</content>
   <content contentuid="h7d6d2c08gd9a8gd1ccg6426g5758442964ae" version="3">Long Cloak of Dark Justiciar</content>
-  <content contentuid="h64fda4b5g6e32gdd03gc481gbb1adb202837" version="1">Devil's Blacksmith Boots</content>
-  <content contentuid="hb23243afge968g347cg0ac7g90c3ab50f930" version="3">Rags Boots</content>
-  <content contentuid="h0571f560gd7fag6dd9g16abgcca075de562f" version="3">These boots were made with bark and old rugs</content>
+  <content contentuid="h64fda4b5g6e32gdd03gc481gbb1adb202837" version="5">Devil's Blacksmith Greaves</content>
+  <content contentuid="hb23243afge968g347cg0ac7g90c3ab50f930" version="5">Rag Paw Wraps</content>
+  <content contentuid="h0571f560gd7fag6dd9g16abgcca075de562f" version="5">These boots were made with old rugs</content>
   <content contentuid="h285700e7ge798gecb6gf453ge8a42ab38340" version="3">Bhaal Armor A</content>
   <content contentuid="hfabe1da3ge872g76a5ge528g7f98590d013e" version="3">Leather armor with decorations</content>
   <content contentuid="h1f4e3b0fg790ega722gac4bgdbcaaef020c2" version="2">Bhaal Armor B</content>
@@ -692,4 +692,223 @@
   <content contentuid="he7d1cda0gb279g9c89ga093g9247382318a9" version="2">The tanners had an excellent time producing this leather - they actually got to use real animal flesh. Usually they work with much grosser stuff.</content>
   <content contentuid="hc0d7fd10gdee9g8e5bg8648gb95fc434bf2c" version="2">Big Devils Halfplate Gloves</content>
   <content contentuid="h888020dbg4798g8cd0g373cg52e3722614f7" version="2">Gloves are sturdy and made with care</content>
+  <content contentuid="h31a89de1ged91g2bf4g411fg4481c5de37fc" version="4">Simple Metallic Greaves</content>
+  <content contentuid="hd819310dgb8dbg2b2bg47e1g49489cc7da38" version="2">Decorated Metallic Greaves</content>
+  <content contentuid="h409beb4bg851dgf79bg0a30gce113e115175" version="2">Bastion Greaves</content>
+  <content contentuid="h6e0816dbg42e1g4df8gde09g62a9b375cf66" version="4">Black Painted Metallic Bane Greaves</content>
+  <content contentuid="h4ab64eb8g078bgc169g614fg8d7d0e0c010e" version="2">Demonwight Paw Cover</content>
+  <content contentuid="h1950834eg750bg9767gd6bbg55a307343e68" version="2">Demonwight Greaves</content>
+  <content contentuid="h691a242ag2db3gbac8g9a25gca4394ad0831" version="1">Dark Justiciar Greaves</content>
+  <content contentuid="h5c970021gbfb3ga96fg59dbg5a2419e2b2d1" version="9">Decorated Bard Greaves with Boots</content>
+  <content contentuid="h79547a66gab85ge3f3g0aafg029a3ac22abc" version="1">Worn and torn boots, riddled with holes - likely taken from someone long deceased.</content>
+  <content contentuid="h19bb8d43g2ee9g8ba0g3983g4b3d662729f3" version="1">Worn and torn boots, riddled with holes - likely taken from someone long deceased</content>
+  <content contentuid="hb5f29694ge1e9g3f9bgb459g00da8f1c2f9c" version="7">Drow Leather Instep Shields</content>
+  <content contentuid="hbfa79433g271cgc5c9g4417gadca48c0e231" version="4">Worn Drow boots of darkened leather - quiet, flexible, and stained with the dust of the Underdark.</content>
+  <content contentuid="h499760deg13c9g339fg7558g5e8a008eddb1" version="2">Decorated Drow Leather Instep Shields</content>
+  <content contentuid="h5ec157d4gf749g4388gae00ge1f0a4d3ce91" version="2">Worn Drow boots of darkened leather - quiet, flexible, and stained with the dust of the Underdark.</content>
+  <content contentuid="h4cf89b10g8171g2d6egf965g160e87f79ee3" version="5">Elven Greaves</content>
+  <content contentuid="hcd1836d8g5a5cgbe4bg9ecag9294b6f888fa" version="5">Greaves of fine Elven make, designed to move as fluidly as the chainshirts they were forged beside</content>
+  <content contentuid="h43e56fdeg58d4g8c76g4580gff71c860b9dc" version="5">Monk's Cloth Leg Wraps</content>
+  <content contentuid="h59ce96f3g5a40g2a58ga536g3ed489354779" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h5c6ac9bfg5cbdgf040g620fg2437c31e27c4" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hf4b6e6a9gf7d0g2e0dg97bdgc39e50750b06" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hcc6aa6c9g6649g8be9gabe2g45c63738e572" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hb704210dg605cgb29agdcdfg968a5bea1dba" version="6">Decorated footwear fit for a bard</content>
+  <content contentuid="h088f3117g528eg9de2g8311g32a745298ffd" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h62454c20g649fg5b32g1ddcgf1cc1fd6869d" version="1">Scratched in places, scorched in others, almost broken. Looks like they were cursed</content>
+  <content contentuid="h58bde5acg58beg198agfce1g79c53f93cc7c" version="1">Crafted from leftover peaces of metal straight from Avernus</content>
+  <content contentuid="h279a4832g0b63gfc6ag46f4gc3abc01b4665" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h5d6eca09g21d2g0940gba11gb04256d64878" version="1">Crafted with hide and bones. Primal, crude and enticing</content>
+  <content contentuid="hceb47486gab83g887ega820g21f625192eb1" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hd506a628g98b7gcc5egc9e5g81bf70a7def4" version="1">Decorated, well maintained boots, fit for paladin</content>
+  <content contentuid="hc6ff08cegf0c5gb32ag0011g8871dfb4d28f" version="1">Boots worn in the Blood War, well scratched, but still sturdy</content>
+  <content contentuid="h1510f91dg5accg9947g7462g3fe1a2085b09" version="4">Monk's Cloth Leg Wraps with Leather Paw Wrap</content>
+  <content contentuid="hf132925agfb65g8e7age902g6f005eaa1db1" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h9d349f62gb042g5779g6110g8bd1763181a8" version="3">Monk's Cloth Leg Wraps with Cloth Paw Wrap</content>
+  <content contentuid="h19d6094agb8bbg155dgf7b1g991dba89fd32" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h6f73f3d0gc44egae30g8aefg81dde04cbec1" version="4">Monk's Cloth Leg Wraps with Slippers</content>
+  <content contentuid="h62d30503g644ag5dcbgb7f3gc24fff2dcf85" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h3a737deegf8d5g9f80gcccaga6d6765252f7" version="2">Monk's Cloth Leg Wraps with Slippers</content>
+  <content contentuid="ha796d8bbg601dg0757g15dagf549b4b91fc5" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hdd059485gee2dg9a1bgf531g6399f4ab52d9" version="4">Decorated Bard Greaves</content>
+  <content contentuid="h20e9857cge2b0g7b9ag03eeg16c7381954df" version="4">Decorated footwear fit for a bard</content>
+  <content contentuid="h69df1f8cg592dg8bdbgf895gf59d44d9b06f" version="4">Decorated Bard Greaves with Cloth Foot Wraps</content>
+  <content contentuid="h068ab306g11b4g9a6bge388gc2c59db327aa" version="4">Decorated footwear fit for a bard</content>
+  <content contentuid="h79bdfcf7g5a01g0f47g90abg4fab10967a15" version="3">Decorated Bard Greaves with Slippers</content>
+  <content contentuid="h54ec96abg750cgf7cbg8da0gb03d7847ff36" version="3">Decorated footwear fit for a bard</content>
+  <content contentuid="h9ac54df3gb93dga0e2g469dgb811f5944ba5" version="4">Decorated Bard Greaves with One-String Sandals</content>
+  <content contentuid="h4026c9cfgb531gb0a8g1e8cge41756f4730e" version="4">Decorated footwear fit for a bard</content>
+  <content contentuid="h71d10cabg5cdeg28b3g876bg0d341c18805e" version="5">Decorated Bard Greaves with Leather Sandals</content>
+  <content contentuid="h765aeaa4ga2a8g6e5dg12e0gfd1032820035" version="5">Decorated footwear fit for a bard</content>
+  <content contentuid="h8cc1018bg1a7dg5ab4ga133ge6479927550b" version="4">Bhaal Plate Armor</content>
+  <content contentuid="h2393fe55g3719g38ecg068cg8eab10da07a3" version="4">Crafted by an artist's hands, this exquisite scale shirt feels like it could turn aside any blade.</content>
+  <content contentuid="h3245d4dbga186gfe40gd077g6df34089f2bb" version="3">Bane Bracers</content>
+  <content contentuid="hcbd926ddgbc5ag60eag8f66g1b20317fe36e" version="3">Bracers are sturdy and made with care</content>
+  <content contentuid="h374c7171gfc5fg4ec9g3a51g59e040b1549d" version="3">Shadow Druid Garb</content>
+  <content contentuid="hd7668691g271fgc150gbea6g1d45dccc4fad" version="3">Crude garb, worn and torn a bit</content>
+  <content contentuid="h21a36a6fgf34bge6cfgb23eg5ea0be980f4b" version="5">Dwarven Plate Bracers</content>
+  <content contentuid="h4b868a48g107cg7719g1856g904e4a517795" version="5">Bracers are sturdy and made with care</content>
+  <content contentuid="h8ff4fdf6gbfcegfca5g75ddg015cfa0badd8" version="5">Dwarven Plate Greaves</content>
+  <content contentuid="hcd3185c3g69d1g72cbg3f78gf73ab69c36ae" version="3">Githyanki Light Greaves</content>
+  <content contentuid="hfe94e409ge7f3g1873g7a3aga10ded3e16d8" version="3">Lavishly decorated boots, crafted on far-away planes from stolen metals and poached rubies.</content>
+  <content contentuid="h3172deeag9f44g71fbgbb7bg8b00590bfde4" version="3">Barbarian Hide Boots with Cloth Paw Wraps</content>
+  <content contentuid="h408d1825ga6b2g3d73gdf71g8ed8e41e8c45" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="he1601845gfc9cg9725g4cd2g29a5ef47fa09" version="2">Barbarian Hide Boots with Leather Paw Wraps</content>
+  <content contentuid="h94dc0a1dg0f3ag5d3eg9e26gf205df37bd75" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h2c826bccg07e2ga9d3g08c8g0ca3fb5b9568" version="3">Barbarian Hide Boots with Sandals</content>
+  <content contentuid="h266b11aag315bg59cdgf7d8gca3d680abe54" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h1b5ff5f8gb4cegd5f3g25dag3bc0fed5f2ec" version="7">Simple Cloth Greaves with Cloth Paw Wraps A</content>
+  <content contentuid="hc26841c4g3a8ag407bg2797g7cf9c0684a84" version="7">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h9ef59909ga35egbe5fgf865gc3f556afe619" version="6">Simple Cloth Greaves with Sandals A</content>
+  <content contentuid="hd30e1620gc42cg63c6gf63bgff770f79cfc7" version="6">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hb28a397eg0942g759eg8b94gfa374b95f8f8" version="5">Simple Cloth Greaves with Slippers A</content>
+  <content contentuid="h746d2a7dg105fg597bged63g4d427aa2ff43" version="5">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hb7fb2c5fg462fg960bg1e66gefb9dc77fc5e" version="4">Simple Cloth Greaves with Cloth Paw Wraps B</content>
+  <content contentuid="hed8d6df0g76f0g7affgfc6fgd91c371c5217" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h926ee3fbg33a0g0e0fgaaadgab079e0efc67" version="4">Simple Cloth Greaves with Sandals B</content>
+  <content contentuid="hb635d80bgd6c4g889fg3c18gbc73751a2320" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hd1920094gb2ebg7490g1b1dge25a60e147c2" version="4">Simple Cloth Greaves with Bard Boots</content>
+  <content contentuid="hd5a6b54ag356ag19c3gd88dgb3b718642998" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h8d05ac08g866ag72aeg7cfdg2a66aa89d5a0" version="5">Simple Cloth Greaves with Slippers B</content>
+  <content contentuid="h200a76c0g2292g7854gd226g99403893691b" version="5">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h5265597cg7406g7c87g802cgd21a9110abf1" version="5">Cloth Greaves B with Cloth Paw Wraps A</content>
+  <content contentuid="hbb476f7dg508dg1a84ge2afgd316b593b006" version="5">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h6538e7f3g3d58g4130g9ae3g6122c52e6355" version="3">Cloth Greaves B with Cloth Paw Wraps B</content>
+  <content contentuid="he6d1d4c4gb808gb974g3ecdg8db9ce6197db" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="ha4a5b4aag923ag77d3g511bg36a3a1a8edc5" version="4">Cloth Greaves B with Leather Paw Wraps</content>
+  <content contentuid="he8708290g2546geda4gb0bage8378091c764" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h1afb26e7g8ecdgfb17g97b0gf043ee0b20f2" version="4">Cloth Greaves B with Sandals A</content>
+  <content contentuid="h4d90f4f9ge777g83ddg4a0ag13aaebdce165" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h5de12830gfc88gbf79g2e14g8ba90696be99" version="3">Cloth Greaves B with Sandals B</content>
+  <content contentuid="h46165f48ge60dg9b2bgfb04gf27f9c7c2ac7" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hbd529bc7g5cc9g171agfa17g9016e4d7a21c" version="4">Cloth Greaves B with Sandals C</content>
+  <content contentuid="hcc0214b6g2924g2056g9b5fg7b92314184a1" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hb543838agc211gafecgeeceg6a91f97cd101" version="3">Cloth Greaves B with Slippers</content>
+  <content contentuid="h3e78d18ag29dfg8e81g2c83gfe208de9a7f1" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h55a828e0g535cg90acgfc8ag3580c9b6462a" version="2">Simple Cloth Greaves with Cloth Paw Wraps A</content>
+  <content contentuid="h4894db7fg371ag8bc2gfc32g307087faace9" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h4220d967g7a69g9f3cge4d7ga27cd14190e4" version="2">Simple Cloth Greaves with Cloth Paw Wraps B</content>
+  <content contentuid="h83dad697ge602g33e4g79e3g3c9a2cc88ab4" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h84f7d038g264dg4491gc7dagdbe3a6395d4d" version="2">Simple Cloth Greaves with Sandals A</content>
+  <content contentuid="ha910a052gaf93g7746g6fd4g5a711579863d" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h86adbde8g5065ga3bfgc697g8f5543ba08aa" version="2">Simple Cloth Greaves with Sandals B</content>
+  <content contentuid="h5e2c3024gd54cga54cgb407g2e4375904a0d" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hce5004a4g0eabgb8ffg06f4gec8c7f175880" version="2">Simple Cloth Greaves with Slippers A</content>
+  <content contentuid="h85568782gf451gc5a7gaa74g17c4778ad742" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h17b89d1cg35b2ga226g1b9fg542c64dc7511" version="3">Simple Cloth Greaves with Sandals C</content>
+  <content contentuid="hf03e94bag07a4g687bgfb27g1c565fa867ff" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h683b622egb3dbg9238g862ega05f1eb8269e" version="3">Simple Cloth Leg Wraps with Cloth Paw Wraps A</content>
+  <content contentuid="ha81b36b5g37b4gbc4eg196fg4d7bbac29c57" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="ha3efb69ag2333g04bag069bg58e8992e8a3a" version="3">Simple Cloth Leg Wraps with Cloth Paw Wraps B</content>
+  <content contentuid="h7fe0d2c2g0e4cgc432ga555g8a3e7d3860c4" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h13c0908agbabcgbba8g6b2fg6173895c4d5c" version="3">Simple Cloth Leg Wraps with Sandals A</content>
+  <content contentuid="h3b402eabg97e1g2492g9ed6g2b7ec14e1d62" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h91945198g52c1gb770ge358ge58036deea8d" version="3">Simple Cloth Leg Wraps with Sandals B</content>
+  <content contentuid="h51253145g5fcbg06a5g0e40gf625eae42bde" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h99a94069g79c9g809fg87bfg365e4d10375b" version="4">Cloth Leg Wraps with Cloth Paw Wraps A</content>
+  <content contentuid="h65a0a6c7gdba8g0e45g9dabgffb3565abb26" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hfe48d5a9g0801g5e49gcafagce283253fd4a" version="4">Simple Cloth Leg Wraps with Leather Paw Wraps A</content>
+  <content contentuid="h0505c594g50d5gad68gf502g6cf12dcd0dc3" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h7a4f425dgb419ge8e4gda67g279dce512e27" version="1">Cloth Leg Wraps with Leather Paw Wraps B</content>
+  <content contentuid="hd0b9aa49gfd52g8b3dg2a7eg61fadbac421d" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h241730a0gea20g8f0bg45dcge7fce5fbac4a" version="2">Cloth Leg Wraps with Cloth Paw Wraps B</content>
+  <content contentuid="ha4184b0eg55c9g3224gb974g2298fe071786" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hf1bb8817gc1feg9b30g3537gd1d3b243534a" version="2">Cloth Leg Wraps with Leather Paw Wraps</content>
+  <content contentuid="hc70356c3gcca5g5e43g7bd7g2e5eff9e6b58" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h361d90c4g295cgcc0bg41a8gaac5651fa3f8" version="2">Cloth Leg Wraps with Leather Paw Wraps and Sandals</content>
+  <content contentuid="hf47d4fa3ge750g09e9gc12fg4493367ae19c" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h96a880fagcacdg4553g107egd6cce3207a71" version="2">Cloth Leg Wraps with Leather Paw Wraps and Sandals</content>
+  <content contentuid="h8f7a4f73g656dgc83bgc1fdg1c7080ae1bf8" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hd4f7c6d6g7f7fg8d76ga403g6af3cd2ede13" version="3">Cloth Leg Wraps with Sandals A</content>
+  <content contentuid="h84fac9aeg7f9bge9a4g01acg72da41e2f382" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h0e208b27gbfa6g79f2g67c9g0bd6a4e4e1e3" version="3">Cloth Leg Wraps with Sandals C</content>
+  <content contentuid="h3accb416gc909gad3eg7921gf86e0f45fbe4" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hcaa29e35g5927g1f79g12c1ga06f2ed3980a" version="3">Cloth Leg Wraps with Sandals B</content>
+  <content contentuid="hb3941d5cg2876g9853gc7a5gc156690ad7c0" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h837dead3g24b2g7f1bg1ff5g651de5101979" version="3">Cloth Leg Wraps with Slippers A</content>
+  <content contentuid="hb5a07260ge2e8g609eg059bg4e0485a11d20" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h03c9a248g577cgbf8dg3ab8g88e205cde7dd" version="2">Cloth Leg Wraps with Slippers B</content>
+  <content contentuid="haa94f4a7g19a1g30aag4b2fg8308faa71099" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hfe67d36bge533gf481gad68ge29d1ad1556a" version="5">Decorated Cloth Greaves D with Cloth Paw Wraps A</content>
+  <content contentuid="h721148b0g57cbge1e0g1d22g33f677907997" version="5">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h2969de0cg239egbe68g7a22ga08d8163cb7e" version="2">Decorated Cloth Greaves with Cloth Paw Wraps B</content>
+  <content contentuid="h1d8fd13eg8893g67eag9646g36a3a86e42b5" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h4540847fg8e9fgdf48gb5fagc0fb349ab9ee" version="4">Decorated Cloth Greaves with Leather Paw Wraps and Sandals A</content>
+  <content contentuid="h7ce3046fg5068g80d8g90ecg963f24df23fb" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hf6bbce03g438cg3488gea0fgb5e311f66492" version="2">Decorated Cloth Greaves with Leather Paw Wraps and Sandals B</content>
+  <content contentuid="h3ea7cb10g0c2bgd871g8f1ag51ca88c339e9" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h5fef27b4g91f3g3cf6g0b3fgfb44f7d7c842" version="3">Decorated Cloth Greaves with Leather Paw Wraps</content>
+  <content contentuid="h441400beg552ag289eg9e0bg58925fab5f56" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h120c3349g5ac6g141dg9efbgdf45381ac6fb" version="4">Decorated Cloth Greaves with Bard Boots</content>
+  <content contentuid="hdfee5ab1ga3eege9a3g6c7dg4cf6a7f009dd" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hbadf1f0bg53bege90bg6836g907e724af128" version="2">Decorated Cloth Greaves with Slippers A</content>
+  <content contentuid="hbe91f77egba79ge7dfg2ad5gb01c06d8a6aa" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hcea17ce2gb1cagb0e6gf550g2843faca504a" version="2">Decorated Cloth Greaves with Slippers B</content>
+  <content contentuid="hbeef45d0g1524g8ca7g1ab4gb5734fb523db" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h4167eed6gcd34g29deg280ag07e8d1a86c35" version="4">Decorated Cloth Greaves E with Cloth Paw Wraps A</content>
+  <content contentuid="h2414b118g9991g6ab2gf834gbf12a69a3a91" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h06286880g388dg683dg7ca0g45305ccba95f" version="1">Decorated Cloth Greaves E with Cloth Paw Wraps B</content>
+  <content contentuid="hb6c7e9afg8e7dg5ddagc8d9g958c77baaee8" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h7047c9bcg8347g41eag49e9g6875f47af1d8" version="5">Decorated Cloth Greaves E with Sandals A</content>
+  <content contentuid="ha5707affgff75gdecaga48eg4b4b1de3e9c8" version="5">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h7a6fc319g06ebg5b58ga3b6g61db686e7b29" version="4">Decorated Cloth Greaves E with Sandals B</content>
+  <content contentuid="h6fddc348gb855gce6dga4ebgfb614eae373d" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hf375d9fbg0e03g4bc5gbd33gb0a7a23c8b34" version="5">Decorated Cloth Greaves E with Sandals C</content>
+  <content contentuid="h8801b240g1ac0gf495ge6f5g6bad84800e74" version="5">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h245bf33dgfe84gd1b6g46d2gafbad57c34f2" version="4">Decorated Cloth Greaves E with Sandals D</content>
+  <content contentuid="heaa1a165g3b96g94e5g98abgdd0391000ed4" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h90247fe5ga10dg9698g8d61g5742fc40f75a" version="5">Decorated Cloth Greaves E with Sandals E</content>
+  <content contentuid="hbeed4278g724agec12gd541g93148dad3a19" version="5">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h134139b1g4fd3gbde0gcbd1g05d1fff5891d" version="4">Decorated Cloth Greaves E with Slippers A</content>
+  <content contentuid="h59e59f1bg590fg6726g9082g4c9acbc7c432" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hc7bf0d72g4580gfc57g3078ge9f894fa0949" version="4">Decorated Cloth Greaves E with Slippers B</content>
+  <content contentuid="h806b36edg9b76g2901g5582g998b93e24f32" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hd75b5746g3f30g0b03g2751g540352278da6" version="3">Decorated Cloth Greaves F with Cloth Paw Wraps A</content>
+  <content contentuid="h2748da5cg1b4ag60bdge104g833926671f0f" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h4aed913fg7355g7b13g5792g8ba95aabe1bf" version="2">Decorated Cloth Greaves F with Cloth Paw Wraps B</content>
+  <content contentuid="hba187b34gb8f4gcb3ag32f4g5f98424d84ef" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h54b45284g3b29g8ca5g6287ge24542c9f760" version="2">Decorated Cloth Greaves F with Leather Paw Wraps</content>
+  <content contentuid="h1763e37cgb80dgd06bgee2eg088dab94f338" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hc14e6abbgff70g7766g9a11g44bf4d564681" version="3">Decorated Cloth Greaves F with Leather Paw Wraps with Sandals A</content>
+  <content contentuid="h1873eb8dgbeb1gff5bg6f8agcf459d553c4a" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h0a4b898bg8943g43ccg3f2cg9923a8a66f42" version="2">Decorated Cloth Greaves F with Sandals A</content>
+  <content contentuid="h9a9836eageb62g7825gfa84ge8fa3f0f666d" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hd19ab3dbg7e91g4ca0gd633g1a0a91638838" version="3">Decorated Cloth Greaves F with Leather Paw Wraps with Sandals B</content>
+  <content contentuid="ha945af51gf3e4ge048g8cefg13f53446c789" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h9b19bfabg4b26g075fgcc49gfaf8c85256a1" version="2">Decorated Cloth Greaves F with Sandals B</content>
+  <content contentuid="h813dad37gb16fg0e25ga91dg09d719f5834e" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="he657068fgb4c1gd9a8g53bdg7643fed93aae" version="2">Decorated Cloth Greaves F with Slippers A</content>
+  <content contentuid="h9d3ba551ge597g6f8fg59e1gcdacc9df543b" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h17129b00g1bc9gd4e8g9e0ag019f563b3192" version="2">Decorated Cloth Greaves F with Slippers B</content>
+  <content contentuid="hb2238c38g84f2ge423gf505g3763a94ad1a4" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h5d6d6aa9gd8d4g6f6ag991dgcbda3aa084b1" version="3">Decorated Cloth Greaves G with Cloth Paw Wraps A</content>
+  <content contentuid="hfcb5934agefb2g309eg3b44g28471fb77430" version="3">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h3f188cdfg7119ga054g97edgeaf43c706c39" version="1">Decorated Cloth Greaves G with Cloth Paw Wraps B</content>
+  <content contentuid="h0d6933d7gaf33g7270g9ef7g5ad38a9c79cd" version="1">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h755946a8g5e46g8b35gf393g7c179c0c7772" version="2">Decorated Cloth Greaves G with Cloth Paw Wraps B</content>
+  <content contentuid="hec38a17agffeegc3dcgf28eg34aa7390654e" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="hcf2932cbg29e5g45f2gfa81gde14cc6445da" version="2">Decorated Cloth Greaves G with Leather Paw Wraps</content>
+  <content contentuid="h254c519dg5235gb0c6g5d10geb64d543aa34" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h7705df04g52d4g796bg1677g79c526346d79" version="2">Decorated Cloth Greaves G with Leather Paw Wraps with Sandals A</content>
+  <content contentuid="h9130fcb9ge86fg70d4g9b9fg9f2fc9eaf2a7" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h3fac4092ge437gb65fgca46g8aa297ef2e0a" version="2">Decorated Cloth Greaves G with Leather Paw Wraps with Sandals B</content>
+  <content contentuid="h1b23f587gbb55ga65cg920fg1d9e55f9f304" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h3de071f6gc112g7b30g38c3g149dd7a4580b" version="2">Decorated Cloth Greaves G with Sandals A</content>
+  <content contentuid="h9a767a78ga79cgea14g4d25g964a45e2db65" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h12b5ea94g25f1ge388gaedbge8cefd74cbec" version="2">Decorated Cloth Greaves G with Sandals B</content>
+  <content contentuid="he56a7411g5d43g2087gcfb3g9a7aabb738ca" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h2b440e7bg29c8g29dfgce1dgaeae4ad14985" version="2">Decorated Cloth Greaves G with Slippers A</content>
+  <content contentuid="h19c75d9bg1593g39bagcb0eg2c093473f45e" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h158b7107g2c47gceefg27a6ge7fc44c55d5f" version="2">Decorated Cloth Greaves G with Slippers B</content>
+  <content contentuid="hd3ecff6cg30f9g9f67gc914g93424cf3a382" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h1b38cc20gfdafge4b7g1057g36140b00889e" version="4">Decorated Cloth Greaves H with Sandals A</content>
+  <content contentuid="hcefe9819g55f2ge8edg28a4gc162a65e1b38" version="4">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h59d45b22g75a1g735fg9c4fg478fadf530d5" version="2">Decorated Cloth Greaves H with Sandals B</content>
+  <content contentuid="h5c7407d1g3d42g0138g78c7gcde2d29c92dd" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h3710faa0g1f81g9830gc82fg3cebc27d129a" version="2">Decorated Cloth Greaves H with Sandals C</content>
+  <content contentuid="h3c6fb9ffgf94dg65ccg54c6ge377e1c5eee3" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="he16f02b5gbcdfg9f7eg3faag438c4ada9164" version="2">Decorated Cloth Greaves H with Slippers A</content>
+  <content contentuid="h59e6869bga1d3gbfd0g764agf7539bf3cfbf" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
+  <content contentuid="h44c35916gf3d3g9fbeg9eb5g7aa911d4d741" version="2">Decorated Cloth Greaves H with Slippers B</content>
+  <content contentuid="hc291cc27g9161g4891g66e8g484283a6cec0" version="2">These boots are well-maintained and clean, though some parts are thin from wear.</content>
 </contentList>
