@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5 
-   Fri 11/07/2025 18:02:30.95 
+   Mon 11/10/2025 20:35:58.34 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -516,7 +516,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 6:02:34 PM
+  Started : Monday, November 10, 2025 8:36:01 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Projects\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -538,9 +538,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            30701571 Bytes/sec.
-   Speed :            1756.758 MegaBytes/min.
-   Ended : Friday, November 7, 2025 6:02:34 PM
+   Speed :           214911000 Bytes/sec.
+   Speed :           12297.306 MegaBytes/min.
+   Ended : Monday, November 10, 2025 8:36:01 PM
 
  
 [DEBUG] Counting source files 
@@ -566,7 +566,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 6:02:35 PM
+  Started : Monday, November 10, 2025 8:36:03 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Editor\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -592,7 +592,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           337661000 Bytes/sec.
    Speed :           19321.117 MegaBytes/min.
-   Ended : Friday, November 7, 2025 6:02:35 PM
+   Ended : Monday, November 10, 2025 8:36:03 PM
 
  
 [DEBUG] Counting source files 
@@ -618,7 +618,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 6:02:37 PM
+  Started : Monday, November 10, 2025 8:36:04 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Mods\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -642,9 +642,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            50251714 Bytes/sec.
-   Speed :            2875.426 MegaBytes/min.
-   Ended : Friday, November 7, 2025 6:02:37 PM
+   Speed :           175881000 Bytes/sec.
+   Speed :           10063.991 MegaBytes/min.
+   Ended : Monday, November 10, 2025 8:36:04 PM
 
  
 [DEBUG] Counting source files 
@@ -670,7 +670,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, November 7, 2025 6:02:39 PM
+  Started : Monday, November 10, 2025 8:36:06 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
      Dest : C:\GIT_BG3\MOD_REPOS\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\Public\AkELkA_DGB_Armor_443e6d35-4d40-feb5-3a21-936ddd2711a5\
 
@@ -1146,12 +1146,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :         7         7         1         0         0         0
    Files :       459       459         0         0         0         0
    Bytes :    2.90 m    2.90 m         0         0         0         0
-   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            16478686 Bytes/sec.
-   Speed :             942.918 MegaBytes/min.
-   Ended : Friday, November 7, 2025 6:02:39 PM
+   Speed :            30793505 Bytes/sec.
+   Speed :            1762.018 MegaBytes/min.
+   Ended : Monday, November 10, 2025 8:36:07 PM
 
  
 [DEBUG] Counting source files 
